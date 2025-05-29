@@ -1,0 +1,5070 @@
+[
+  {
+    "name": "3ABN Canada",
+    "link": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8"
+  },
+  {
+    "name": "3ABN Dare To Dream Network",
+    "link": "https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8"
+  },
+  {
+    "name": "3ABN English",
+    "link": "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8"
+  },
+  {
+    "name": "3ABN French",
+    "link": "https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8"
+  },
+  {
+    "name": "3ABN International",
+    "link": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8"
+  },
+  {
+    "name": "3ABN Kids",
+    "link": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
+  },
+  {
+    "name": "3ABN Latino",
+    "link": "https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8"
+  },
+  {
+    "name": "3ABN Praise Him Music Network",
+    "link": "https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8"
+  },
+  {
+    "name": "3ABN Proclaim! Network",
+    "link": "https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8"
+  },
+  {
+    "name": "4K Travel TV",
+    "link": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
+  },
+  {
+    "name": "23 ABC Bakersfield CA (KERO)",
+    "link": "https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8"
+  },
+  {
+    "name": "24 Hour Free Movies",
+    "link": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8"
+  },
+  {
+    "name": "30A Darcizzle Offshore",
+    "link": "https://30a-tv.com/darcizzle.m3u8"
+  },
+  {
+    "name": "30A Georgia Hollywood Review TV",
+    "link": "https://30a-tv.com/gh.m3u8"
+  },
+  {
+    "name": "30A Golf Kingdom",
+    "link": "https://30a-tv.com/feeds/vidaa/golf.m3u8"
+  },
+  {
+    "name": "30A Investment Pitch",
+    "link": "https://30a-tv.com/feeds/xodglobal/30atv.m3u8"
+  },
+  {
+    "name": "30A Loomered TV",
+    "link": "https://30a-tv.com/loomer.m3u8"
+  },
+  {
+    "name": "30A Luxe Life Discovered",
+    "link": "https://30a-tv.com/feeds/vidaa/luxelife.m3u8"
+  },
+  {
+    "name": "30A Music",
+    "link": "https://30a-tv.com/music.m3u8"
+  },
+  {
+    "name": "30A Ridiculous TV",
+    "link": "https://30a-tv.com/feeds/720p/63.m3u8"
+  },
+  {
+    "name": "30A Sidewalks",
+    "link": "https://30a-tv.com/sidewalks.m3u8"
+  },
+  {
+    "name": "30A Television Channel",
+    "link": "https://30a-tv.com/feeds/masters/30atv.m3u8"
+  },
+  {
+    "name": "30A The Beach Show",
+    "link": "https://30a-tv.com/beachy.m3u8"
+  },
+  {
+    "name": "30A TV Classic Movies",
+    "link": "https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8"
+  },
+  {
+    "name": "30A We Love Cars",
+    "link": "https://30a-tv.com/feeds/vidaa/cars.m3u8"
+  },
+  {
+    "name": "AABC TV",
+    "link": "https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8"
+  },
+  {
+    "name": "ABC (WPLG-DT1) Miami FL",
+    "link": "https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8"
+  },
+  {
+    "name": "ABC 2 Baltimore MD (WMAR)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wmar.m3u8"
+  },
+  {
+    "name": "ABC 3 Lafayette LA (KATC)",
+    "link": "https://aegis-cloudfront-1.tubi.video/28467730-4b65-4c85-8151-4c7d162c0896/playlist.m3u8"
+  },
+  {
+    "name": "ABC 4 Pittsburg PA (WTAE)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wtae.m3u8"
+  },
+  {
+    "name": "ABC 4 Seattle WA (KOMO-TV)",
+    "link": "https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8"
+  },
+  {
+    "name": "ABC 5 Boston MA (WCVB)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wcvb.m3u8"
+  },
+  {
+    "name": "ABC 5 Cleveland OH (WEWS)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wews2.m3u8"
+  },
+  {
+    "name": "ABC 5 Oklahoma City OK (KOCO)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-koco.m3u8"
+  },
+  {
+    "name": "ABC 6 Boise ID (KIVI)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-kivi.m3u8"
+  },
+  {
+    "name": "ABC 6 Indianapolis IN (WRTV)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wrtv.m3u8"
+  },
+  {
+    "name": "ABC 7 Albuquerque NM (KOAT)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-koat.m3u8"
+  },
+  {
+    "name": "ABC 7 Bay Area and San Francisco News (KGO-DT1)",
+    "link": "https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/kgo_24x7_news.m3u8"
+  },
+  {
+    "name": "ABC 7 Buffalo NY (WKBW)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wkbw.m3u8"
+  },
+  {
+    "name": "ABC 7 Denver CO (KMGH)",
+    "link": "https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8"
+  },
+  {
+    "name": "ABC 7 Detroit MI (WXYZ)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wxyz2.m3u8"
+  },
+  {
+    "name": "ABC 7 Los Angeles CA (KABC-TV)",
+    "link": "https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8"
+  },
+  {
+    "name": "ABC 7 Omaha NE (KETV)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-ketv.m3u8"
+  },
+  {
+    "name": "ABC 8 Portland ME (WMTW)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wmtw.m3u8"
+  },
+  {
+    "name": "ABC 9 Orlando FL (WFTV)",
+    "link": "https://amg00327-coxmediagroup-wftvbreaking-ono-hec7b.amagi.tv/playlist/amg00327-coxmediagroup-wftvbreaking-ono/playlist.m3u8"
+  },
+  {
+    "name": "ABC 13 Las Vegas NV (KTNV)",
+    "link": "https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8"
+  },
+  {
+    "name": "ABC 15 Phoenix AZ (KNXV-TV)",
+    "link": "https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8"
+  },
+  {
+    "name": "ABC 25 Waco TX (KXXV)",
+    "link": "https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8"
+  },
+  {
+    "name": "ABC 28 Tampa Bay FL (WFTS)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wfts2.m3u8"
+  },
+  {
+    "name": "ABC 30 Fresno and Central Valley News (KFSN-DT1)",
+    "link": "https://content.uplynk.com/channel/ext/96195dc445894d079a91958abba8d3af/kfsn_24x7_news.m3u8"
+  },
+  {
+    "name": "ABC 40/29 Fort Smith AR (KHBS)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-khbs.m3u8"
+  },
+  {
+    "name": "ABC News",
+    "link": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+  },
+  {
+    "name": "ABC News New York NY (WABC-TV)",
+    "link": "https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8"
+  },
+  {
+    "name": "ABC Tallahassee",
+    "link": "https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8"
+  },
+  {
+    "name": "ABN Afghanistan",
+    "link": "https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8"
+  },
+  {
+    "name": "ABN Africa",
+    "link": "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8"
+  },
+  {
+    "name": "ABN Bible Movies",
+    "link": "https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8"
+  },
+  {
+    "name": "ABN China",
+    "link": "https://mediaserver.abnvideos.com/streams/abnchina.m3u8"
+  },
+  {
+    "name": "ABN Freedom of Speech",
+    "link": "https://mediaserver.abnvideos.com/streams/freedom_of_speech.m3u8"
+  },
+  {
+    "name": "ABN I AM",
+    "link": "https://mediaserver.abnvideos.com/streams/i_am_.m3u8"
+  },
+  {
+    "name": "ABN Son of God",
+    "link": "https://mediaserver.abnvideos.com/streams/son_of_god_.m3u8"
+  },
+  {
+    "name": "ABN TV India",
+    "link": "https://mediaserver.abnvideos.com/streams/abntvindia.m3u8"
+  },
+  {
+    "name": "ABN Urdu",
+    "link": "https://mediaserver.abnvideos.com/streams/abnurdu.m3u8"
+  },
+  {
+    "name": "ACCDN",
+    "link": "https://aegis-cloudfront-1.tubi.video/ce6650c2-26ea-4433-9276-8a5ebf3992cc/playlist.m3u8"
+  },
+  {
+    "name": "Access La Porte Country",
+    "link": "https://vbfast-c.viebit.com/810fe13b-a9ac-46b3-a523-5a7e90ddfd25/playlist.m3u8"
+  },
+  {
+    "name": "Access Nashua",
+    "link": "https://livestream.telvue.com/nashuanh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Access Sacramento Channel 17",
+    "link": "https://reflect-access-sacramento.cablecast.tv/live-7/live/live.m3u8"
+  },
+  {
+    "name": "Access Sacramento Channel 18",
+    "link": "https://reflect-access-sacramento.cablecast.tv/live-8/live/live.m3u8"
+  },
+  {
+    "name": "Access Tuolumne (Tuolumne County CA)",
+    "link": "https://reflect-tuolumne.cablecast.tv/live-3/live/live.m3u8"
+  },
+  {
+    "name": "AccessVision Channel 16",
+    "link": "https://livestream.telvue.com/accvision1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "AccessVision Channel 17",
+    "link": "https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "ACCN",
+    "link": "https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8"
+  },
+  {
+    "name": "AccuWeather Now",
+    "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8"
+  },
+  {
+    "name": "Ace TV",
+    "link": "https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8"
+  },
+  {
+    "name": "Ace TV (KCKS-LD3)",
+    "link": "https://cdn.igocast.com/channel3_hls/channel3_master.m3u8"
+  },
+  {
+    "name": "ACL Cornhole TV",
+    "link": "https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8"
+  },
+  {
+    "name": "Action (KCKS-LD4)",
+    "link": "https://cdn.igocast.com/channel4_hls/channel4_master.m3u8"
+  },
+  {
+    "name": "ACTV",
+    "link": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8"
+  },
+  {
+    "name": "Adventure Sports TV",
+    "link": "https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8"
+  },
+  {
+    "name": "AfroLandTV",
+    "link": "https://alt-al.otteravision.com/alt/al/al.m3u8"
+  },
+  {
+    "name": "AFV Family",
+    "link": "https://ec4a5bcc9d664b48985de6095931aaa7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_AmericasFunniestHomeVideos/playlist.m3u8"
+  },
+  {
+    "name": "AFV Family",
+    "link": "https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Aghapy Kids",
+    "link": "https://5b622f07944df.streamlock.net/aghapykids.tv/aghapykids2/playlist.m3u8"
+  },
+  {
+    "name": "Akaku 53 (Hawaii)",
+    "link": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch1/video.m3u8"
+  },
+  {
+    "name": "Akaku 54 (Hawaii)",
+    "link": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8"
+  },
+  {
+    "name": "Akaku 55 (Hawaii)",
+    "link": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8"
+  },
+  {
+    "name": "AKC TV",
+    "link": "https://broadcast.blivenyc.com/speed/broadcast/22/desktop-playlist.m3u8"
+  },
+  {
+    "name": "AKC TV Meet The Breeds",
+    "link": "https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8"
+  },
+  {
+    "name": "AKC TV Puppies 24/7",
+    "link": "https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8"
+  },
+  {
+    "name": "Al-Fady TV",
+    "link": "https://5d658d7e9f562.streamlock.net/alfadytv.tv/alfadytv.smil/playlist.m3u8"
+  },
+  {
+    "name": "Al-MahdiTV",
+    "link": "https://iptv.almahditv.com/almahditv/playlist.m3u8"
+  },
+  {
+    "name": "Alfred Hitchcock Presents",
+    "link": "https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Alhurra",
+    "link": "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master.m3u8"
+  },
+  {
+    "name": "Alien Nation",
+    "link": "https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Alkarma TV Australia",
+    "link": "https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8"
+  },
+  {
+    "name": "Alkarma TV Family",
+    "link": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8"
+  },
+  {
+    "name": "Alkarma TV Middle East",
+    "link": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8"
+  },
+  {
+    "name": "Alkarma TV North America & Canada",
+    "link": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8"
+  },
+  {
+    "name": "Alkarma TV Praise",
+    "link": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8"
+  },
+  {
+    "name": "Alkarma TV Talmaza (Discipleship)",
+    "link": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8"
+  },
+  {
+    "name": "Alkarma TV Youth & English",
+    "link": "https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8"
+  },
+  {
+    "name": "Alkerazatv",
+    "link": "https://hwlive.streamingmediahosting.com/14221-live/0_ahgiewbd/playlist.m3u8"
+  },
+  {
+    "name": "Almagd TV Middle East",
+    "link": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8"
+  },
+  {
+    "name": "Almagd TV North America",
+    "link": "https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8"
+  },
+  {
+    "name": "Always Funny Videos",
+    "link": "https://a-cdn.klowdtv.com/live3/alwaysfunny_720p/playlist.m3u8"
+  },
+  {
+    "name": "AMC",
+    "link": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8"
+  },
+  {
+    "name": "AMC All Weddings",
+    "link": "https://d85lu9l3axp7b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49b4g6287mnav/playlist.m3u8"
+  },
+  {
+    "name": "AMC East",
+    "link": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8"
+  },
+  {
+    "name": "America's Boating Channel",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04c3a27e-c2a0-420b-8eef-7dae9ab93056/manifest.m3u8"
+  },
+  {
+    "name": "America's Voice",
+    "link": "https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8"
+  },
+  {
+    "name": "American Crimes",
+    "link": "https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "American Ninja Warrior",
+    "link": "https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "American Pickers Channel",
+    "link": "https://apollo.production-public.tubi.io/live/ac-american-pickers.m3u8"
+  },
+  {
+    "name": "Americas Test Kitchen",
+    "link": "https://apollo.production-public.tubi.io/live/ac-americas-test-kitchen2.m3u8"
+  },
+  {
+    "name": "AMG TV",
+    "link": "https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8"
+  },
+  {
+    "name": "Amga TV",
+    "link": "https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8"
+  },
+  {
+    "name": "Anger Management Channel",
+    "link": "https://apollo.production-public.tubi.io/live/ac-anger-management2.m3u8"
+  },
+  {
+    "name": "Anger Management en Espanol",
+    "link": "https://livetv-fa.tubi.video/anger-management-espanol2/playlist.m3u8"
+  },
+  {
+    "name": "Antenna TV",
+    "link": "https://fl3.moveonjoy.com/Antenna_TV/index.m3u8"
+  },
+  {
+    "name": "Antiques Road Trip",
+    "link": "https://amg02333-pbs-amg02333c9-firetv-us-4249.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Antiques Roadshow UK",
+    "link": "https://bbc-antiquesroadshowuk-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Arab Heritage",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5dc4c2f-e3ec-488a-9458-9287014fba16/manifest.m3u8"
+  },
+  {
+    "name": "Are We There Yet?",
+    "link": "https://apollo.production-public.tubi.io/live/ac-are-we-there-yet2.m3u8"
+  },
+  {
+    "name": "ARTN TV",
+    "link": "https://streamer1.connectto.com/ARTN_mobile/index.m3u8"
+  },
+  {
+    "name": "Aspire",
+    "link": "https://fl3.moveonjoy.com/Aspire/index.m3u8"
+  },
+  {
+    "name": "At Home with Family Handyman",
+    "link": "https://linear-458.frequency.stream/dist/xumo/458/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Atlanta's 57 WATC 57.1",
+    "link": "https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8"
+  },
+  {
+    "name": "Atlanta's 57 WATC TOO 57.2",
+    "link": "https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8"
+  },
+  {
+    "name": "ATVSat",
+    "link": "https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8"
+  },
+  {
+    "name": "AuroraTV (Aurora CO)",
+    "link": "https://reflect-aurora.cablecast.tv/live-8/live/live.m3u8"
+  },
+  {
+    "name": "Automotion",
+    "link": "https://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/master.m3u8"
+  },
+  {
+    "name": "Avang TV",
+    "link": "https://hls.avang.live/hls/stream.m3u8"
+  },
+  {
+    "name": "AWE",
+    "link": "https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8"
+  },
+  {
+    "name": "AWE Encore",
+    "link": "https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8"
+  },
+  {
+    "name": "AXS TV",
+    "link": "https://fl3.moveonjoy.com/Axs_TV/index.m3u8"
+  },
+  {
+    "name": "Baby Shark TV",
+    "link": "https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "BabyFirst",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8"
+  },
+  {
+    "name": "BabyFirst Espanol",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8"
+  },
+  {
+    "name": "Backstage",
+    "link": "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Bad Girls Club",
+    "link": "https://xumo-xumoent-vc-118-jed5p.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Bang Bang TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8"
+  },
+  {
+    "name": "Banning CityTV (Banning CA)",
+    "link": "https://vbfast-c.viebit.com/072e341f-100d-4da1-9c18-65370ebf35c6/playlist.m3u8"
+  },
+  {
+    "name": "Baywatch",
+    "link": "https://amg00145-amg00145c2-rakuten-us-5323.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Baywatch",
+    "link": "https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8"
+  },
+  {
+    "name": "BBC America East",
+    "link": "https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8"
+  },
+  {
+    "name": "BBC Doctor Who",
+    "link": "https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "BBC Doctor Who Classic",
+    "link": "https://bbc-classicdrwho-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "BBC Impossible",
+    "link": "https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "BBC Silent Witness New Tricks",
+    "link": "https://aegis-cloudfront-1.tubi.video/3723e418-8627-4a29-96fd-bcfebfccb004/playlist.m3u8"
+  },
+  {
+    "name": "BBC Top Gear",
+    "link": "https://amg00793-amg00793c5-firetv-us-4068.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "BBC Top Gear",
+    "link": "https://apollo.production-public.tubi.io/live/ac-bbc-top-gear2.m3u8"
+  },
+  {
+    "name": "BBC Top Gear",
+    "link": "https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8"
+  },
+  {
+    "name": "Beach TV Florida & Alabama",
+    "link": "https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8"
+  },
+  {
+    "name": "Beach TV Key West & Florida Keys",
+    "link": "https://5ed325193d4e1.streamlock.net:444/LiveTV/KTVHD/playlist.m3u8"
+  },
+  {
+    "name": "Beach TV Myrtle Beach & The Grand Strand",
+    "link": "https://5ed325193d4e1.streamlock.net:444/LiveTV/MTVHD/playlist.m3u8"
+  },
+  {
+    "name": "Beach TV Panama City",
+    "link": "https://5ed325193d4e1.streamlock.net:444/LiveTV/BTVHD/playlist.m3u8"
+  },
+  {
+    "name": "BeIN SPORTS XTRA",
+    "link": "https://apollo.production-public.tubi.io/live/ac-bein.m3u8"
+  },
+  {
+    "name": "BeIN SPORTS XTRA en Espanol",
+    "link": "https://bein-esp-klowdtv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "BEK TV News",
+    "link": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8"
+  },
+  {
+    "name": "BEK TV Sports West",
+    "link": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8"
+  },
+  {
+    "name": "Beond TV",
+    "link": "https://amg01681-beondtv-amg01681c1-klowdtv-us-1826.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-klowdtvus/playlist.m3u8"
+  },
+  {
+    "name": "Best Action TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8"
+  },
+  {
+    "name": "Best Drama TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8"
+  },
+  {
+    "name": "Best Thriller TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8"
+  },
+  {
+    "name": "BET East",
+    "link": "https://fl3.moveonjoy.com/BET_EAST/index.m3u8"
+  },
+  {
+    "name": "BET Gospel",
+    "link": "https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8"
+  },
+  {
+    "name": "BET Her East",
+    "link": "https://fl3.moveonjoy.com/BET_HER/index.m3u8"
+  },
+  {
+    "name": "BET Jams",
+    "link": "https://fl3.moveonjoy.com/BET_Jams/index.m3u8"
+  },
+  {
+    "name": "BET Soul",
+    "link": "https://fl3.moveonjoy.com/BET_SOUL/index.m3u8"
+  },
+  {
+    "name": "Better Health TV",
+    "link": "https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8"
+  },
+  {
+    "name": "Better Life Nature Channel",
+    "link": "https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8"
+  },
+  {
+    "name": "Better Life TV",
+    "link": "https://tgn.bozztv.com/betterlife/betterlife/betterlife/index.m3u8"
+  },
+  {
+    "name": "Beverly Hills Television 10",
+    "link": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8"
+  },
+  {
+    "name": "Beverly Hills Television 35",
+    "link": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8"
+  },
+  {
+    "name": "Big 12 Studios",
+    "link": "https://aegis-cloudfront-1.tubi.video/d61265ac-4c98-4243-8e23-31fff4d399e1/playlist.m3u8"
+  },
+  {
+    "name": "Big 12 Studios",
+    "link": "https://amg01258-raycom-amg01258c7-xumo-us-5514.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Big Ten Network",
+    "link": "https://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8"
+  },
+  {
+    "name": "Billiard TV",
+    "link": "https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8"
+  },
+  {
+    "name": "Billiards+",
+    "link": "https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8"
+  },
+  {
+    "name": "Binge",
+    "link": "https://videostack1.cdnstream1.com:1936/binge-tv/binge-tv/playlist.m3u8"
+  },
+  {
+    "name": "Biz Talk Today TV",
+    "link": "https://d3htp73xsa9p15.cloudfront.net/scheduler/scheduleMaster/445.m3u8"
+  },
+  {
+    "name": "Biz TV",
+    "link": "https://thegateway.app/BizAndYou/BizTV/playlist.m3u8"
+  },
+  {
+    "name": "Black News Channel",
+    "link": "https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Bleav Football",
+    "link": "https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Bloomberg Quicktake",
+    "link": "https://bloomberg-quicktake-2-eu.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Bloomberg TV US",
+    "link": "https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8"
+  },
+  {
+    "name": "Bloomfield Access Government TV",
+    "link": "https://reflect-batv.cablecast.tv/live-3/live/live.m3u8"
+  },
+  {
+    "name": "Bloomfield Access TV Channel 5",
+    "link": "https://reflect-batv.cablecast.tv/live-5/live/live.m3u8"
+  },
+  {
+    "name": "Blues TV",
+    "link": "https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8"
+  },
+  {
+    "name": "BMC-HD TV",
+    "link": "https://livestream.telvue.com/belmontmedia4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Bolton Community Voice Channel (CVC) Education (Bolton CT)",
+    "link": "https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch2/video.m3u8"
+  },
+  {
+    "name": "Bolton Community Voice Channel (CVC) Government (Bolton CT)",
+    "link": "https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch3/video.m3u8"
+  },
+  {
+    "name": "Bolton Community Voice Channel (CVC) Public (Bolton CT)",
+    "link": "https://s3-us-west-2.amazonaws.com/bolton.castus-vod/live/ch1/video.m3u8"
+  },
+  {
+    "name": "bon app\u00e9tit",
+    "link": "https://bonappetit-samsung.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Bounce",
+    "link": "https://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8"
+  },
+  {
+    "name": "Bounce XL",
+    "link": "https://d37v4ie0vq884e.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ujoygpbfraxho/bounce_xl.m3u8"
+  },
+  {
+    "name": "Boxing TV",
+    "link": "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8"
+  },
+  {
+    "name": "Brat TV",
+    "link": "https://brat-samsung-us.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Bravo East",
+    "link": "https://fl3.moveonjoy.com/BRAVO/index.m3u8"
+  },
+  {
+    "name": "Bravo Vault",
+    "link": "https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Brevard County Government Access TV (Brevard FL)",
+    "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/brevardfl/G2111_002/playlist.m3u8"
+  },
+  {
+    "name": "Bridezillas",
+    "link": "https://run-br-uk.otteravision.com/run/br_uk/br_uk_720.m3u8"
+  },
+  {
+    "name": "BritBox Mysteries",
+    "link": "https://aegis-cloudfront-1.tubi.video/647bc22c-e1bb-4bca-afaf-5de99cbc2286/playlist.m3u8"
+  },
+  {
+    "name": "Buena Park Television",
+    "link": "https://buenapark.cablecast.tv/live/stream-1/live.m3u8"
+  },
+  {
+    "name": "Burbank Channel",
+    "link": "https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/burbank/G0240_009/playlist.m3u8"
+  },
+  {
+    "name": "BUZZR",
+    "link": "https://apollo.production-public.tubi.io/live/ac-buzzr.m3u8"
+  },
+  {
+    "name": "BX Arts",
+    "link": "https://reflect-stream-bronxnet.cablecast.tv/live-19/live/live.m3u8"
+  },
+  {
+    "name": "BX Culture",
+    "link": "https://reflect-stream-bronxnet.cablecast.tv/live-7/live/live.m3u8"
+  },
+  {
+    "name": "BX Inform",
+    "link": "https://reflect-stream-bronxnet.cablecast.tv/live-8/live/live.m3u8"
+  },
+  {
+    "name": "BX Inspire",
+    "link": "https://reflect-stream-bronxnet.cablecast.tv/live-18/live/live.m3u8"
+  },
+  {
+    "name": "BX Omni",
+    "link": "https://reflect-stream-bronxnet.cablecast.tv/live-16/live/live.m3u8"
+  },
+  {
+    "name": "BYU TV",
+    "link": "https://amg02604-byutv-amg02604c2-firetv-us-4981.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "C-SPAN",
+    "link": "https://windnew.newkso.ru/wind/premium750/mono.m3u8"
+  },
+  {
+    "name": "Cafe Trade TV",
+    "link": "https://cafetradehls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "name": "Calabasas Channel",
+    "link": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8"
+  },
+  {
+    "name": "California Music Channel",
+    "link": "https://hwlive.streamingmediahosting.com/14215-live/0_obd393sh/playlist.m3u8"
+  },
+  {
+    "name": "Camera Smile",
+    "link": "https://bozztv.com/gusa/gusa-camerasmile/index.m3u8"
+  },
+  {
+    "name": "Camp Spoopy",
+    "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=269"
+  },
+  {
+    "name": "CampusLore",
+    "link": "https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "CAPS Media Channel 6 (Ventura CA)",
+    "link": "https://reflect-stream6-capsmedia.cablecast.tv/live/live.m3u8"
+  },
+  {
+    "name": "CAPS Media Channel 15 (Ventura CA)",
+    "link": "https://reflect-stream15-capsmedia.cablecast.tv/live/live.m3u8"
+  },
+  {
+    "name": "Carlsbad City TV Channel (Carlsbad CA)",
+    "link": "https://edge-f.swagit.com/live/carlsbadca/live-3-a-1/playlist.m3u8"
+  },
+  {
+    "name": "Cartoon Classics",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8"
+  },
+  {
+    "name": "Catholic TV",
+    "link": "https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/master.m3u8"
+  },
+  {
+    "name": "Caught in Providence",
+    "link": "https://livetv-fa.tubi.video/caught-in-providence2/playlist.m3u8"
+  },
+  {
+    "name": "CBN Espa\u00f1ol",
+    "link": "https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8"
+  },
+  {
+    "name": "CBN Family",
+    "link": "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8"
+  },
+  {
+    "name": "CBN News National",
+    "link": "https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8"
+  },
+  {
+    "name": "CBS 2 Billings MT (KTVQ)",
+    "link": "https://aegis-cloudfront-1.tubi.video/16dca551-7e18-4599-b235-395d5044099b/playlist.m3u8"
+  },
+  {
+    "name": "CBS 3 Great Falls MT (KRTV)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-krtv.m3u8"
+  },
+  {
+    "name": "CBS 3 Norfolk VA (WTKR)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wtkr.m3u8"
+  },
+  {
+    "name": "CBS 3 Omaha NE (KMTV-TV)",
+    "link": "https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8"
+  },
+  {
+    "name": "CBS 5 Nashville TN (WTVF)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wtvf2.m3u8"
+  },
+  {
+    "name": "CBS 6 Richmond VA (WTVR)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wtvr.m3u8"
+  },
+  {
+    "name": "CBS 7 Bozeman MT (KBZK)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-kbzk.m3u8"
+  },
+  {
+    "name": "CBS 8 Des Moines IA (KCCI)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-kcci.m3u8"
+  },
+  {
+    "name": "CBS 8 Missoula MT (KPAX)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-kpax.m3u8"
+  },
+  {
+    "name": "CBS 32 Louisville KY (WLKY)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wlky.m3u8"
+  },
+  {
+    "name": "CBS East",
+    "link": "https://fl3.moveonjoy.com/CBS_News/index.m3u8"
+  },
+  {
+    "name": "CBS News 24/7",
+    "link": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8"
+  },
+  {
+    "name": "CBS News Baltimore",
+    "link": "https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8"
+  },
+  {
+    "name": "CBS News Bay Area",
+    "link": "https://cbsn-sf.cbsnstream.cbsnews.com/out/v1/dac63c1abb3f4a2dac9f508f44bb072a/master.m3u8"
+  },
+  {
+    "name": "CBS News Boston",
+    "link": "https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master.m3u8"
+  },
+  {
+    "name": "CBS News Chicago",
+    "link": "https://cbsn-chi.cbsnstream.cbsnews.com/out/v1/b2fc0d5715d54908adf07f97d2616646/master.m3u8"
+  },
+  {
+    "name": "CBS News Colorado",
+    "link": "https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8"
+  },
+  {
+    "name": "CBS News Detroit",
+    "link": "https://cbsn-det.cbsnstream.cbsnews.com/out/v1/169f5c001bc74fa7a179b19c20fea069/master.m3u8"
+  },
+  {
+    "name": "CBS News Los Angeles",
+    "link": "https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8"
+  },
+  {
+    "name": "CBS News Miami",
+    "link": "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8"
+  },
+  {
+    "name": "CBS News Minnesota",
+    "link": "https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8"
+  },
+  {
+    "name": "CBS News New York",
+    "link": "https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8"
+  },
+  {
+    "name": "CBS News Philadelphia",
+    "link": "https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8"
+  },
+  {
+    "name": "CBS News Pittsburgh",
+    "link": "https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8"
+  },
+  {
+    "name": "CBS News Sacramento",
+    "link": "https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8"
+  },
+  {
+    "name": "CBS News Texas",
+    "link": "https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8"
+  },
+  {
+    "name": "CBS Sports Golazo Network",
+    "link": "https://dai.google.com/linear/hls/event/GxrCGmwST0ixsrc_QgB6qw/master.m3u8"
+  },
+  {
+    "name": "CBS Sports Network USA",
+    "link": "https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+  },
+  {
+    "name": "CCX Media North Brooklyn Park MN",
+    "link": "https://reflect-ccx.cablecast.tv/live-9/live/live.m3u8"
+  },
+  {
+    "name": "Celebrity Name Game",
+    "link": "https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8"
+  },
+  {
+    "name": "Celebrity Scene TV",
+    "link": "https://bozztv.com/gusa/gusa-celebrityscene/index.m3u8"
+  },
+  {
+    "name": "Cerritos TV3",
+    "link": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/cerritos/G0010_002/playlist.m3u8"
+  },
+  {
+    "name": "CFM TV Channel 98",
+    "link": "https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8"
+  },
+  {
+    "name": "CFN Catholic Faith Network",
+    "link": "https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8"
+  },
+  {
+    "name": "Champaign Government Television (CGTV) (Champaign IL)",
+    "link": "https://reflect-champaign.cablecast.tv/live-6/live/live.m3u8"
+  },
+  {
+    "name": "Channel 11 (Scottsdale AZ)",
+    "link": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/scottsdale/G0040_007/chunklist.m3u8"
+  },
+  {
+    "name": "Channel Fight",
+    "link": "https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8"
+  },
+  {
+    "name": "Charlotte County CC-TV (Charlotte County FA)",
+    "link": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8"
+  },
+  {
+    "name": "Cheddar News",
+    "link": "https://cheddar-us.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Chef Champion",
+    "link": "https://bozztv.com/gusa/gusa-chefchampion/index.m3u8"
+  },
+  {
+    "name": "Chef Roc Show",
+    "link": "https://bozztv.com/gusa/gusa-chefrock/index.m3u8"
+  },
+  {
+    "name": "Choppertown",
+    "link": "https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Chrono",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/manifest.m3u8"
+  },
+  {
+    "name": "Chukker",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3bd726a3-0d30-491d-b5e7-e1afb6e02112/manifest.m3u8"
+  },
+  {
+    "name": "Cine en Espanol",
+    "link": "https://amg02724-somos-amg02724c1-klowdtv-us-2002.playouts.now.amagi.tv/playlist/amg02724-somosfast-cineenespanol-klowdtvus/playlist.m3u8"
+  },
+  {
+    "name": "Cine Estrella",
+    "link": "https://apollo.production-public.tubi.io/live/ac-cine-estrella.m3u8"
+  },
+  {
+    "name": "Cine Sony",
+    "link": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
+  },
+  {
+    "name": "Cinecanal",
+    "link": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/index.m3u8"
+  },
+  {
+    "name": "CineLife",
+    "link": "https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8"
+  },
+  {
+    "name": "Cinevault Classics",
+    "link": "https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Circle",
+    "link": "https://circle-samsung.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "City of Oakland (KTOP)",
+    "link": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8"
+  },
+  {
+    "name": "CityTV San Diego",
+    "link": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8"
+  },
+  {
+    "name": "Classic Arts Showcase",
+    "link": "https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8"
+  },
+  {
+    "name": "Classic Cinema",
+    "link": "https://bozztv.com/gusa/gusa-classiccinema/index.m3u8"
+  },
+  {
+    "name": "Cleo TV",
+    "link": "https://fl3.moveonjoy.com/Cleo_TV/index.m3u8"
+  },
+  {
+    "name": "Cloudflare TV",
+    "link": "https://cloudflare.tv/hls/live.m3u8"
+  },
+  {
+    "name": "Clubbing TV",
+    "link": "https://clubbingtv-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "CMT East",
+    "link": "https://fl3.moveonjoy.com/CMT/index.m3u8"
+  },
+  {
+    "name": "CNBC",
+    "link": "https://fl3.moveonjoy.com/CNBC/index.m3u8"
+  },
+  {
+    "name": "CNBC World",
+    "link": "https://fl3.moveonjoy.com/CNBC_World/index.m3u8"
+  },
+  {
+    "name": "CoastTV NBC (WRDE-LD)",
+    "link": "https://live.field59.com/wrde/wrde1/playlist.m3u8"
+  },
+  {
+    "name": "Coeur Ocean TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2240abcf-afe5-4416-9631-fa9c29b7d0e6/manifest.m3u8"
+  },
+  {
+    "name": "Cold Case Files",
+    "link": "https://apollo.production-public.tubi.io/live/ac-cold-case-files.m3u8"
+  },
+  {
+    "name": "Collier Television CTV (Naples FL)",
+    "link": "https://reflect-collier-countyboc.cablecast.tv/live-4/live/live.m3u8"
+  },
+  {
+    "name": "Colour Blind",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7e58f6fd-62bc-49bc-9ec6-2766ed521743/manifest.m3u8"
+  },
+  {
+    "name": "Comedy Central East",
+    "link": "https://fl3.moveonjoy.com/Comedy_Central/index.m3u8"
+  },
+  {
+    "name": "Comedy Dynamics",
+    "link": "https://aegis-cloudfront-1.tubi.video/427cd05d-a47b-4b16-a2fe-5e739da93966/playlist.m3u8"
+  },
+  {
+    "name": "Comedy Tadka",
+    "link": "https://streams2.sofast.tv/WiseM3U8_27/sofast/cleanhls/master.m3u8"
+  },
+  {
+    "name": "Comedy TV",
+    "link": "https://fl3.moveonjoy.com/Comedy_TV/index.m3u8"
+  },
+  {
+    "name": "Comet",
+    "link": "https://fl3.moveonjoy.com/COMET/index.m3u8"
+  },
+  {
+    "name": "Cook's Country Channel",
+    "link": "https://amg01420-amg01420c5-xumo-us-3817.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Cooking Panda",
+    "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46"
+  },
+  {
+    "name": "Cops",
+    "link": "https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Coral Gables Television (Coral Gables FL)",
+    "link": "https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/coralgables/G0937_004/playlist.m3u8"
+  },
+  {
+    "name": "Cosmos",
+    "link": "https://apollo.production-public.tubi.io/live/ac-cosmos.m3u8"
+  },
+  {
+    "name": "Costa Mesa's Municipal Access Channel CMTV 3",
+    "link": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8"
+  },
+  {
+    "name": "County News Center (CNC TV) (San Diego CA)",
+    "link": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8"
+  },
+  {
+    "name": "Court TV",
+    "link": "https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8"
+  },
+  {
+    "name": "Court TV Legendary Trials",
+    "link": "https://scripps-ctvlegendary-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Cowboy Movie Channel",
+    "link": "https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8"
+  },
+  {
+    "name": "Cozi TV",
+    "link": "https://fl3.moveonjoy.com/COZI_TV/index.m3u8"
+  },
+  {
+    "name": "Craftsy",
+    "link": "https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "CraftsyTV",
+    "link": "https://linear-492.frequency.stream/dist/xumo/492/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Crafty Panda",
+    "link": "https://bpd-cp-stirr.otteravision.com/bpd/cp/cp.m3u8"
+  },
+  {
+    "name": "CreaTV Bay Voice TV Channel 27 (San Jose CA)",
+    "link": "https://reflect-creatv.cablecast.tv/live-19/live/live.m3u8"
+  },
+  {
+    "name": "CreaTV Classrooms Channel 28 (San Jose CA)",
+    "link": "https://reflect-creatv.cablecast.tv/live-14/live/live.m3u8"
+  },
+  {
+    "name": "CreaTV Community Channel 15 (San Jose CA)",
+    "link": "https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8"
+  },
+  {
+    "name": "CreaTV The Outlet Channel 30 (San Jose CA)",
+    "link": "https://reflect-creatv.cablecast.tv/live-16/live/live.m3u8"
+  },
+  {
+    "name": "Cricket Gold",
+    "link": "https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8"
+  },
+  {
+    "name": "Crime & Justice",
+    "link": "https://linear-474.frequency.stream/dist/glewedtv/474/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Crime 360",
+    "link": "https://94a3e237.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0NyaW1lMzYwX0hMUw/playlist.m3u8"
+  },
+  {
+    "name": "Crime ThrillHer",
+    "link": "https://apollo.production-public.tubi.io/live/ac-crime-thrillher.m3u8"
+  },
+  {
+    "name": "CrimeFlix",
+    "link": "https://dgx2snzx175pa.cloudfront.net/scheduler/scheduleMaster/391.m3u8"
+  },
+  {
+    "name": "Cruz TV",
+    "link": "https://reflect-communitytv.cablecast.tv/live-4/live/live.m3u8"
+  },
+  {
+    "name": "CSat TV",
+    "link": "https://5b622f07944df.streamlock.net/csat.tv/csat.smil/playlist.m3u8"
+  },
+  {
+    "name": "CT-N Court Feed",
+    "link": "https://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8"
+  },
+  {
+    "name": "CT-N Live Stream 2",
+    "link": "https://video.ct-n.com/live/web2stream/playlist.m3u8"
+  },
+  {
+    "name": "CT-N TV Conneticut",
+    "link": "https://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8"
+  },
+  {
+    "name": "Cuisine Culture",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/34839a9b-a901-4f31-b593-07555f7937d4/manifest.m3u8"
+  },
+  {
+    "name": "Cupertino City Channel",
+    "link": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/cupertino/G0067_003/playlist.m3u8"
+  },
+  {
+    "name": "Dance Moms",
+    "link": "https://apollo.production-public.tubi.io/live/ac-dance-moms.m3u8"
+  },
+  {
+    "name": "Danger Vision",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/453971f3-855a-455e-9353-ebbb069583a4/manifest.m3u8"
+  },
+  {
+    "name": "Dark Matter TV",
+    "link": "https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Dateline 24/7",
+    "link": "https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8"
+  },
+  {
+    "name": "Daystar TV",
+    "link": "https://live20.bozztv.com/dvrfl05/gin-daystar/index.m3u8"
+  },
+  {
+    "name": "Dazn Ringside",
+    "link": "https://aegis-cloudfront-1.tubi.video/adc77f33-ab7b-4553-b886-a31d73b5be93/playlist.m3u8"
+  },
+  {
+    "name": "Dazn Womens Football",
+    "link": "https://apollo.production-public.tubi.io/live/dazn-womens-football.m3u8"
+  },
+  {
+    "name": "DC Council Channel",
+    "link": "https://video.oct.dc.gov/out/u/15_12.m3u8"
+  },
+  {
+    "name": "DC.gov Council Hearing Room 120 (Washington DC)",
+    "link": "https://video.oct.dc.gov/out/u/97_12.m3u8"
+  },
+  {
+    "name": "DC.gov DKN (Washington DC)",
+    "link": "https://video.oct.dc.gov/out/u/DKN.m3u8"
+  },
+  {
+    "name": "Deal or No Deal",
+    "link": "https://deal-or-no-deal-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Deal or No Deal",
+    "link": "https://apollo.production-public.tubi.io/live/ac-deal-or-no-deal.m3u8"
+  },
+  {
+    "name": "Def Jam",
+    "link": "https://aegis-cloudfront-1.tubi.video/b2fc97e6-b98f-42b4-be35-bd0361f1f637/playlist.m3u8"
+  },
+  {
+    "name": "Degrassi The Next Generation",
+    "link": "https://d365kok94jpr38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2xcmoue1get1c/playlist.m3u8"
+  },
+  {
+    "name": "Del Mar TV",
+    "link": "https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8"
+  },
+  {
+    "name": "Demand Africa",
+    "link": "https://demandafrica-xumo-us.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Denver 8 TV (Denver CO)",
+    "link": "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8"
+  },
+  {
+    "name": "DerryTV 17",
+    "link": "https://livestream.telvue.com/derrynh1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "DerryTV 23",
+    "link": "https://livestream.telvue.com/derrynh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Designated Survivor",
+    "link": "https://amg00353-amg00353c40-xumo-us-4839.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Didgah TV",
+    "link": "https://media.streambrothers.com:1936/8276/8276/playlist.m3u8"
+  },
+  {
+    "name": "Disney Channel East",
+    "link": "https://fl5.moveonjoy.com/DISNEY/index.m3u8"
+  },
+  {
+    "name": "Disney Junior East",
+    "link": "https://fl3.moveonjoy.com/DISNEY_JR/index.m3u8"
+  },
+  {
+    "name": "Disney XD West",
+    "link": "https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8"
+  },
+  {
+    "name": "District of Columbia Network (DCN)",
+    "link": "https://video.oct.dc.gov/out/u/DCN.m3u8"
+  },
+  {
+    "name": "Diya TV",
+    "link": "https://a-cdn.klowdtv.com/live2/diyatv_720p/playlist.m3u8"
+  },
+  {
+    "name": "Doctor Who Classic",
+    "link": "https://aegis-cloudfront-1.tubi.video/7e9ef0f5-4d13-4083-aa3f-9375e652a4c9/playlist.m3u8"
+  },
+  {
+    "name": "Docu Vision",
+    "link": "https://streams2.sofast.tv/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8"
+  },
+  {
+    "name": "Dog the Bounty Hunter",
+    "link": "https://apollo.production-public.tubi.io/live/ac-dog-the-bounty-hunter.m3u8"
+  },
+  {
+    "name": "Dog Whisperer with Cesar Millan",
+    "link": "https://amg01201-amg01201c30-cineverse-us-3100.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-cineverseus/playlist.m3u8"
+  },
+  {
+    "name": "Dog Whisperer with Cesar Millan",
+    "link": "https://amg01201-cinedigm-amg01201c30-xumo-us-2277.playouts.now.amagi.tv/cinedigm-dogwhisperer-hls/playlist.m3u8"
+  },
+  {
+    "name": "Dove Channel",
+    "link": "https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Dr. G Medical Examiner",
+    "link": "https://apollo.production-public.tubi.io/live/ac-dr-g-filmrise.m3u8"
+  },
+  {
+    "name": "Dr. Gene Scott",
+    "link": "https://wescottcc.piksel.tech/hls/live/2041478/adp/playlist.m3u8"
+  },
+  {
+    "name": "Drive In Movie Channel",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8"
+  },
+  {
+    "name": "Drone TV",
+    "link": "https://dtc192m1s5jen.cloudfront.net/scheduler/scheduleMaster/440.m3u8"
+  },
+  {
+    "name": "Duck Dynasty",
+    "link": "https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Duck Dynasty",
+    "link": "https://apollo.production-public.tubi.io/live/ac-duck-dynasty.m3u8"
+  },
+  {
+    "name": "Duck Hunting TV",
+    "link": "https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8"
+  },
+  {
+    "name": "Dungeons & Dragons Adventures",
+    "link": "https://amg00461-eone-amg00461c3-firetv-us-5211.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "E! East",
+    "link": "https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8"
+  },
+  {
+    "name": "E! Keeping Up",
+    "link": "https://xumo-xumoent-vc-117-a3ga4.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Eagle One News",
+    "link": "https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8"
+  },
+  {
+    "name": "Ebony TV",
+    "link": "https://aegis-cloudfront-1.tubi.video/22574bab-8a1f-44f4-b62f-ae2963c6a875/playlist.m3u8"
+  },
+  {
+    "name": "Ebony TV",
+    "link": "https://amg00353-lionsgatestudios-amg00353c11-xumo-us-2108.playouts.now.amagi.tv/EbonyTV-pl/playlist.m3u8"
+  },
+  {
+    "name": "EBS Cinema",
+    "link": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8"
+  },
+  {
+    "name": "EBS HD",
+    "link": "https://rpn.bozztv.com/ebstv/ebstv/index.m3u8"
+  },
+  {
+    "name": "EBS Musika",
+    "link": "https://rpn.bozztv.com/ebstv/ebsmusika/index.m3u8"
+  },
+  {
+    "name": "Edgy TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/49f275ac-7129-4492-93c0-854b3c3138f0/manifest.m3u8"
+  },
+  {
+    "name": "Edgy Urban",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/50ce2783-e0fe-405b-bfa7-349c4ff4916b/manifest.m3u8"
+  },
+  {
+    "name": "Electric Now",
+    "link": "https://elec-en.otteravision.com/elec/en/elec_en.m3u8"
+  },
+  {
+    "name": "Encore+",
+    "link": "https://streams2.sofast.tv/sofastplayout/11d7f7fd-9c12-4c8a-b1a8-e879821e2187_1000014907_HLS/master.m3u8"
+  },
+  {
+    "name": "English TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8"
+  },
+  {
+    "name": "Entertainment Tonight",
+    "link": "https://cbsta49f-cbsta49f-ms.global.ssl.fastly.net/amagi7b98-AmagiMixible/master/amagi7b98-AmagiMixible.m3u8"
+  },
+  {
+    "name": "Equus TV",
+    "link": "https://d2gwqf8gdwq1zs.cloudfront.net/scheduler/scheduleMaster/426.m3u8"
+  },
+  {
+    "name": "Escambia County TV ECTV (Escambia County FL)",
+    "link": "https://cpcdn.azureedge.net/ESCAMBIACOFLLIVE1/ESCAMBIACOFLLIVE1/playlist.m3u8"
+  },
+  {
+    "name": "Escape TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/manifest.m3u8"
+  },
+  {
+    "name": "ESPN U",
+    "link": "https://fl3.moveonjoy.com/ESPN_U/index.m3u8"
+  },
+  {
+    "name": "Estrella Games",
+    "link": "https://amg00567-amg00567c1-firetv-us-4124.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Estrella News",
+    "link": "https://estrella-news-oando.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Estrella TV",
+    "link": "https://estrellatv-oando.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Everyday Refresh",
+    "link": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8"
+  },
+  {
+    "name": "EWTN Africa Asia",
+    "link": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8"
+  },
+  {
+    "name": "EWTN Asia-Pacific",
+    "link": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8"
+  },
+  {
+    "name": "EWTN Canada",
+    "link": "https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8"
+  },
+  {
+    "name": "EWTN el Canal Cat\u00f3lico",
+    "link": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8"
+  },
+  {
+    "name": "EWTN Estados Unidos (Spanish)",
+    "link": "https://cdn3.wowza.com/1/TUI5dU5ucnUxdGFD/ZFlVeGRl/hls/live/playlist.m3u8"
+  },
+  {
+    "name": "EWTN Europe",
+    "link": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
+  },
+  {
+    "name": "EWTN United States",
+    "link": "https://cdn3.wowza.com/1/QjRzVXJtVml5SUVx/WGJRSWxz/hls/live/playlist.m3u8"
+  },
+  {
+    "name": "Extreme+",
+    "link": "https://d3p1dbb9xrkmd5.cloudfront.net/scheduler/scheduleMaster/276.m3u8"
+  },
+  {
+    "name": "Fail Army",
+    "link": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8"
+  },
+  {
+    "name": "Failarmy International",
+    "link": "https://failarmy-international-in.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "FailArmy Italy",
+    "link": "https://failarmy-international-it.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Fairfield Government Access Channel 26 (Fairfield CA)",
+    "link": "https://reflect-fairfield-ca.cablecast.tv/live-8/live/live.m3u8"
+  },
+  {
+    "name": "Family Feud Classic",
+    "link": "https://amg00145-amg00145c3-xumo-us-3802.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "FanDuel Sports Network",
+    "link": "https://fl3.moveonjoy.com/PAC_12/index.m3u8"
+  },
+  {
+    "name": "FanDuel TV",
+    "link": "https://fl3.moveonjoy.com/TVG/index.m3u8"
+  },
+  {
+    "name": "Fanduel TV Extra",
+    "link": "https://aegis-cloudfront-1.tubi.video/fdd93041-1042-41bf-9200-8f9efe38ace5/playlist.m3u8"
+  },
+  {
+    "name": "Fashion Finds",
+    "link": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8"
+  },
+  {
+    "name": "FBI Files",
+    "link": "https://apollo.production-public.tubi.io/live/ac-the-fbi-files.m3u8"
+  },
+  {
+    "name": "FC Public Media (Fort Collins CO)",
+    "link": "https://reflect-vod-fcgov.cablecast.tv/live-9/live/live.m3u8"
+  },
+  {
+    "name": "Fear Factor",
+    "link": "https://apollo.production-public.tubi.io/live/ac-fear-factor.m3u8"
+  },
+  {
+    "name": "Fernandina Beach City Meeting (Fernandina Beach FL)",
+    "link": "https://edge-f.swagit.com/live/fernandinabeachfl/live-1-a/playlist.m3u8"
+  },
+  {
+    "name": "Feva Music",
+    "link": "https://d2y0xw9ugf4if7.cloudfront.net/scheduler/scheduleMaster/417.m3u8"
+  },
+  {
+    "name": "FGTEEV",
+    "link": "https://amg00285-amg00285c3-firetv-us-6596.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Fido TV",
+    "link": "https://1123112950.rsc.cdn77.org/HLS/FIDO.m3u8"
+  },
+  {
+    "name": "Fight TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8"
+  },
+  {
+    "name": "Filmrise Black TV",
+    "link": "https://apollo.production-public.tubi.io/live/ac-filmrise-blacktv.m3u8"
+  },
+  {
+    "name": "FilmRise Black TV Canada",
+    "link": "https://apollo.production-public.tubi.io/live/ac-filmrise-blacktv-canada.m3u8"
+  },
+  {
+    "name": "Filmrise Cheaters",
+    "link": "https://apollo.production-public.tubi.io/live/ac-cheaters.m3u8"
+  },
+  {
+    "name": "Filmrise Forensic Files",
+    "link": "https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8"
+  },
+  {
+    "name": "Filmrise Horror",
+    "link": "https://apollo.production-public.tubi.io/live/ac-filmrise-horror.m3u8"
+  },
+  {
+    "name": "FilmRise Horror Canada",
+    "link": "https://apollo.production-public.tubi.io/live/ac-filmrise-horror-canada.m3u8"
+  },
+  {
+    "name": "Filmrise The Rifleman",
+    "link": "https://apollo.production-public.tubi.io/live/ac-rifleman-filmrise.m3u8"
+  },
+  {
+    "name": "Filmrise True Crime",
+    "link": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8"
+  },
+  {
+    "name": "FilmRise True Crime Canada",
+    "link": "https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime-canada.m3u8"
+  },
+  {
+    "name": "FilmRise Unsolved Mysteries",
+    "link": "https://apollo.production-public.tubi.io/live/ac-unsolved-mysteries.m3u8"
+  },
+  {
+    "name": "Filmrise World's Most Evil Killers",
+    "link": "https://apollo.production-public.tubi.io/live/ac-worlds-most-evil-killers.m3u8"
+  },
+  {
+    "name": "FITE 24/7",
+    "link": "https://d3d85c7qkywguj.cloudfront.net/scheduler/scheduleMaster/263.m3u8"
+  },
+  {
+    "name": "Flowers TV USA",
+    "link": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8"
+  },
+  {
+    "name": "FNX",
+    "link": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/kvcr/live/ch1/video.m3u8"
+  },
+  {
+    "name": "Fontana Community Television",
+    "link": "https://reflect-watchkfon-fontana.cablecast.tv/live-3/live/live.m3u8"
+  },
+  {
+    "name": "Fork & Flight",
+    "link": "https://amg00346-vizioono-forkandfligt-xumo-us.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Fort Lauderdale FLTV (Fort Lauderdale FL)",
+    "link": "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/fortlauderdale/G1118_002/playlist.m3u8"
+  },
+  {
+    "name": "Fort Pierce Live Stream (Fort Pierce FL)",
+    "link": "https://edge-f.swagit.com/live/fortpiercefl/live-1-a/playlist.m3u8"
+  },
+  {
+    "name": "FOX 2 Detroit MI (WJBK)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wjbk.m3u8"
+  },
+  {
+    "name": "FOX 2 San Francisco CA (KTVU)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-ktvu.m3u8"
+  },
+  {
+    "name": "FOX 4 Dallas / Fort Worth TX (KDFW)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-kdfw.m3u8"
+  },
+  {
+    "name": "FOX 5 Atlanta GA (WAGA-TV)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-waga.m3u8"
+  },
+  {
+    "name": "FOX 5 New York NY (WNYW)",
+    "link": "https://fl1.moveonjoy.com/FOX_EAST/index.m3u8"
+  },
+  {
+    "name": "FOX 23 Cape Girardeau MO (KBSI-DT1)",
+    "link": "https://live.field59.com/kbsi/kbsi1/playlist.m3u8"
+  },
+  {
+    "name": "FOX 25 Boston MA (WFXT)",
+    "link": "https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8"
+  },
+  {
+    "name": "FOX Business",
+    "link": "https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8"
+  },
+  {
+    "name": "Fox News Channel",
+    "link": "https://zekonew.newkso.ru/zeko/premium347/mono.m3u8"
+  },
+  {
+    "name": "Fox News Radio",
+    "link": "https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8"
+  },
+  {
+    "name": "Fox Soul",
+    "link": "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Fox Sports",
+    "link": "https://apollo.production-public.tubi.io/live/fox-sports.m3u8"
+  },
+  {
+    "name": "FOX Sports",
+    "link": "https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8"
+  },
+  {
+    "name": "Fox Sports 1",
+    "link": "https://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8"
+  },
+  {
+    "name": "Fox Sports en Espanol",
+    "link": "https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8"
+  },
+  {
+    "name": "FOX Weather",
+    "link": "https://amg01542-foxweatherllc-foxweather-rokuus-e6l7m.amagi.tv/playlist/amg01542-foxweatherllc-foxweather-rokuus/playlist.m3u8"
+  },
+  {
+    "name": "Free form East",
+    "link": "https://fl3.moveonjoy.com/FREE_FORM/index.m3u8"
+  },
+  {
+    "name": "Free Speech TV",
+    "link": "https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8"
+  },
+  {
+    "name": "Freebie TV",
+    "link": "https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8"
+  },
+  {
+    "name": "Fubo Sports Network",
+    "link": "https://apollo.production-public.tubi.io/live/ac-fubo.m3u8"
+  },
+  {
+    "name": "Fuse East",
+    "link": "https://fl3.moveonjoy.com/FUSE/index.m3u8"
+  },
+  {
+    "name": "FX East",
+    "link": "https://fl5.moveonjoy.com/FX/index.m3u8"
+  },
+  {
+    "name": "FXM East",
+    "link": "https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8"
+  },
+  {
+    "name": "FXX East",
+    "link": "https://fl3.moveonjoy.com/FXX/index.m3u8"
+  },
+  {
+    "name": "FYI East",
+    "link": "https://fl3.moveonjoy.com/FYI/index.m3u8"
+  },
+  {
+    "name": "Gainesville Community 12TV (Gainesville FL)",
+    "link": "https://lin10.isilive.ca/live/gainesville/live/index.m3u8"
+  },
+  {
+    "name": "Galveston County TV",
+    "link": "https://stream.swagit.com/live-edge/galvestontx/smil:hd-16x9-1-b/playlist.m3u8"
+  },
+  {
+    "name": "Game Show Network East",
+    "link": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8"
+  },
+  {
+    "name": "Ganj e Hozour TV",
+    "link": "https://media.parvizshahbazi.com/ganjehozour/Main_tv/playlist.m3u8"
+  },
+  {
+    "name": "Gardening with Monty Don",
+    "link": "https://all3media-gardening-with-monty-don-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Gardening With Monty Don",
+    "link": "https://apollo.production-public.tubi.io/live/ac-gardening-monty-don.m3u8"
+  },
+  {
+    "name": "Geb Tv (KBPX LD5)",
+    "link": "https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8"
+  },
+  {
+    "name": "Gem Shopping Network",
+    "link": "https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "GenB TV",
+    "link": "https://bad-badiv-stirr.otteravision.com/bad/badiv/badiv.m3u8"
+  },
+  {
+    "name": "GetTV",
+    "link": "https://fl3.moveonjoy.com/GET_TV/index.m3u8"
+  },
+  {
+    "name": "Gilroy CMAP TV Channel 17",
+    "link": "https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Gilroy CMAP TV Channel 18",
+    "link": "https://livestream.telvue.com/cmap3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Gilroy CMAP TV Channel 19",
+    "link": "https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Gilroy CMAP TV Channel 20",
+    "link": "https://livestream.telvue.com/cmap5/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Glendale TV",
+    "link": "https://reflect-gtv6-glendale.cablecast.tv/live-2/live/live.m3u8"
+  },
+  {
+    "name": "Global Fashion Channel",
+    "link": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8"
+  },
+  {
+    "name": "GlobalWorldTV",
+    "link": "https://media.streambrothers.com:1936/8052/8052/playlist.m3u8"
+  },
+  {
+    "name": "Glory Kickboxing",
+    "link": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8"
+  },
+  {
+    "name": "Go USA",
+    "link": "https://brandusa-gousa-1-in.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Go2Travel",
+    "link": "https://go2thls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "name": "Goal TV",
+    "link": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8"
+  },
+  {
+    "name": "God's Learning Channel",
+    "link": "https://2-fss-1.streamhoster.com/pl_122/200562-1176456-1/playlist.m3u8"
+  },
+  {
+    "name": "Golden Boy",
+    "link": "https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8"
+  },
+  {
+    "name": "Golden Community Television (GCO.tv) (Golden CO)",
+    "link": "https://reflect-golden-co.cablecast.tv/live-3/live/live.m3u8"
+  },
+  {
+    "name": "GoodLife 45",
+    "link": "https://2-fss-2.streamhoster.com/pl_118/201450-1248872-1/playlist.m3u8"
+  },
+  {
+    "name": "Gordon Ramsay",
+    "link": "https://apollo.production-public.tubi.io/live/ac-gordon-ramsey.m3u8"
+  },
+  {
+    "name": "Gospel Broadcasting Network (GBN)",
+    "link": "https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8"
+  },
+  {
+    "name": "Gospel Truth TV",
+    "link": "https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8"
+  },
+  {
+    "name": "GoTraveler",
+    "link": "https://amg09501-questar-amg09501c1-stirr-us-3094.playouts.now.amagi.tv/amg09501/AMG09501C1/segmented_playlist/0/35-89-3094.m3u8"
+  },
+  {
+    "name": "Great American Country",
+    "link": "https://fl3.moveonjoy.com/Great_American_Country/index.m3u8"
+  },
+  {
+    "name": "Greensboro TV (Greensboro NC)",
+    "link": "https://lin12.isilive.ca/live/greensboro/GTN/index.m3u8"
+  },
+  {
+    "name": "Grit",
+    "link": "https://fl3.moveonjoy.com/GRIT_TV/index.m3u8"
+  },
+  {
+    "name": "Grit Xtra",
+    "link": "https://livetv-fa.tubi.video/grit-extra/playlist.m3u8"
+  },
+  {
+    "name": "GVTV",
+    "link": "https://aegis-cloudfront-1.tubi.video/358eebe5-75f6-42dc-96b3-c6ddf5a46698/playlist.m3u8"
+  },
+  {
+    "name": "Haddam Killingworth High School TV (HKTV)",
+    "link": "https://reflect-hktv.cablecast.tv/live-3/live/live.m3u8"
+  },
+  {
+    "name": "Hallmark Channel East",
+    "link": "https://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8"
+  },
+  {
+    "name": "Hallmark Drama",
+    "link": "https://fl3.moveonjoy.com/HALLMARK_DRAMA/index.m3u8"
+  },
+  {
+    "name": "Hallmark en Espanol",
+    "link": "https://amg00235-amg00235c3-xumo-us-3820.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Hallmark Movies & Mysteries East",
+    "link": "https://fl3.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8"
+  },
+  {
+    "name": "Haunt TV",
+    "link": "https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Haunt TV",
+    "link": "https://aegis-cloudfront-1.tubi.video/43911d88-1ba4-4595-9b35-bf96d09efeef/playlist.m3u8"
+  },
+  {
+    "name": "Haunt TV Canada",
+    "link": "https://aegis-cloudfront-1.tubi.video/62f59fa9-7923-47ae-8c71-5446cf927f7e/playlist.m3u8"
+  },
+  {
+    "name": "HD Travel TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e58c3999-b5e1-4322-8d73-db8ebd8acb32/manifest.m3u8"
+  },
+  {
+    "name": "HeartFelt TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/74c455d4-625a-448a-8ba7-d086e6462245/manifest.m3u8"
+  },
+  {
+    "name": "Heartland",
+    "link": "https://apollo.production-public.tubi.io/live/ac-heartland.m3u8"
+  },
+  {
+    "name": "Hell's Kitchen",
+    "link": "https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Her Sphere",
+    "link": "https://aegis-cloudfront-1.tubi.video/134d66e4-9382-4f51-85a0-c47717a3b037/playlist.m3u8"
+  },
+  {
+    "name": "Heritage Tourism",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cff3309e-ded1-40dd-a6dc-e3a6d0a92d72/manifest.m3u8"
+  },
+  {
+    "name": "Heritage+",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/manifest.m3u8"
+  },
+  {
+    "name": "Hi-5",
+    "link": "https://streams2.sofast.tv/WiseM3U8_31/sofast/cleanhls/master.m3u8"
+  },
+  {
+    "name": "Hi-YAH!",
+    "link": "https://apollo.production-public.tubi.io/live/ac-hi-yah.m3u8"
+  },
+  {
+    "name": "High Vision",
+    "link": "https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8"
+  },
+  {
+    "name": "Hillsborough County TV HTV (Hillsborough County FL)",
+    "link": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/hillsboroughcounty/G2155_002/playlist.m3u8"
+  },
+  {
+    "name": "HMI PROMZ NEWS",
+    "link": "https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8"
+  },
+  {
+    "name": "Hmong TV Network",
+    "link": "https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8"
+  },
+  {
+    "name": "HollyWire",
+    "link": "https://bozztv.com/hwotta/playlist/playlist.m3u8"
+  },
+  {
+    "name": "Homeful",
+    "link": "https://aegis-cloudfront-1.tubi.video/36785f5f-4e63-4cca-a16a-c8b309af0287/playlist.m3u8"
+  },
+  {
+    "name": "Homeful",
+    "link": "https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Homerun TV",
+    "link": "https://streams2.sofast.tv/WiseM3U8_29/sofast/cleanhls/master.m3u8"
+  },
+  {
+    "name": "Homes Under Hammer",
+    "link": "https://all3media-homes-under-the-hammer-1-gb.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Hoop TV",
+    "link": "https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8"
+  },
+  {
+    "name": "Horror Machine",
+    "link": "https://naviofrequency-horrormachine-klowdtv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Horror TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8"
+  },
+  {
+    "name": "HSN",
+    "link": "https://a-cdn.klowdtv.com/live2/hsn_720p/playlist.m3u8"
+  },
+  {
+    "name": "HSN West",
+    "link": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8"
+  },
+  {
+    "name": "HSN2",
+    "link": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8"
+  },
+  {
+    "name": "HTV 1 Houston Television",
+    "link": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8"
+  },
+  {
+    "name": "HTV 2 Houston Television",
+    "link": "https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8"
+  },
+  {
+    "name": "Humor Mill",
+    "link": "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8"
+  },
+  {
+    "name": "Humraaz TV",
+    "link": "https://cdn61.liveonlineservices.com/hls/humraaz.m3u8"
+  },
+  {
+    "name": "Hunt Fish TV",
+    "link": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8"
+  },
+  {
+    "name": "Ice Road Truckers",
+    "link": "https://apollo.production-public.tubi.io/live/ac-ice-road-truckers.m3u8"
+  },
+  {
+    "name": "iHeartRadio 90s",
+    "link": "https://iheart-iheart90s-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "iHeartRadio Alternative",
+    "link": "https://iheart-iheartaltradio-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "iHeartRadio Beso",
+    "link": "https://iheart-iheartlatinohits-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "iHeartRadio Country",
+    "link": "https://iheart-iheartcountry-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "iHeartRadio Hip-Hop",
+    "link": "https://iheart-iheartthebeat-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "In the kitchen",
+    "link": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8"
+  },
+  {
+    "name": "In Touch Plus",
+    "link": "https://amg01540-apexmedia-amg01540c2-klowdtv-us-1989.playouts.now.amagi.tv/playlist/amg01540-apexmediafast-intouchplus-klowdtvus/playlist.m3u8"
+  },
+  {
+    "name": "Infamous TV",
+    "link": "https://amg01324-infamous-amg01324c1-cineverse-us-1102.playouts.now.amagi.tv/playlist/amg01324-infamousmedia-infamoustv-cineverseus/playlist.m3u8"
+  },
+  {
+    "name": "INFAST",
+    "link": "https://lifestyle-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "INFAST",
+    "link": "https://amg00861-amg00861c5-firetv-us-4727.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "InfoWars Network",
+    "link": "https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8"
+  },
+  {
+    "name": "InfoWars The Alex Jones Show",
+    "link": "https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8"
+  },
+  {
+    "name": "InfoWars The American Journal",
+    "link": "https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8"
+  },
+  {
+    "name": "InfoWars War Room With Owen Shroyer",
+    "link": "https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8"
+  },
+  {
+    "name": "Inside Crime",
+    "link": "https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "International Vietnamese Television IVTV Channel 57.16",
+    "link": "https://59d39900ebfb8.streamlock.net/8478/8478/playlist.m3u8"
+  },
+  {
+    "name": "INTRAVEL",
+    "link": "https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Investigation",
+    "link": "https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "ION",
+    "link": "https://apollo.production-public.tubi.io/live/ac-ion.m3u8"
+  },
+  {
+    "name": "ION Mystery",
+    "link": "https://aegis-cloudfront-1.tubi.video/b11b44b8-461f-4034-becb-9bb14ee45be2/playlist.m3u8"
+  },
+  {
+    "name": "ION Mystery",
+    "link": "https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8"
+  },
+  {
+    "name": "ION Mystery",
+    "link": "https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "ION Plus East",
+    "link": "https://fl3.moveonjoy.com/ION_Plus/index.m3u8"
+  },
+  {
+    "name": "IraneFarda TV",
+    "link": "https://hls.iranfarda.live/hls/stream.m3u8"
+  },
+  {
+    "name": "Irvine Community Television",
+    "link": "https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/irvine/G0016_010/playlist.m3u8"
+  },
+  {
+    "name": "It's Supernatural! Network (ISN Network)",
+    "link": "https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8"
+  },
+  {
+    "name": "ITSF",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/20a0ac30-d157-4400-8f64-3c52b37c645c/manifest.m3u8"
+  },
+  {
+    "name": "ITV Deportes",
+    "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010"
+  },
+  {
+    "name": "JBS",
+    "link": "https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8"
+  },
+  {
+    "name": "Jewelry Television Espanol",
+    "link": "https://82934cf9c8696bd2.mediapackage.us-east-1.amazonaws.com/out/v1/72b5a55e4c35445f9e742871aa0aefa2/index.m3u8"
+  },
+  {
+    "name": "Jewelry TV (KCKS-LD12)",
+    "link": "https://cdn.igocast.com/channel12_hls/channel12_master.m3u8"
+  },
+  {
+    "name": "Jewish Life Television",
+    "link": "https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8"
+  },
+  {
+    "name": "Joel Osteen Network",
+    "link": "https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Journy",
+    "link": "https://linear-291.frequency.stream/mt/ovationtv/291/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "JTV Jewelry Love",
+    "link": "https://jewelrytv-xumo.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Judge Nosey",
+    "link": "https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8"
+  },
+  {
+    "name": "Jupiter TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c7e85b21-ea01-42b4-85db-15dcfec98942/manifest.m3u8"
+  },
+  {
+    "name": "Just for Laughs",
+    "link": "https://distributionsjustepourrire-justforlaughstv-1-eu.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Just for Laughs Gags",
+    "link": "https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8"
+  },
+  {
+    "name": "Kartoon Channel",
+    "link": "https://apollo.production-public.tubi.io/live/ac-kartoon.m3u8"
+  },
+  {
+    "name": "KBEV Spectrum Channel 6 [Beverly Hills]",
+    "link": "https://s3-us-west-2.amazonaws.com/beverly-hills-high-school.castus-vod/live/ch1/video.m3u8"
+  },
+  {
+    "name": "KCAT Public Media TV",
+    "link": "https://reflect-kcat-live.cablecast.tv/live-2/live/live.m3u8"
+  },
+  {
+    "name": "KCMN-LD6",
+    "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8"
+  },
+  {
+    "name": "KCPT-DT1",
+    "link": "https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8"
+  },
+  {
+    "name": "KCTV-DT1",
+    "link": "https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8"
+  },
+  {
+    "name": "KCWE-DT1",
+    "link": "https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8"
+  },
+  {
+    "name": "Kern County Television",
+    "link": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/kern/G0169_003/playlist.m3u8"
+  },
+  {
+    "name": "Ketchup TV",
+    "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171"
+  },
+  {
+    "name": "Kiddo+",
+    "link": "https://streams2.sofast.tv/sofastplayout/8258122f-b4c0-416b-a2db-8407847f0c3c_1000015692_HLS/master.m3u8"
+  },
+  {
+    "name": "KidsFlix",
+    "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50"
+  },
+  {
+    "name": "KIRO-DT1",
+    "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8"
+  },
+  {
+    "name": "KITV 4 Island News",
+    "link": "https://fuel-streaming-prod01.fuelmedia.io/v1/sem/c4067ddc-0e67-4928-b7ec-624481f721a6.m3u8"
+  },
+  {
+    "name": "KMBC-DT1",
+    "link": "https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8"
+  },
+  {
+    "name": "KMBC-DT2",
+    "link": "https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8"
+  },
+  {
+    "name": "KMCI-DT1",
+    "link": "https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8"
+  },
+  {
+    "name": "KMCI-DT1",
+    "link": "https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8"
+  },
+  {
+    "name": "KMIZ-DT1",
+    "link": "https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8"
+  },
+  {
+    "name": "KMIZ-DT2",
+    "link": "https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8"
+  },
+  {
+    "name": "KMIZ-DT3",
+    "link": "https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8"
+  },
+  {
+    "name": "KMOV-DT1",
+    "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kmovnews4stlouis-vizious/playlist.m3u8"
+  },
+  {
+    "name": "KNBC-DT1",
+    "link": "https://amg00884-nbcuniversal-nbcla-pcr-xumo-ksnf2.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "KNLJ-DT1",
+    "link": "https://cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8"
+  },
+  {
+    "name": "KOKI-DT1",
+    "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-kokibreaking-ono/playlist.m3u8"
+  },
+  {
+    "name": "KOMU-DT1",
+    "link": "https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8"
+  },
+  {
+    "name": "KOMU-DT3",
+    "link": "https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8"
+  },
+  {
+    "name": "KPXE-DT1",
+    "link": "https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8"
+  },
+  {
+    "name": "KQFX-LD1",
+    "link": "https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8"
+  },
+  {
+    "name": "KQSL Channel 8",
+    "link": "https://uni01rtmp.tulix.tv/kqsltv/kqsltv/playlist.m3u8"
+  },
+  {
+    "name": "KRCA-TV Estrella Los Angeles",
+    "link": "https://content.uplynk.com/channel/829a8c85f9e840c6bed963856c231428.m3u8"
+  },
+  {
+    "name": "KRCG-DT1",
+    "link": "https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8"
+  },
+  {
+    "name": "KRCG-DT2",
+    "link": "https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8"
+  },
+  {
+    "name": "KRIS-DT1",
+    "link": "https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8"
+  },
+  {
+    "name": "KSAT-DT2",
+    "link": "https://fl3.moveonjoy.com/ME_TV/index.m3u8"
+  },
+  {
+    "name": "KSBY News San Louis Obispo CA",
+    "link": "https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8"
+  },
+  {
+    "name": "KSCE Vida Cristiana",
+    "link": "https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8"
+  },
+  {
+    "name": "KSHB 41 (Kansas City MO)",
+    "link": "https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8"
+  },
+  {
+    "name": "KSHB-DT2",
+    "link": "https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8"
+  },
+  {
+    "name": "KSHB-DT3",
+    "link": "https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8"
+  },
+  {
+    "name": "KSMO-DT1",
+    "link": "https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8"
+  },
+  {
+    "name": "KTIV-DT6",
+    "link": "https://txc4-swbb-mn.fibernet-tv.com/KABY-CW-2364/index.m3u8"
+  },
+  {
+    "name": "KTRK TV ABC 13 News",
+    "link": "https://content.uplynk.com/channel/ext/1efe3bfc4d1e4b5db5e5085a535b510b/ktrk_24x7_news.m3u8"
+  },
+  {
+    "name": "KTVO-DT1",
+    "link": "https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8"
+  },
+  {
+    "name": "KTVO-DT2",
+    "link": "https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8"
+  },
+  {
+    "name": "KTVO-DT3",
+    "link": "https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8"
+  },
+  {
+    "name": "Kung Fu+",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8"
+  },
+  {
+    "name": "KVVB-TV 33 Victor Valley",
+    "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8"
+  },
+  {
+    "name": "KYOU-DT2",
+    "link": "https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8"
+  },
+  {
+    "name": "KYOU-DT4",
+    "link": "https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8"
+  },
+  {
+    "name": "KYOU-DT5",
+    "link": "https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8"
+  },
+  {
+    "name": "KZTV-DT1",
+    "link": "https://content.uplynk.com/channel/d1f868588ae5476dadaeff450170a183.m3u8"
+  },
+  {
+    "name": "LA CityView 35",
+    "link": "https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8"
+  },
+  {
+    "name": "La Mega Mundial",
+    "link": "https://server40.servistreaming.com:3477/stream/play.m3u8"
+  },
+  {
+    "name": "La Que Buena Atlanta",
+    "link": "https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8"
+  },
+  {
+    "name": "Lacrosse TV",
+    "link": "https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"
+  },
+  {
+    "name": "Laff More",
+    "link": "https://scripps-laffmore-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Lakewood Channel 8 (Lakewood CO)",
+    "link": "https://live8fd.lakewood.org/live-2/live/live.m3u8"
+  },
+  {
+    "name": "Lakewood CityTV",
+    "link": "https://s3-us-west-2.amazonaws.com/lakewood.castus-vod/live/ch1/video.m3u8"
+  },
+  {
+    "name": "Lao-Thai TV",
+    "link": "https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Lassie",
+    "link": "https://xumo-xumoent-ch833-p47sj.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Latin Zone TV",
+    "link": "https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8"
+  },
+  {
+    "name": "Latino Classic TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4d419a88-a62c-496f-b8a1-984e746f8259/manifest.m3u8"
+  },
+  {
+    "name": "Latino Vibes",
+    "link": "https://amg00375-fusemedia-latinovibes-xumo-qyjhw.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "LATV",
+    "link": "https://amg00779-latv-amg00779c1-cineverse-us-1746.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-cineverseus/playlist.m3u8"
+  },
+  {
+    "name": "LATV",
+    "link": "https://amg00779-latv-amg00779c1-klowdtv-us-2135.playouts.now.amagi.tv/playlist/amg00779-latvnetworkllc-latv-klowdtvus/playlist.m3u8"
+  },
+  {
+    "name": "Law & Crime",
+    "link": "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8"
+  },
+  {
+    "name": "Leave It to Beaver",
+    "link": "https://xumo-xumoent-ch826-z0h0h.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Legend Films",
+    "link": "https://a-cdn.klowdtv.com/live3/legendfilms_720p/playlist.m3u8"
+  },
+  {
+    "name": "LHCAZTV",
+    "link": "https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/lakehavasucity/G0643_003/playlist.m3u8"
+  },
+  {
+    "name": "Life Minute",
+    "link": "https://amg01468-lifeminutetv-lifeminute-klowdtv-r4hhz.amagi.tv/playlist/amg01468-lifeminutetv-lifeminute-klowdtv/playlist.m3u8"
+  },
+  {
+    "name": "Life! Christian Broadcasting Network",
+    "link": "https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8"
+  },
+  {
+    "name": "LIFE! End Times TV",
+    "link": "https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8"
+  },
+  {
+    "name": "Lifetime East",
+    "link": "https://fl3.moveonjoy.com/LIFETIME/index.m3u8"
+  },
+  {
+    "name": "Lifetime Movies East",
+    "link": "https://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8"
+  },
+  {
+    "name": "LifevisionTV",
+    "link": "https://tgn.bozztv.com/lifevision/lifevision/index.m3u8"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations His Light (LLBN)",
+    "link": "https://brightstar-hislight-pull-secure.akamaized.net/brightstarhislight/stream.m3u8"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations His Word (LLBN)",
+    "link": "https://brightstar-hisword-pull-secure.akamaized.net/brightstarhisword/stream.m3u8"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations Smart Life Style TV (LLBN)",
+    "link": "https://brightstar-sls-pull-secure.akamaized.net/brightstarsls/stream.m3u8"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations TV Arabic (LLBN)",
+    "link": "https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations TV Chinese (LLBN)",
+    "link": "https://brightstar-chinese-pull-secure.akamaized.net/brightstarchinese/stream.m3u8"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations TV Korean (LLBN)",
+    "link": "https://brightstar-korean-pull-secure.akamaized.net/brightstarkorean/stream.m3u8"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations TV Latino (LLBN)",
+    "link": "https://brightstar-latino-pull-secure.akamaized.net/brightstarlatino/stream.m3u8"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations TV Romanian (LLBN)",
+    "link": "https://brightstar-romanian-pull-secure.akamaized.net/brightstarromanian/stream.m3u8"
+  },
+  {
+    "name": "Lighting Lives Blessing Nations TV South Asia (LLBN)",
+    "link": "https://brightstar-southasia-pull-secure.akamaized.net/brightstarsouthasia/stream.m3u8"
+  },
+  {
+    "name": "Little Guyana TV",
+    "link": "https://video1.getstreamhosting.com:1936/8122/8122/playlist.m3u8"
+  },
+  {
+    "name": "Little House on the Prairie",
+    "link": "https://xumo-xumoent-vc-121-ghge7.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Littleton 8 TV (Littleton CO)",
+    "link": "https://ch8.littletongov.org/live-2/live/live.m3u8"
+  },
+  {
+    "name": "LiveNOW from FOX",
+    "link": "https://livetv-fa.tubi.video/fox-live-now/index.m3u8"
+  },
+  {
+    "name": "Living Faith TV",
+    "link": "https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1"
+  },
+  {
+    "name": "Localish",
+    "link": "https://apollo.production-public.tubi.io/live/ac-localish.m3u8"
+  },
+  {
+    "name": "Logos TV",
+    "link": "https://5a8308add0b31.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8"
+  },
+  {
+    "name": "Logos TV English",
+    "link": "https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoseng/playlist.m3u8"
+  },
+  {
+    "name": "LOL Network",
+    "link": "https://apollo.production-public.tubi.io/live/lol-network3.m3u8"
+  },
+  {
+    "name": "LOL Standup",
+    "link": "https://apollo.production-public.tubi.io/live/lol-stand-up2.m3u8"
+  },
+  {
+    "name": "LOL TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8"
+  },
+  {
+    "name": "Lompoc TAP TV Channel 23",
+    "link": "https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Lompoc TAP TV Channel 24",
+    "link": "https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Lompoc TAP TV Channel 25",
+    "link": "https://livestream.telvue.com/lompoccmttv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Lone Star",
+    "link": "https://6b88cde9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0xvbmVTdGFyX0hMUw/playlist.m3u8"
+  },
+  {
+    "name": "Lone Star",
+    "link": "https://lonestar-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Los Angeles Local Television Channel 36",
+    "link": "https://reflect-channel36-la.cablecast.tv/live-3/live/live.m3u8"
+  },
+  {
+    "name": "Loupe 4K",
+    "link": "https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8"
+  },
+  {
+    "name": "Love 2 Hate TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/manifest.m3u8"
+  },
+  {
+    "name": "Love Nature en Espanol",
+    "link": "https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8"
+  },
+  {
+    "name": "Love The Planet",
+    "link": "https://amg01821-lovetv-amg01821c8-xumo-us-3443.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Loveland TV (Loveland CO)",
+    "link": "https://reflect-cityofloveland-co.cablecast.tv/live-3/live/live.m3u8"
+  },
+  {
+    "name": "LoveWorld USA",
+    "link": "https://cdn3.wowza.com/5/RGtVZkFxL3FOQkxX/LWU/ngrp:lwu.stream_all/playlist.m3u8"
+  },
+  {
+    "name": "Luxury Dreams TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8"
+  },
+  {
+    "name": "Mad Dog and Merrill",
+    "link": "https://bozztv.com/gusa/gusa-mwg/index.m3u8"
+  },
+  {
+    "name": "Made in Hollywood",
+    "link": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Majestad Televisi\u00f3n",
+    "link": "https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8"
+  },
+  {
+    "name": "Mama Benz TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/manifest.m3u8"
+  },
+  {
+    "name": "Manatee Schools Television MSTV (Manatee County FL)",
+    "link": "https://reflect-mcsb-vod.cablecast.tv/live-16/live/live.m3u8"
+  },
+  {
+    "name": "Martin County MCTV (Martin County FL)",
+    "link": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/martin/G0074_002/playlist.m3u8"
+  },
+  {
+    "name": "MAV Select CANADA",
+    "link": "https://d70mb4nkspm3g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vvwqo3j029lz0/playlist.m3u8"
+  },
+  {
+    "name": "MAV Select USA",
+    "link": "https://d3h07n6l1exhds.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0z2yyo4dxctc7/playlist.m3u8"
+  },
+  {
+    "name": "Maverick Black Cinema",
+    "link": "https://apollo.production-public.tubi.io/live/ac-maverick-black-cinema.m3u8"
+  },
+  {
+    "name": "MAVTV",
+    "link": "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8"
+  },
+  {
+    "name": "MBC 1 USA",
+    "link": "https://mbc-1-usa-ak.akamaized.net/out/v1/8c1ce74bfd0743aab1026ef5b2aecfa4/index.m3u8"
+  },
+  {
+    "name": "MBC 3 USA",
+    "link": "https://mbc-3-usa-ak.akamaized.net/out/v1/8bbfec9446d84c9ea0dfa34edede6db9/index.m3u8"
+  },
+  {
+    "name": "MCN6",
+    "link": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MAIN.smil/Playlist.m3u8"
+  },
+  {
+    "name": "MCN6 Arts Channel",
+    "link": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
+  },
+  {
+    "name": "MCN6 Music Channel",
+    "link": "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_MUSIC.smil/Playlist.m3u8"
+  },
+  {
+    "name": "MeatEater",
+    "link": "https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8"
+  },
+  {
+    "name": "Mercury+",
+    "link": "https://streams2.sofast.tv/sofastplayout/b7867c83-0c17-4de2-a74b-beb972c4f342_1000015693_HLS/master.m3u8"
+  },
+  {
+    "name": "MeTV",
+    "link": "https://fl3.moveonjoy.com/ME_TV/index.m3u8"
+  },
+  {
+    "name": "MGM+ East",
+    "link": "https://fl3.moveonjoy.com/EPIX/index.m3u8"
+  },
+  {
+    "name": "MGM+ Marquee",
+    "link": "https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
+  },
+  {
+    "name": "Midpen Media Center Arts Issues and Lifestyles Channel 30",
+    "link": "https://5c2974786200d.streamlock.net/live-chan30/ngrp:ch30_all/playlist.m3u8"
+  },
+  {
+    "name": "Midpen Media Center Diversity and Culture Channel 75",
+    "link": "https://5c2974786200d.streamlock.net/live-chan75/ngrp:ch75_all/playlist.m3u8"
+  },
+  {
+    "name": "Midpen Media Center Government etc Channel 26",
+    "link": "https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8"
+  },
+  {
+    "name": "Midpen Media Center Government etc Channel 29",
+    "link": "https://5c2974786200d.streamlock.net/live-chan29/ngrp:ch29_all/playlist.m3u8"
+  },
+  {
+    "name": "Midpen Media Center Youth Education and Sports Channel 28",
+    "link": "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
+  },
+  {
+    "name": "Midsomer Murders",
+    "link": "https://apollo.production-public.tubi.io/live/ac-midsomer-murders.m3u8"
+  },
+  {
+    "name": "Military History",
+    "link": "https://fl3.moveonjoy.com/Military_History/index.m3u8"
+  },
+  {
+    "name": "Millbrae Community Television",
+    "link": "https://603591da64140.streamlock.net/live/mp4:MCTVtest_aac/playlist.m3u8"
+  },
+  {
+    "name": "Million Dollar Listing Vault",
+    "link": "https://xumo-xumoent-ch838-coy7x.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Mission TV",
+    "link": "https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8"
+  },
+  {
+    "name": "MLB",
+    "link": "https://livetv-fa.tubi.video/mlb3/playlist.m3u8"
+  },
+  {
+    "name": "MLB Network",
+    "link": "https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8"
+  },
+  {
+    "name": "MMC TV USA",
+    "link": "https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/playlist.m3u8"
+  },
+  {
+    "name": "Mobile County Public Schools TV Network (MCPSS)",
+    "link": "https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8"
+  },
+  {
+    "name": "Monroe County Television MCTV (Monroe County FL)",
+    "link": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8"
+  },
+  {
+    "name": "Moorpark Government Channel",
+    "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/moorpark/G0086_003/playlist.m3u8"
+  },
+  {
+    "name": "Morro Bay Channel 20",
+    "link": "https://agp-nimble.streamguys1.com/MBCh20/MBCh20/playlist.m3u8"
+  },
+  {
+    "name": "MotoAmerica TV",
+    "link": "https://1422977263.rsc.cdn77.org/HLS/MOTOAMERICA.m3u8"
+  },
+  {
+    "name": "MotorRacing",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/manifest.m3u8"
+  },
+  {
+    "name": "MovieSphere",
+    "link": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "MovieSphere Canada",
+    "link": "https://apollo.production-public.tubi.io/live/ac-moviesphere-canada2.m3u8"
+  },
+  {
+    "name": "Mr. Beast",
+    "link": "https://apollo.production-public.tubi.io/live/ac-mr-beast.m3u8"
+  },
+  {
+    "name": "MSG",
+    "link": "https://fl3.moveonjoy.com/MSG/index.m3u8"
+  },
+  {
+    "name": "MSNBC",
+    "link": "https://windnew.newkso.ru/wind/premium327/mono.m3u8"
+  },
+  {
+    "name": "MST3K",
+    "link": "https://mst3k-roku.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "MTC",
+    "link": "https://mtchls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "name": "MTV Classic East",
+    "link": "https://fl3.moveonjoy.com/MTV_CLASSIC/index.m3u8"
+  },
+  {
+    "name": "MTV East",
+    "link": "https://fl3.moveonjoy.com/MTV/index.m3u8"
+  },
+  {
+    "name": "MTV Live",
+    "link": "https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8"
+  },
+  {
+    "name": "MTV2",
+    "link": "https://fl5.moveonjoy.com/MTV_2/index.m3u8"
+  },
+  {
+    "name": "mtvU",
+    "link": "https://fl5.moveonjoy.com/MTV_U/index.m3u8"
+  },
+  {
+    "name": "Mundo Series",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8"
+  },
+  {
+    "name": "Murder She Wrote",
+    "link": "https://xumo-xumoent-vc-119-t7wx7.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Museum TV Fast",
+    "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtv-en-plex/playlist.m3u8"
+  },
+  {
+    "name": "My Money",
+    "link": "https://d3bqd6nz14unwy.cloudfront.net/scheduler/scheduleMaster/468.m3u8"
+  },
+  {
+    "name": "MyEncinitasTV (Encinitas CA)",
+    "link": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/encinitas/G0322_002/playlist.m3u8"
+  },
+  {
+    "name": "Mystery TV",
+    "link": "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Mythbusters",
+    "link": "https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/index.m3u8"
+  },
+  {
+    "name": "MyTime Movie Network",
+    "link": "https://livetv-fa.tubi.video/my-time/playlist.m3u8"
+  },
+  {
+    "name": "Nago TV",
+    "link": "https://lakay.online/public/nagotv/index.fmp4.m3u8"
+  },
+  {
+    "name": "Naija Gold Reels",
+    "link": "https://streams2.sofast.tv/WiseM3U8_11/sofast/cleanhls/master.m3u8"
+  },
+  {
+    "name": "Napa Valley TV Education Access Channel 27",
+    "link": "https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_003/playlist.m3u8"
+  },
+  {
+    "name": "Napa Valley TV Public Access Channel 28",
+    "link": "https://cdn3.wowza.com/5/WDIrTW5sM1JEY1NN/napatv/G0360_004/playlist.m3u8"
+  },
+  {
+    "name": "Nash Bridges",
+    "link": "https://aegis-cloudfront-1.tubi.video/9d75d44d-30f4-4b50-8a54-1d03c21bb052/playlist.m3u8"
+  },
+  {
+    "name": "Nash Bridges Channel",
+    "link": "https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Nashua ETV Channel 22 Nashua NH",
+    "link": "https://livestream.telvue.com/nashuanh2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Nashua GTV Channel 16 Nashua NH",
+    "link": "https://livestream.telvue.com/nashuanh3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "National Geographic East",
+    "link": "https://fl3.moveonjoy.com/National_Geographic/index.m3u8"
+  },
+  {
+    "name": "National Geographic Wild East",
+    "link": "https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+  },
+  {
+    "name": "Naturaleza Salvaje",
+    "link": "https://amg00376-amg00376c21-firetv-us-3433.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBA TV",
+    "link": "https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC 2 Orlando FL (WESH)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wesh.m3u8"
+  },
+  {
+    "name": "NBC 2 Tulsa OK (KJRH)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-kjrh.m3u8"
+  },
+  {
+    "name": "NBC 3 Sacramento CA (KCRA)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-kcra.m3u8"
+  },
+  {
+    "name": "NBC 4 Greenville SC (WYFF)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wyff.m3u8"
+  },
+  {
+    "name": "NBC 4 Milwaukee WI (WTMJ)",
+    "link": "https://aegis-cloudfront-1.tubi.video/558113f6-9f55-41d3-83e0-8d6102a9f0ea/playlist.m3u8"
+  },
+  {
+    "name": "NBC 4 Washington DC (WRC)",
+    "link": "https://amg00884-nbcuniversal-wanews-xumo-oamde.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC 5 Cincinnati OH (WLWT)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wlwt.m3u8"
+  },
+  {
+    "name": "NBC 5 Colorado Springs CO (KOAA)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-koaa.m3u8"
+  },
+  {
+    "name": "NBC 5 Dallas-Fort Worth TX (KXAS)",
+    "link": "https://amg00884-nbcuniversal-dfwnews-xumo-r5in7.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC 5 Plattsburgh NY (WPTZ)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wptz.m3u8"
+  },
+  {
+    "name": "NBC 6 Miami FL (WTVJ)",
+    "link": "https://amg00884-nbcuniversal-nbcnsf-pcr-xumo-78jf2.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC 6 New Orleans LA (WDSU)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wdsu.m3u8"
+  },
+  {
+    "name": "NBC 8 Lancaster PA (WGAL)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wgal.m3u8"
+  },
+  {
+    "name": "NBC 8 Lima OH (WLIO-DT1)",
+    "link": "https://live.field59.com/wlio/wlio1/playlist.m3u8"
+  },
+  {
+    "name": "NBC 8 Salinas CA (KSBW)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-ksbw.m3u8"
+  },
+  {
+    "name": "NBC 10 Boston NH (WBTS)",
+    "link": "https://amg00884-nbcuniversal-nbcbos-pcr-xumo-9xxph.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC 10 Philadelphia PA (WCAU)",
+    "link": "https://amg00884-nbcuniversal-nbcpa-pcr-xumo-q61uw.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC 10 Providence MA",
+    "link": "https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8"
+  },
+  {
+    "name": "NBC 11 Baltimore MD (WBAL)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wbal.m3u8"
+  },
+  {
+    "name": "NBC 11 San Jose CA (KNTV)",
+    "link": "https://amg00884-nbcuniversal-nbcsf-pcr-xumo-xetsp.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC 12 Helena MT (KTVH)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-ktvh.m3u8"
+  },
+  {
+    "name": "NBC 12 Winston-Salem NC (WXII)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wxii.m3u8"
+  },
+  {
+    "name": "NBC 13 Birmingham Al (WVTM)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wvtm.m3u8"
+  },
+  {
+    "name": "NBC 18 Lexington KY (WLEX)",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wlex.m3u8"
+  },
+  {
+    "name": "NBC 26 Green Bay WI (WGBA-DT1)",
+    "link": "https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8"
+  },
+  {
+    "name": "NBC 30 West Hartford CT (WVIT)",
+    "link": "https://amg00884-nbcuniversal-ctnews-xumo-cdfzg.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC Boston News",
+    "link": "https://nbcu-nbcbostonnews-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC Chicago News",
+    "link": "https://nbcu-nbcchicagonews-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC Chicago News 24/7",
+    "link": "https://amg00884-nbcuniversal-nbcch-pcr-xumo-e9lcl.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC Comedy Vault",
+    "link": "https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "NBC Connecticut News",
+    "link": "https://nbcu-nbcconnecticutnews-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC Dallas Fortworth News",
+    "link": "https://nbcu-nbcdallasfortworthnews-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC Los Angeles News",
+    "link": "https://nbcu-nbclosangelesnews-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC New York News",
+    "link": "https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC News Now",
+    "link": "https://livetv-fa.tubi.video/nbc-news-now/master.m3u8"
+  },
+  {
+    "name": "NBC Philadelphia News",
+    "link": "https://nbcu-nbcphiladelphianews-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC San Diego News",
+    "link": "https://nbcu-nbcsandiegonews-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC San Francisco News",
+    "link": "https://nbcu-nbcsanfrancisconews-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC South Florida News",
+    "link": "https://nbcu-nbcsouthfloridanews-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC Sports",
+    "link": "https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "NBC Washington News",
+    "link": "https://nbcu-nbcwashingtonnews-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBC West (San Diego)",
+    "link": "https://amg00884-nbcuniversal-nbcsd-pcr-xumo-o4a18.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBCLX",
+    "link": "https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8"
+  },
+  {
+    "name": "NBCU Telemundo Florida",
+    "link": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBCU Telemundo North East",
+    "link": "https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBCU Telemundo Texas",
+    "link": "https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "NBCU Telemundo West",
+    "link": "https://nbcu-telemundowest-firetv.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "New Canaan Television 79 (NCTV79) (New Canaan CT)",
+    "link": "https://livestream.telvue.com/nctv791/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "NEW K-POP",
+    "link": "https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "NEW K.MOVIES",
+    "link": "https://ec3b4b7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X05FV0tNT1ZJRVNfSExT/playlist.m3u8"
+  },
+  {
+    "name": "Newport Beach Television",
+    "link": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/newportbeach/G0064_003/playlist.m3u8"
+  },
+  {
+    "name": "News 12 New York",
+    "link": "https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/playlist.m3u8"
+  },
+  {
+    "name": "Newsmax 2",
+    "link": "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Newsmax TV",
+    "link": "https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8"
+  },
+  {
+    "name": "NewsNation East",
+    "link": "https://fl3.moveonjoy.com/NEWS_NATION/index.m3u8"
+  },
+  {
+    "name": "NewsNet",
+    "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8"
+  },
+  {
+    "name": "NewsNet (KCKS-LD2)",
+    "link": "https://cdn.igocast.com/channel2_hls/channel2_master.m3u8"
+  },
+  {
+    "name": "Newsy",
+    "link": "https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8"
+  },
+  {
+    "name": "NFL",
+    "link": "https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8"
+  },
+  {
+    "name": "NFL Network",
+    "link": "https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8"
+  },
+  {
+    "name": "NHL",
+    "link": "https://apollo.production-public.tubi.io/live/ac-nhl.m3u8"
+  },
+  {
+    "name": "Nick Jr. East",
+    "link": "https://fl5.moveonjoy.com/NICK_JR/index.m3u8"
+  },
+  {
+    "name": "Nick Music",
+    "link": "https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8"
+  },
+  {
+    "name": "NickToons",
+    "link": "https://fl1.moveonjoy.com/NICKTOONS/index.m3u8"
+  },
+  {
+    "name": "Ninja Kidz TV",
+    "link": "https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Nitro Circus",
+    "link": "https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Nitro TV",
+    "link": "https://streams2.sofast.tv/sofastplayout/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/master.m3u8"
+  },
+  {
+    "name": "North Miami Beach TV (NMBTV) (North Miami Beach FL)",
+    "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/citynmb/G2044_002/playlist.m3u8"
+  },
+  {
+    "name": "Nosey",
+    "link": "https://aegis-cloudfront-1.tubi.video/78c30bbd-f60c-4ee6-9922-ad7aa63ca8ec/playlist.m3u8"
+  },
+  {
+    "name": "Nosey Confess",
+    "link": "https://nosey-confessbynosey-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Novelisima",
+    "link": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"
+  },
+  {
+    "name": "NRB TV",
+    "link": "https://uni6rtmp.tulix.tv/nrbnetwork/myStream.sdp/playlist.m3u8"
+  },
+  {
+    "name": "NTD TV",
+    "link": "https://amg17596-ntdtv-amg17596c1-stirr-us-4738.playouts.now.amagi.tv/ntd.m3u8"
+  },
+  {
+    "name": "NTD TV UK (New Tang Dynasty Television)",
+    "link": "https://ntd02.akamaized.net/NTD-UK/index.m3u8"
+  },
+  {
+    "name": "NYXT",
+    "link": "https://reflect-stream-bronxnet.cablecast.tv/live-10/live/live.m3u8"
+  },
+  {
+    "name": "OAN",
+    "link": "https://oneamericanews-vizio.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "OAN Encore",
+    "link": "https://a-cdn.herringnetwork.com/affiliate/oane/playlist.m3u8"
+  },
+  {
+    "name": "Olelo Community Media Channel 49",
+    "link": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_009/playlist.m3u8"
+  },
+  {
+    "name": "Olelo Community Media Channel 53",
+    "link": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_011/playlist.m3u8"
+  },
+  {
+    "name": "Olelo Community Media Channel 54",
+    "link": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_012/playlist.m3u8"
+  },
+  {
+    "name": "Olelo Community Media Channel 55",
+    "link": "https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/olelo/G0125_013/playlist.m3u8"
+  },
+  {
+    "name": "Omid Javedan",
+    "link": "https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8"
+  },
+  {
+    "name": "Omstars",
+    "link": "https://d1too6m5v9oyet.cloudfront.net/scheduler/scheduleMaster/281.m3u8"
+  },
+  {
+    "name": "Ontario Public Access Channel",
+    "link": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/ontarioca/G2446_002/playlist.m3u8"
+  },
+  {
+    "name": "ONTV4U",
+    "link": "https://stirr.b-cdn.net/stirr/playlist.m3u8"
+  },
+  {
+    "name": "Opci\u00f3n TV",
+    "link": "https://5790d294af2dc.streamlock.net/8066/8066/playlist.m3u8"
+  },
+  {
+    "name": "Orange Government Access TV (Orange CT)",
+    "link": "https://livestream.telvue.com/ogat1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Orange TV3",
+    "link": "https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/cityoforange/G1025_004/playlist.m3u8"
+  },
+  {
+    "name": "Our Vinyl",
+    "link": "https://d29rvfbwwm1vce.cloudfront.net/scheduler/scheduleMaster/459.m3u8"
+  },
+  {
+    "name": "Outdoor America",
+    "link": "https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Outdoor Channel",
+    "link": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8"
+  },
+  {
+    "name": "Outer Vision",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea1ad8da-7c74-4dc3-999f-15088a0d942a/manifest.m3u8"
+  },
+  {
+    "name": "OuterMax East",
+    "link": "https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8"
+  },
+  {
+    "name": "Outersphere",
+    "link": "https://livetv-fa.tubi.video/outersphere2/playlist.m3u8"
+  },
+  {
+    "name": "OuterSphere",
+    "link": "https://amg00353-amg00353c17-xumo-us-2554.playouts.now.amagi.tv/lionsgate-otspr-xumo/playlist.m3u8"
+  },
+  {
+    "name": "Outside TV",
+    "link": "https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8"
+  },
+  {
+    "name": "Ovation",
+    "link": "https://fl3.moveonjoy.com/Ovation/index.m3u8"
+  },
+  {
+    "name": "Oxygen East",
+    "link": "https://fl3.moveonjoy.com/OXYGEN/index.m3u8"
+  },
+  {
+    "name": "Pac 12 Insider",
+    "link": "https://pac12-roku-us.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Pacific Coast TV HMB Coastside Channel 27",
+    "link": "https://livestream.telvue.com/pacificaca1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Pacific Coast TV MWSD Channel 26",
+    "link": "https://livestream.telvue.com/pacificaca2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
+    "link": "https://pbcmedia.pbcgov.org:1936/live/mp4live.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Palm Beaches TV",
+    "link": "https://live.feed.thepalmbeaches.tv/index.m3u8"
+  },
+  {
+    "name": "Paramount Network East",
+    "link": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8"
+  },
+  {
+    "name": "Pars TV",
+    "link": "https://live20.bozztv.com/dvrfl05/gin-parstv/index.m3u8"
+  },
+  {
+    "name": "Pasco TV (Pasco County FL)",
+    "link": "https://cpcdn.azureedge.net/PASCOCOFLLIVE1/PASCOCOFLLIVE1/playlist.m3u8"
+  },
+  {
+    "name": "Payam-e-Afghan TV",
+    "link": "https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8"
+  },
+  {
+    "name": "Payame Aramesh TV",
+    "link": "https://hls.keshishhamid.live/hls/stream.m3u8"
+  },
+  {
+    "name": "Payvand TV",
+    "link": "https://bozztv.com/cus01/ucur1/Payvand/index.m3u8"
+  },
+  {
+    "name": "PBC Tapesh TV",
+    "link": "https://iptv.tapesh.tv/tapesh/playlist_mid/index.m3u8"
+  },
+  {
+    "name": "PBS Antiques Roadshow",
+    "link": "https://amg02333-pbs-amg02333c8-firetv-us-4239.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "PBS KET KY",
+    "link": "https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8"
+  },
+  {
+    "name": "PBS KET Louisville KY (WKMJ-TV)",
+    "link": "https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8"
+  },
+  {
+    "name": "PBS KET World",
+    "link": "https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8"
+  },
+  {
+    "name": "PBS KET2",
+    "link": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8"
+  },
+  {
+    "name": "PBS Kids",
+    "link": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8"
+  },
+  {
+    "name": "PBS Kids Eastern/Central",
+    "link": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8"
+  },
+  {
+    "name": "PBS MPT Baltimore MD (WMPB)",
+    "link": "https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8"
+  },
+  {
+    "name": "PBS National East",
+    "link": "https://pbs.lls.cdn.pbs.org/est/index.m3u8"
+  },
+  {
+    "name": "PBS Nature",
+    "link": "https://amg02333-pbs-amg02333c11-firetv-us-4242.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "PBS Retro",
+    "link": "https://amg02333-pbs-amg02333c6-firetv-us-4236.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "PBS Sedalia British Columbia MO (KMOS)",
+    "link": "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
+  },
+  {
+    "name": "PeekFlick",
+    "link": "https://streams2.sofast.tv/WiseM3U8_26/sofast/cleanhls/master.m3u8"
+  },
+  {
+    "name": "People are Awesome",
+    "link": "https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Pinole Community Television (PCTV) Channel 26 (Pinole CA)",
+    "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_004/playlist.m3u8"
+  },
+  {
+    "name": "Pinole Community Television (PCTV) Channel 28 (Pinole CA)",
+    "link": "https://cdn3.wowza.com/5/cXdyRHF0Z3kxN0k2/pinole/G0032_002/playlist.m3u8"
+  },
+  {
+    "name": "PIX11",
+    "link": "https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8"
+  },
+  {
+    "name": "PixL TV",
+    "link": "https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07"
+  },
+  {
+    "name": "Placentia TV (Placentia CA)",
+    "link": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/placentia/G0928_002/playlist.m3u8"
+  },
+  {
+    "name": "pocket.watch",
+    "link": "https://pocketwatch-xumo.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Poker Go",
+    "link": "https://apollo.production-public.tubi.io/live/ac-pokergo.m3u8"
+  },
+  {
+    "name": "Poker Night in America",
+    "link": "https://d2njbreu8qyfxo.cloudfront.net/scheduler/scheduleMaster/216.m3u8"
+  },
+  {
+    "name": "Pompano Beach Web Streaming (Pompano Beach FL)",
+    "link": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/pompano/G0765_005/playlist.m3u8"
+  },
+  {
+    "name": "Pop TV",
+    "link": "https://fl3.moveonjoy.com/Pop_TV/index.m3u8"
+  },
+  {
+    "name": "Popstar! TV",
+    "link": "https://linear-10.frequency.stream/dist/stirr/10/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Port St Lucie PSL TV (Port St Lucie FL)",
+    "link": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/psl/G0262_003/playlist.m3u8"
+  },
+  {
+    "name": "Portlandia",
+    "link": "https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Potta-Divine TV USA",
+    "link": "https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8"
+  },
+  {
+    "name": "Poudre School District TV (PSD TV) (Fort Collins CO)",
+    "link": "https://reflect-broadcast-psdschools.cablecast.tv/live-6/live/live.m3u8"
+  },
+  {
+    "name": "Power Rangers",
+    "link": "https://amg00461-eone-amg00461c2-firetv-us-5210.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Property & Reno",
+    "link": "https://linear-476.frequency.stream/dist/glewedtv/476/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Property & Reno",
+    "link": "https://linear-476.frequency.stream/dist/xumo/476/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Property Brothers Channel",
+    "link": "https://apollo.production-public.tubi.io/live/ac-property-brothers.m3u8"
+  },
+  {
+    "name": "PTL Television Network",
+    "link": "https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8"
+  },
+  {
+    "name": "Pursuit Channel",
+    "link": "https://fl3.moveonjoy.com/Pursuit_Channel/index.m3u8"
+  },
+  {
+    "name": "Pursuit UP",
+    "link": "https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "PursuitUP",
+    "link": "https://linear-205.frequency.stream/dist/stirr/205/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "QVC 2",
+    "link": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8"
+  },
+  {
+    "name": "QVC 3",
+    "link": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3us/master.m3u8"
+  },
+  {
+    "name": "QVC Live",
+    "link": "https://a-cdn.klowdtv.com/live2/qvclive_720p/playlist.m3u8"
+  },
+  {
+    "name": "QVC The Big Dish Channel",
+    "link": "https://amg01717-qvc-amg01717c1-stirr-us-2651.playouts.now.amagi.tv/qvc-bigdishdelayed-switcher-localnow/playlist.m3u8"
+  },
+  {
+    "name": "QVC West",
+    "link": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8"
+  },
+  {
+    "name": "Racing America",
+    "link": "https://livetv-fa.tubi.video/racing-america/playlist.m3u8"
+  },
+  {
+    "name": "Radio Javan TV",
+    "link": "https://rjtvhls.wns.live/hls/stream.m3u8"
+  },
+  {
+    "name": "Radio y Televisi\u00f3n Mart\u00ed",
+    "link": "https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8"
+  },
+  {
+    "name": "RadioMensaje TV",
+    "link": "https://eu1.servers10.com:8081/8230/index.m3u8"
+  },
+  {
+    "name": "Real America's Voice",
+    "link": "https://d2jiqiw4g5lj5k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AmericasVoiceChannel-prod/AVSamsung/AVSamsung.m3u8"
+  },
+  {
+    "name": "Real America's Voice (KCKS-LD5)",
+    "link": "https://cdn.igocast.com/channel5_hls/channel5_master.m3u8"
+  },
+  {
+    "name": "Real Crime",
+    "link": "https://d1qznhvm4vjve7.cloudfront.net/playlist.m3u8"
+  },
+  {
+    "name": "Real Disaster Channel",
+    "link": "https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Real Disaster Channel",
+    "link": "https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Real Housewives Vault",
+    "link": "https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Real Wild",
+    "link": "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Real Wild",
+    "link": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8"
+  },
+  {
+    "name": "Red Apple 21 (Fairfax County Public Schools)",
+    "link": "https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8"
+  },
+  {
+    "name": "Redseat The First",
+    "link": "https://a-cdn.klowdtv.com/live2/thefirst_720p/playlist.m3u8"
+  },
+  {
+    "name": "Reelz",
+    "link": "https://fl3.moveonjoy.com/REELZ/index.m3u8"
+  },
+  {
+    "name": "Reelz Famous & Infamous",
+    "link": "https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Retro TV (KCKS-LD9)",
+    "link": "https://cdn.igocast.com/channel9_hls/channel9_master.m3u8"
+  },
+  {
+    "name": "Reuters",
+    "link": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8"
+  },
+  {
+    "name": "Reuters Now",
+    "link": "https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8"
+  },
+  {
+    "name": "Rev'n (KCKS-LD7)",
+    "link": "https://cdn.igocast.com/channel7_hls/channel7_master.m3u8"
+  },
+  {
+    "name": "Revolt",
+    "link": "https://livetv-fa.tubi.video/revolt/playlist.m3u8"
+  },
+  {
+    "name": "Revry 2",
+    "link": "https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Revry Brasil",
+    "link": "https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Revry Her",
+    "link": "https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Revry LatinX",
+    "link": "https://linear-142.frequency.stream/mt/brightcove/142/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Revry News",
+    "link": "https://dcb264a4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5TmV3c19ITFM/playlist.m3u8"
+  },
+  {
+    "name": "Revry News",
+    "link": "https://linear-44.frequency.stream/mt/brightcove/44/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Revry Queer",
+    "link": "https://linear-43.frequency.stream/mt/galxy/43/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "RFD-TV",
+    "link": "https://rfdtv-jw.cdn.vustreams.com/live/7cba1a3b-318a-4097-8492-374478370b91/live.isml/7cba1a3b-318a-4097-8492-374478370b91.m3u8"
+  },
+  {
+    "name": "Ric+",
+    "link": "https://streams2.sofast.tv/WiseM3U8_32/sofast/cleanhls/master.m3u8"
+  },
+  {
+    "name": "Rifle Community TV RCTV (Rifle CO)",
+    "link": "https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Rig TV",
+    "link": "https://buzzr-rigtv-xumo.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "RightNow TV",
+    "link": "https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8"
+  },
+  {
+    "name": "Royal Time Television",
+    "link": "https://tixbolt.com/royaltv/index.fmp4.m3u8"
+  },
+  {
+    "name": "Runtime Espanol",
+    "link": "https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8"
+  },
+  {
+    "name": "RVTV",
+    "link": "https://rvtv-stirr.b-cdn.net/rvtv-on-stirr/playlist.m3u8"
+  },
+  {
+    "name": "Ryan and Friends",
+    "link": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8"
+  },
+  {
+    "name": "Sada-E-Haq TV",
+    "link": "https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8"
+  },
+  {
+    "name": "Salaam TV",
+    "link": "https://live20.bozztv.com/dvrfl05/gin-salamtv/index.m3u8"
+  },
+  {
+    "name": "Salem News Channel",
+    "link": "https://amg00732-salemmediagroup-salemnews-klowdtv-79zyj.amagi.tv/playlist/amg00732-salemmediagroup-salemnews-klowdtv/playlist.m3u8"
+  },
+  {
+    "name": "Salem News Channel",
+    "link": "https://amg00732-salemnewsfast-amg00732c2-xumo-us-1316.playouts.now.amagi.tv/snc-xm/playlist.m3u8"
+  },
+  {
+    "name": "Samuel Goldwyn Classics",
+    "link": "https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Samuel Goldwyn Films",
+    "link": "https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Santa Maria Community Television Education Channel",
+    "link": "https://livestream.telvue.com/santamariactv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Santa Maria Community Television Government Channel",
+    "link": "https://livestream.telvue.com/santamariactv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Santa Maria Community Television Public Access Channel",
+    "link": "https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Santa Monica City TV 20 (Santa Monica CA)",
+    "link": "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/santamonica/G0039_002/playlist.m3u8"
+  },
+  {
+    "name": "Saved by the Bell",
+    "link": "https://xumo-xumoent-vc-111-0pd1g.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "SBN TV",
+    "link": "https://live20.bozztv.com/trn03/gin-sbntv/index.m3u8"
+  },
+  {
+    "name": "SBTN",
+    "link": "https://live20.bozztv.com/dvrfl05/gin-netviet/index.m3u8"
+  },
+  {
+    "name": "SC Currents",
+    "link": "https://reflect-communitytv.cablecast.tv/live-5/live/live.m3u8"
+  },
+  {
+    "name": "Scares by Shudder",
+    "link": "https://amc-scaresbyshudder-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Sci-Fi World",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8"
+  },
+  {
+    "name": "Scientology Network",
+    "link": "https://stream6.scientology.org/master.m3u8"
+  },
+  {
+    "name": "Scripps News",
+    "link": "https://livetv-fa.tubi.video/scripps-news/playlist.m3u8"
+  },
+  {
+    "name": "SCVTV (Santa Clarita CA)",
+    "link": "https://reflect-scvtv.cablecast.tv/live-2/live/live.m3u8"
+  },
+  {
+    "name": "SF Commons Channel 29 (San Francisco CA)",
+    "link": "https://reflect-bayarea.cablecast.tv/live-5/live/live.m3u8"
+  },
+  {
+    "name": "SF Commons Channel 76 (San Francisco CA)",
+    "link": "https://reflect-bayarea.cablecast.tv/live-6/live/live.m3u8"
+  },
+  {
+    "name": "SGTV (Seminole County FL)",
+    "link": "https://live.seminolecountyfl.gov/live-2/live/live.m3u8"
+  },
+  {
+    "name": "Shabakeh 7",
+    "link": "https://t.northtelecom.org/Shabakeh.m3u8"
+  },
+  {
+    "name": "Shaun the Sheep & Friends",
+    "link": "https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8"
+  },
+  {
+    "name": "Shemaroo Bollywood",
+    "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
+  },
+  {
+    "name": "Shop LC",
+    "link": "https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(ott)/master.m3u8"
+  },
+  {
+    "name": "Shop LC (KCKS-LD10)",
+    "link": "https://cdn.igocast.com/channel10_hls/channel10_master.m3u8"
+  },
+  {
+    "name": "Shout! Factory TV",
+    "link": "https://d1e3a0zkn06gu7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkf1jz7l0hork/playlist.m3u8"
+  },
+  {
+    "name": "Showtime 2 East",
+    "link": "https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8"
+  },
+  {
+    "name": "Showtime East",
+    "link": "https://fl3.moveonjoy.com/SHOWTIME/index.m3u8"
+  },
+  {
+    "name": "Showtime Next East",
+    "link": "https://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8"
+  },
+  {
+    "name": "Showtime West",
+    "link": "https://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8"
+  },
+  {
+    "name": "Showtime Women East",
+    "link": "https://fl3.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8"
+  },
+  {
+    "name": "SKWAD",
+    "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71"
+  },
+  {
+    "name": "SLO County Channel 21",
+    "link": "https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8"
+  },
+  {
+    "name": "Smart Healthy Green Living",
+    "link": "https://amg16109-shgliving-amg16109c1-klowdtv-us-2235.playouts.now.amagi.tv/playlist/amg16109-shglivingnetwork-smarthealthygreenliving-klowdtvus/playlist.m3u8"
+  },
+  {
+    "name": "Smithsonian Channel East",
+    "link": "https://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8"
+  },
+  {
+    "name": "SNL Vault",
+    "link": "https://xumo-xumoent-vc-103-d3uqt.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Sony Canal Competencias",
+    "link": "https://spt-competencias-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Sony Canal Novelas",
+    "link": "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
+  },
+  {
+    "name": "Sony Kal",
+    "link": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Sound View Community Media Education",
+    "link": "https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Sound View Community Media Government",
+    "link": "https://livestream.telvue.com/soundviewcmt3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Space Series",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8"
+  },
+  {
+    "name": "Spark TV Luz & Amor",
+    "link": "https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Speed Sport 1",
+    "link": "https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Spirit TV",
+    "link": "https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8"
+  },
+  {
+    "name": "Sport Fishing TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8"
+  },
+  {
+    "name": "Sports First",
+    "link": "https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8"
+  },
+  {
+    "name": "SportsGrid",
+    "link": "https://sportsgrid-plex.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Sportsman Channel",
+    "link": "https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8"
+  },
+  {
+    "name": "SportsNet New York",
+    "link": "https://fl3.moveonjoy.com/SNY/index.m3u8"
+  },
+  {
+    "name": "St. Pete TV (SPTV) (St Petersburg FL)",
+    "link": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/stpete/G0187_003/playlist.m3u8"
+  },
+  {
+    "name": "Start TV",
+    "link": "https://fl3.moveonjoy.com/Start_Tv/index.m3u8"
+  },
+  {
+    "name": "Starz East",
+    "link": "https://fl3.moveonjoy.com/STARZ/index.m3u8"
+  },
+  {
+    "name": "Starz Encore Classic East",
+    "link": "https://fl5.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8"
+  },
+  {
+    "name": "Starz West",
+    "link": "https://fl3.moveonjoy.com/STARZ_WEST/index.m3u8"
+  },
+  {
+    "name": "StashTV Black Stories",
+    "link": "https://amg01720-amg01720c1-klowdtv-us-4664.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvblackstories-klowdtvus/playlist.m3u8"
+  },
+  {
+    "name": "StashTV The Classics",
+    "link": "https://amg01720-amg01720c2-klowdtv-us-4689.playouts.now.amagi.tv/playlist/amg01720-filmhub-stashtvtheclassics-klowdtvus/playlist.m3u8"
+  },
+  {
+    "name": "Stellar TV",
+    "link": "https://d3kddmbw1dqgzz.cloudfront.net/scheduler/scheduleMaster/332.m3u8"
+  },
+  {
+    "name": "Stockton GovTV (Stockton CA)",
+    "link": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/stockton/G0044_008/playlist.m3u8"
+  },
+  {
+    "name": "Stories by AMC",
+    "link": "https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Story Television",
+    "link": "https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8"
+  },
+  {
+    "name": "Strongman",
+    "link": "https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Strongman Champions League",
+    "link": "https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Stryk TV",
+    "link": "https://fffffff110156200.tvustream.com:8298/ryfy.m3u8"
+  },
+  {
+    "name": "SUMtv Latino",
+    "link": "https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8"
+  },
+  {
+    "name": "Sundance TV East",
+    "link": "https://fl3.moveonjoy.com/SUNDANCE/index.m3u8"
+  },
+  {
+    "name": "Super Channel Hearties Canada",
+    "link": "https://apollo.production-public.tubi.io/live/ac-super-channel-hearties-canada.m3u8"
+  },
+  {
+    "name": "Super Channel Uncovered Canada",
+    "link": "https://apollo.production-public.tubi.io/live/ac-super-channel-uncovered-canada.m3u8"
+  },
+  {
+    "name": "Supermarket Sweep",
+    "link": "https://amg00145-buzzr-bigballs-supermarket-rokuus-iqx8g.amagi.tv/playlist/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8"
+  },
+  {
+    "name": "Supermarket Sweep",
+    "link": "https://apollo.production-public.tubi.io/live/ac-supermarket.m3u8"
+  },
+  {
+    "name": "Supermarket Sweep",
+    "link": "https://amg00145-letsplayinc-supermarketswep-xumo-59bvy.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Surfing+",
+    "link": "https://dr4jwhk0sty71.cloudfront.net/scheduler/scheduleMaster/444.m3u8"
+  },
+  {
+    "name": "Swerve Sports",
+    "link": "https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Syfy East",
+    "link": "https://fl3.moveonjoy.com/SYFY/index.m3u8"
+  },
+  {
+    "name": "Talkin Live Classics TV",
+    "link": "https://2-fss-1.streamhoster.com/pl_122/206338-3120682-1/playlist.m3u8"
+  },
+  {
+    "name": "Tampa Bay Communnity Network TBCN (Tampa Bay FL)",
+    "link": "https://reflect-tampa-bay-community.cablecast.tv/live-16/live/live.m3u8"
+  },
+  {
+    "name": "Tastemade",
+    "link": "https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8"
+  },
+  {
+    "name": "Tastemade",
+    "link": "https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8"
+  },
+  {
+    "name": "Tastemade",
+    "link": "https://tastemade-xumo.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Tastemade en Espanol",
+    "link": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Tastemade Home",
+    "link": "https://amg00047-tastemade-amg00047c2-cineverse-us-1357.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadehome-cineverseus/playlist.m3u8"
+  },
+  {
+    "name": "Tastemade Travel",
+    "link": "https://amg00047-tastemade-amg00047c3-cineverse-us-1360.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadetravel-cineverseus/playlist.m3u8"
+  },
+  {
+    "name": "TBD",
+    "link": "https://fast-channels.sinclairstoryline.com/TBD/index.m3u8"
+  },
+  {
+    "name": "TBN Inspire",
+    "link": "https://live20.bozztv.com/dvrfl05/gin-tbninspire/index.m3u8"
+  },
+  {
+    "name": "TBN Pacific",
+    "link": "https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8"
+  },
+  {
+    "name": "TBN \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "link": "https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8"
+  },
+  {
+    "name": "TD Ameritrade Network",
+    "link": "https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8"
+  },
+  {
+    "name": "Team USA",
+    "link": "https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "TeenNick",
+    "link": "https://fl3.moveonjoy.com/Teen_Nick/index.m3u8"
+  },
+  {
+    "name": "Tele Boston",
+    "link": "https://tv2.fastcast4u.com:3238/live/radiotelebostonlive.m3u8"
+  },
+  {
+    "name": "Tele Pam",
+    "link": "https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8"
+  },
+  {
+    "name": "TeleMIX",
+    "link": "https://haititivi.com/haiti/telemix1/index.m3u8"
+  },
+  {
+    "name": "Telemundo Accion",
+    "link": "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Telemundo Corpus Christi",
+    "link": "https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8"
+  },
+  {
+    "name": "Telemundo Noticias Ahora",
+    "link": "https://xumo-xumoent-ch827-uj0ch.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Telemundo Noticias California",
+    "link": "https://amg00884-nbcuniversal-nbctelemundowest-xumo-xc0n5.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Telemundo Noticias Florida",
+    "link": "https://amg00884-nbcuniversal-nbctelemundoflorida-xumo-atn0m.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Telemundo Noticias Noreste",
+    "link": "https://amg00884-nbcuniversal-nbctelemundonortheast-xumo-ok3ha.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Telemundo Noticias Texas",
+    "link": "https://amg00884-nbcuniversal-nbctelemundotexas-xumo-eeb56.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Telemundo Romance",
+    "link": "https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Telemundo West",
+    "link": "https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8?delay=10800"
+  },
+  {
+    "name": "Temecula TV (Temecula CA)",
+    "link": "https://reflect-temecula.cablecast.tv/live-2/live/live.m3u8"
+  },
+  {
+    "name": "Tempe Channel 11",
+    "link": "https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8"
+  },
+  {
+    "name": "Tennis Channel",
+    "link": "https://tennischannelintl-rakuten.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Tennis Channel",
+    "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8"
+  },
+  {
+    "name": "Tensions TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8"
+  },
+  {
+    "name": "Test My Ride",
+    "link": "https://streams2.sofast.tv/sofastplayout/WiseM3U8_21/master.m3u8"
+  },
+  {
+    "name": "Teton Gravity Research",
+    "link": "https://d1ur2fy7sesb3x.cloudfront.net/hls/main.m3u8"
+  },
+  {
+    "name": "Teve Vida Network",
+    "link": "https://5bf8041cb3fed.streamlock.net/Tevevida/Tevevida/.m3u8"
+  },
+  {
+    "name": "The Archive",
+    "link": "https://ov.ottera.tv/live/master.m3u8?channel=mcom_ta_us"
+  },
+  {
+    "name": "The Biggest Loser",
+    "link": "https://apollo.production-public.tubi.io/live/ac-biggest-loser.m3u8"
+  },
+  {
+    "name": "The Conners",
+    "link": "https://aegis-cloudfront-1.tubi.video/b29092cd-e0e1-404f-8d84-f797633e26f4/playlist.m3u8"
+  },
+  {
+    "name": "The Conners",
+    "link": "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Country Network",
+    "link": "https://amg00600-amg00600c1-thecountrynetwork-us-5497.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Cowboy Channel",
+    "link": "https://fl3.moveonjoy.com/Cowboy_Channel/index.m3u8"
+  },
+  {
+    "name": "The Cycling Channel",
+    "link": "https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8"
+  },
+  {
+    "name": "The Design Network",
+    "link": "https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Design Network",
+    "link": "https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Explorers",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8"
+  },
+  {
+    "name": "The First TV",
+    "link": "https://thefirst-oando.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Florida Channel",
+    "link": "https://cdnapisec.kaltura.com/p/2593311/sp/259331100/playManifest/entryId/1_1tqjk60s/protocol/https/format/applehttp/a.m3u8"
+  },
+  {
+    "name": "The Grapevine",
+    "link": "https://ov.ottera.tv/live/master.m3u8?channel=mcom_gv_us"
+  },
+  {
+    "name": "The Grappling Network",
+    "link": "https://d1vwakhda3vp6p.cloudfront.net/scheduler/scheduleMaster/236.m3u8"
+  },
+  {
+    "name": "The Grio (KCKS-LD8)",
+    "link": "https://cdn.igocast.com/channel8_hls/channel8_master.m3u8"
+  },
+  {
+    "name": "The Hill TV",
+    "link": "https://amg01312-cw-amg01312c15-firetv-us-3444.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Jack Hanna Channel",
+    "link": "https://aegis-cloudfront-1.tubi.video/fee88745-76df-428f-ad7e-1766f91e2098/playlist.m3u8"
+  },
+  {
+    "name": "The Jamie Oliver Channel",
+    "link": "https://aegis-cloudfront-1.tubi.video/42a00bda-1716-409e-965f-c11807396025/playlist.m3u8"
+  },
+  {
+    "name": "The Library Channel TV18",
+    "link": "https://reflect-memphis.cablecast.tv/live-2/live/live.m3u8"
+  },
+  {
+    "name": "The Lone Ranger",
+    "link": "https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "The Masked Singer",
+    "link": "https://apollo.production-public.tubi.io/live/ac-masked-singer.m3u8"
+  },
+  {
+    "name": "The Now Network",
+    "link": "https://mediaprod1.nowcast.cc:5443/LiveApp/streams/anZPy7eaVWLyDMZB1697488814699.m3u8"
+  },
+  {
+    "name": "The Pet Collective",
+    "link": "https://the-pet-collective-international-es.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Pet Collective",
+    "link": "https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Pet Collective",
+    "link": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8"
+  },
+  {
+    "name": "The Pet Collective",
+    "link": "https://the-pet-collective-international-nl.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Pet Collective Italy",
+    "link": "https://the-pet-collective-international-it.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Pet Collective Sweden",
+    "link": "https://the-pet-collective-international-se.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Price Is Right: The Barker Era",
+    "link": "https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8"
+  },
+  {
+    "name": "The Walking Dead Universe",
+    "link": "https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "The Wall Street Journal Live",
+    "link": "https://d155hi8td9k2ns.cloudfront.net/out/wapo-medialive3-rtmp/live.m3u8"
+  },
+  {
+    "name": "The Word Network",
+    "link": "https://clouditize.piksel.tech/hls/live/2043070/ClouditizeStream1/playlist.m3u8"
+  },
+  {
+    "name": "The Young Turks",
+    "link": "https://amg01220-amg01220c1-firetv-us-5111.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Thornton Government Access Channel 17 (Thornton CO)",
+    "link": "https://reflect-thornton.cablecast.tv/live-4/live/live.m3u8"
+  },
+  {
+    "name": "Timeline",
+    "link": "https://lds-timeline-plex.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Tin TV",
+    "link": "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8"
+  },
+  {
+    "name": "Tiny House Nation",
+    "link": "https://7e5c93fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1RpbnlIb3VzZU5hdGlvbl9ITFM/playlist.m3u8"
+  },
+  {
+    "name": "TM TV",
+    "link": "https://hls.tmtv.live/hls/stream.m3u8"
+  },
+  {
+    "name": "TMZ",
+    "link": "https://apollo.production-public.tubi.io/live/ac-tmz.m3u8"
+  },
+  {
+    "name": "TNA Wrestling",
+    "link": "https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8"
+  },
+  {
+    "name": "Toon Goggles",
+    "link": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37"
+  },
+  {
+    "name": "Top Chef Vault",
+    "link": "https://xumo-xumoent-vc-116-hrcw0.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Top Gear en Espanol",
+    "link": "https://bbc-topgearenespanol-1-eu.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Top Rank Classics",
+    "link": "https://apollo.production-public.tubi.io/live/ac-top-rank.m3u8"
+  },
+  {
+    "name": "Top Stories by Newsy",
+    "link": "https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8"
+  },
+  {
+    "name": "Torrance CitiCABLE (Torrance CA)",
+    "link": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/torrance/G0057_005/playlist.m3u8"
+  },
+  {
+    "name": "Total Crime",
+    "link": "https://aegis-cloudfront-1.tubi.video/0c770ac6-72a3-4618-aed4-4518a19df0d5/playlist.m3u8"
+  },
+  {
+    "name": "Total Nonstop Action",
+    "link": "https://a-cdn.klowdtv.com/live2/tna_720p/playlist.m3u8"
+  },
+  {
+    "name": "TRACE UK",
+    "link": "https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Tracy Education and Governmental Access Channel (Tracy CA)",
+    "link": "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/tracy-ca/G0950_002/playlist.m3u8"
+  },
+  {
+    "name": "Transformers",
+    "link": "https://amg00461-eone-amg00461c1-firetv-us-5209.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Traverse Area Community Media CommunityTV Channel 189 (Traverse City MI)",
+    "link": "https://reflect-tacm.cablecast.tv/live-3/live/live.m3u8"
+  },
+  {
+    "name": "Tribeca Channel",
+    "link": "https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Trinity Channel",
+    "link": "https://edge66.magictvbox.com/liveApple/trinity/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "True Crime Network+",
+    "link": "https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "True Crime Now",
+    "link": "https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowww-rakutenus/playlist.m3u8"
+  },
+  {
+    "name": "True History",
+    "link": "https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "True History Channel",
+    "link": "https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Trufa",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/728c02aa-8bf4-4711-a911-30c6d1ad8570/manifest.m3u8"
+  },
+  {
+    "name": "Tubi Originals",
+    "link": "https://apollo.production-public.tubi.io/live/tubi-originals.m3u8"
+  },
+  {
+    "name": "TUTV",
+    "link": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "TV Blossom",
+    "link": "https://amg00437-amg00437c3-firetv-us-5409.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "TV One",
+    "link": "https://fl3.moveonjoy.com/TV_ONE/index.m3u8"
+  },
+  {
+    "name": "TV One Crime & Justice",
+    "link": "https://apollo.production-public.tubi.io/live/ac-tv-one.m3u8"
+  },
+  {
+    "name": "TV One Crime & Justice",
+    "link": "https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "TV QUISQUEYA",
+    "link": "https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8"
+  },
+  {
+    "name": "TV4",
+    "link": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/bullheadcity/G0860_002/playlist.m3u8"
+  },
+  {
+    "name": "TV84",
+    "link": "https://cdn20.liveonlineservices.com/hls/tv84.m3u8"
+  },
+  {
+    "name": "TVS Bowling Network",
+    "link": "https://bozztv.com/gusa/gusa-tvsbowling/index.m3u8"
+  },
+  {
+    "name": "TVS Boxing",
+    "link": "https://bozztv.com/gusa/gusa-tvsboxing/index.m3u8"
+  },
+  {
+    "name": "TVS Cipher Network",
+    "link": "https://bozztv.com/gusa/gusa-tvsmystery/index.m3u8"
+  },
+  {
+    "name": "TVS Classic Movies",
+    "link": "https://bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8"
+  },
+  {
+    "name": "TVS Classic Sports",
+    "link": "https://bozztv.com/gusa/gusa-tvs/index.m3u8"
+  },
+  {
+    "name": "TVS Comedy Network",
+    "link": "https://bozztv.com/gusa/gusa-tvscomedy/index.m3u8"
+  },
+  {
+    "name": "TVS Drive In Movie",
+    "link": "https://bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8"
+  },
+  {
+    "name": "TVS Family Channel",
+    "link": "https://bozztv.com/gusa/gusa-TVSFamilyChannel/index.m3u8"
+  },
+  {
+    "name": "TVS Flashback Network",
+    "link": "https://bozztv.com/gusa/gusa-TVSFlashback/index.m3u8"
+  },
+  {
+    "name": "TVS Frontier Network",
+    "link": "https://bozztv.com/gusa/gusa-tvsfrontier/index.m3u8"
+  },
+  {
+    "name": "TVS Hi Tops",
+    "link": "https://bozztv.com/gusa/gusa-hitops/index.m3u8"
+  },
+  {
+    "name": "TVS Hollywood History",
+    "link": "https://bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8"
+  },
+  {
+    "name": "TVS Mainstreet",
+    "link": "https://bozztv.com/gusa/gusa-tvsmainst/index.m3u8"
+  },
+  {
+    "name": "TVS Music Network",
+    "link": "https://bozztv.com/gusa/gusa-tvsmusic/index.m3u8"
+  },
+  {
+    "name": "TVS Nostalgia",
+    "link": "https://bozztv.com/gusa/gusa-nostalgia/index.m3u8"
+  },
+  {
+    "name": "TVS Nostalgia Movies",
+    "link": "https://bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8"
+  },
+  {
+    "name": "TVS Pet Parade Network",
+    "link": "https://bozztv.com/gusa/gusa-petparadenetwork/index.m3u8"
+  },
+  {
+    "name": "TVS Pinball Network",
+    "link": "https://bozztv.com/gusa/gusa-TVSCartoonNetwork/index.m3u8"
+  },
+  {
+    "name": "TVS Quiz Show Network",
+    "link": "https://bozztv.com/gusa/gusa-tvsgameshow/index.m3u8"
+  },
+  {
+    "name": "TVS Select Network",
+    "link": "https://bozztv.com/gusa/gusa-tvsselect/index.m3u8"
+  },
+  {
+    "name": "TVS Sports",
+    "link": "https://bozztv.com/gusa/gusa-tvssports/index.m3u8"
+  },
+  {
+    "name": "TVS Sports Bureau",
+    "link": "https://bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8"
+  },
+  {
+    "name": "TVS Talk Network",
+    "link": "https://bozztv.com/gusa/gusa-TVStalk/index.m3u8"
+  },
+  {
+    "name": "TVS Tally Ho",
+    "link": "https://bozztv.com/gusa/gusa-tvstallyho/index.m3u8"
+  },
+  {
+    "name": "TVS Tavern",
+    "link": "https://bozztv.com/gusa/gusa-tavern/index.m3u8"
+  },
+  {
+    "name": "TVS Television Network",
+    "link": "https://bozztv.com/gusa/gusa-tvstn/index.m3u8"
+  },
+  {
+    "name": "TVS Travel Network",
+    "link": "https://bozztv.com/gusa/gusa-tvstravel/index.m3u8"
+  },
+  {
+    "name": "TVS Turbo",
+    "link": "https://bozztv.com/gusa/gusa-tvsturbo/index.m3u8"
+  },
+  {
+    "name": "TVS Vintage Network",
+    "link": "https://bozztv.com/gusa/gusa-tvsvintage/index.m3u8"
+  },
+  {
+    "name": "TVS Western Movie",
+    "link": "https://bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8"
+  },
+  {
+    "name": "TVS Women Sports",
+    "link": "https://bozztv.com/gusa/gusa-tvswsn/index.m3u8"
+  },
+  {
+    "name": "TVSConsumerDirect",
+    "link": "https://rpn.bozztv.com/gusa/gusa-ConsumerDirect/index.m3u8"
+  },
+  {
+    "name": "UALR TV",
+    "link": "https://vbfast-c.viebit.com/65ea794b-dd82-41ce-8e98-a9177289a063/playlist.m3u8"
+  },
+  {
+    "name": "UCTV University of California",
+    "link": "https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8"
+  },
+  {
+    "name": "UFC",
+    "link": "https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8"
+  },
+  {
+    "name": "UFC",
+    "link": "https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "UN Web TV",
+    "link": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8"
+  },
+  {
+    "name": "Unchained TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6fe3169-15ec-4f33-b16c-c9fc37853d61/manifest.m3u8"
+  },
+  {
+    "name": "Universal Action",
+    "link": "https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Universal Crime",
+    "link": "https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Universal Monsters",
+    "link": "https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Universal Westerns",
+    "link": "https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8"
+  },
+  {
+    "name": "Unsolved Mysteries",
+    "link": "https://livetv-fa.tubi.video/unsolved-mysteries/index.m3u8"
+  },
+  {
+    "name": "Up TV",
+    "link": "https://fl3.moveonjoy.com/Up_Tv/index.m3u8"
+  },
+  {
+    "name": "Urban Action TV",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8"
+  },
+  {
+    "name": "USA Network East",
+    "link": "https://fl3.moveonjoy.com/USA_NETWORK/index.m3u8"
+  },
+  {
+    "name": "USA Today News",
+    "link": "https://usatodaynews-xumo.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Vacaville Channel 26 (Vacaville CA)",
+    "link": "https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/vacaville/G0228_002/playlist.m3u8"
+  },
+  {
+    "name": "Valley Shore Community Television (VSCTV) (Clinton CT)",
+    "link": "https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8"
+  },
+  {
+    "name": "Vevo Latino",
+    "link": "https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Vevo Pop",
+    "link": "https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8"
+  },
+  {
+    "name": "Vice TV",
+    "link": "https://fl3.moveonjoy.com/VICELAND/index.m3u8"
+  },
+  {
+    "name": "Victor Valley Movies",
+    "link": "https://2-fss-2.streamhoster.com/pl_138/201950-5317556-1/playlist.m3u8"
+  },
+  {
+    "name": "Village of Hastings-On-Hudson NY (WHOH-TV)",
+    "link": "https://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8"
+  },
+  {
+    "name": "VOA Persian",
+    "link": "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8"
+  },
+  {
+    "name": "VOA TV Africa",
+    "link": "https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8"
+  },
+  {
+    "name": "Voyages+",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ff8d1526-e572-4bb5-8c93-560eb80115bf/manifest.m3u8"
+  },
+  {
+    "name": "VSiN",
+    "link": "https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8"
+  },
+  {
+    "name": "W14DK-D 14.1 TV Delmarva",
+    "link": "https://2-fss-2.streamhoster.com/pl_118/amlst:204972-1949480/playlist.m3u8"
+  },
+  {
+    "name": "W14DK-D 14.2 NEWSNET",
+    "link": "https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8"
+  },
+  {
+    "name": "W14DK-D 14.5 All Sports Television Network",
+    "link": "https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8"
+  },
+  {
+    "name": "W14DK-D3",
+    "link": "https://2-fss-2.streamhoster.com/pl_118/204972-1954132-1/playlist.m3u8"
+  },
+  {
+    "name": "WABE-DT1",
+    "link": "https://live20.bozztv.com/dvrfl05/gin-peachtree/index.m3u8"
+  },
+  {
+    "name": "WAGA-DT1",
+    "link": "https://live20.bozztv.com/dvrfl05/gin-fox5/index.m3u8"
+  },
+  {
+    "name": "Wanted: Dead or Alive",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wanted-dead-or-alive2.m3u8"
+  },
+  {
+    "name": "Waypoint TV",
+    "link": "https://aegis-cloudfront-1.tubi.video/0831606b-a9dc-4ee9-a381-52b0c9b59b2f/playlist.m3u8"
+  },
+  {
+    "name": "WBBJ (Jackson TN)",
+    "link": "https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8"
+  },
+  {
+    "name": "WBRA PBS Kids",
+    "link": "https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8"
+  },
+  {
+    "name": "WBTV All Together",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-all-together-now.m3u8"
+  },
+  {
+    "name": "WBTV At the Movies",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-at-the-movies.m3u8"
+  },
+  {
+    "name": "WBTV Chasing Criminals",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-chasing-criminals.m3u8"
+  },
+  {
+    "name": "WBTV Classic Cinema",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-classic-cinema.m3u8"
+  },
+  {
+    "name": "WBTV Crime scenes",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-crime-scenes.m3u8"
+  },
+  {
+    "name": "WBTV Family Rules",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-family-rules.m3u8"
+  },
+  {
+    "name": "WBTV Generation Drama",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-generation-drama.m3u8"
+  },
+  {
+    "name": "WBTV HBO Boxing",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8"
+  },
+  {
+    "name": "WBTV How To",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-how-to.m3u8"
+  },
+  {
+    "name": "WBTV In The Garage",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-in-the-garage.m3u8"
+  },
+  {
+    "name": "WBTV Keeping It Real",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-keeping-it-real.m3u8"
+  },
+  {
+    "name": "WBTV Living With Evil",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-living-with-evil.m3u8"
+  },
+  {
+    "name": "WBTV Love and Marriage",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-love-marriage.m3u8"
+  },
+  {
+    "name": "WBTV Mysteries",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-mysteries.m3u8"
+  },
+  {
+    "name": "WBTV Nikita",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-nikita.m3u8"
+  },
+  {
+    "name": "WBTV Paws and Claws",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-paws-claws.m3u8"
+  },
+  {
+    "name": "WBTV Slice of Life",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-slice-life.m3u8"
+  },
+  {
+    "name": "WBTV Supernatural",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-supernatural.m3u8"
+  },
+  {
+    "name": "WBTV Sweet Escapes",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-sweet-escapes.m3u8"
+  },
+  {
+    "name": "WBTV The FBI",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-the-fbi.m3u8"
+  },
+  {
+    "name": "WBTV Travel and Adventure",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-travel-and-adventure.m3u8"
+  },
+  {
+    "name": "WBTV Watchlist",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-watch-list.m3u8"
+  },
+  {
+    "name": "WBTV Welcome Home",
+    "link": "https://apollo.production-public.tubi.io/live/wbd-welcome-home.m3u8"
+  },
+  {
+    "name": "WCOT 13 (Tallahassee FL)",
+    "link": "https://stream.talgov.net/WCOT/smil:WCOT.smil/playlist.m3u8"
+  },
+  {
+    "name": "WDAF-DT1",
+    "link": "https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8"
+  },
+  {
+    "name": "WDAF-DT2",
+    "link": "https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8"
+  },
+  {
+    "name": "We TV East",
+    "link": "https://fl1.moveonjoy.com/WE_TV/index.m3u8"
+  },
+  {
+    "name": "WeatherNation (KCKS-LD6)",
+    "link": "https://cdn.igocast.com/channel6_hls/channel6_master.m3u8"
+  },
+  {
+    "name": "WeatherSpy",
+    "link": "https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8"
+  },
+  {
+    "name": "WeShort",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8"
+  },
+  {
+    "name": "West Hollywood WeHoTV (West Hollywood CA)",
+    "link": "https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8"
+  },
+  {
+    "name": "Westminster WTV Channel (Westminster CA)",
+    "link": "https://cdn3.wowza.com/5/R09KQXpaMWlrRjly/westminsterca/G0571_001/playlist.m3u8"
+  },
+  {
+    "name": "WFMZ Dorney Park Camera",
+    "link": "https://cdn.jaybirdtv.com/wfmz/5/live/master.m3u8"
+  },
+  {
+    "name": "WFMZ PennST camera",
+    "link": "https://cdn.jaybirdtv.com/wfmz/6/live/master.m3u8"
+  },
+  {
+    "name": "WFMZ Traffic",
+    "link": "https://cdn.jaybirdtv.com/wfmz/channel/7/master.m3u8"
+  },
+  {
+    "name": "WFTX News Fort Myers FL",
+    "link": "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8"
+  },
+  {
+    "name": "WGCL-DT1",
+    "link": "https://live20.bozztv.com/dvrfl05/gin-cbs/index.m3u8"
+  },
+  {
+    "name": "WGN Chicago IL (WGN-TV1)",
+    "link": "https://fl3.moveonjoy.com/WGN/index.m3u8"
+  },
+  {
+    "name": "WHBQ-DT1",
+    "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8"
+  },
+  {
+    "name": "WHIO-DT1",
+    "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8"
+  },
+  {
+    "name": "White Plains Community Media",
+    "link": "https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8"
+  },
+  {
+    "name": "Whittier CityTV (Whittier CA)",
+    "link": "https://whittier.cablecast.tv/live/stream-1/live.m3u8"
+  },
+  {
+    "name": "WHSG-DT3",
+    "link": "https://edge66.magictvbox.com/liveApple/smile_of_a_child/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Wild West TV",
+    "link": "https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8"
+  },
+  {
+    "name": "Willow Sports",
+    "link": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Wipeout Xtra",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wipeout-xtra.m3u8"
+  },
+  {
+    "name": "WJAX-DT1",
+    "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8"
+  },
+  {
+    "name": "WJXT News4JAX (Jacksonville FL)",
+    "link": "https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8"
+  },
+  {
+    "name": "WLS ABC 7 News (Chicago IL)",
+    "link": "https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/wls_24x7_news.m3u8"
+  },
+  {
+    "name": "WMOR-TV News Lakeland FL",
+    "link": "https://apollo.production-public.tubi.io/live/ac-wmor.m3u8"
+  },
+  {
+    "name": "WMPT-DT2 (PBS Create)",
+    "link": "https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8"
+  },
+  {
+    "name": "WNBC-DT1",
+    "link": "https://fl1.moveonjoy.com/NBC_EAST/index.m3u8"
+  },
+  {
+    "name": "Wolcott Governmental TV (Wolcott CT)",
+    "link": "https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8"
+  },
+  {
+    "name": "WOLO-DT1 ABC 25 (Columbia SC)",
+    "link": "https://fl1.moveonjoy.com/ABC_EAST/index.m3u8"
+  },
+  {
+    "name": "Women's Sports Network",
+    "link": "https://apollo.production-public.tubi.io/live/ac-fast-studios-womens-sports.m3u8"
+  },
+  {
+    "name": "World Channel",
+    "link": "https://world.lls.pbs.org/index.m3u8"
+  },
+  {
+    "name": "World Fishing Network",
+    "link": "https://fl3.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8"
+  },
+  {
+    "name": "World Harvest TV",
+    "link": "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8"
+  },
+  {
+    "name": "World Poker Tour",
+    "link": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8"
+  },
+  {
+    "name": "World Poker Tour",
+    "link": "https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8"
+  },
+  {
+    "name": "WPS TV",
+    "link": "https://2-fss-2.streamhoster.com/pl_120/amlst:203530-1426406/playlist.m3u8"
+  },
+  {
+    "name": "WPTV News West Palm Beach FL",
+    "link": "https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8"
+  },
+  {
+    "name": "WPVI ABC 6 News (Philadelphia PA)",
+    "link": "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8"
+  },
+  {
+    "name": "WPXI-DT1",
+    "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8"
+  },
+  {
+    "name": "WSB-DT1",
+    "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8"
+  },
+  {
+    "name": "WSB-DT1",
+    "link": "https://live20.bozztv.com/dvrfl05/gin-abc/index.m3u8"
+  },
+  {
+    "name": "WSOC-DT1",
+    "link": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8"
+  },
+  {
+    "name": "WTVD ABC 11 News (Raleigh-Durham NC)",
+    "link": "https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8"
+  },
+  {
+    "name": "WVCU-LP Concord University Radio The Cure 97.7",
+    "link": "https://video1.getstreamhosting.com:1936/8152/8152/playlist.m3u8"
+  },
+  {
+    "name": "WWON TV CH 48",
+    "link": "https://tv2.fastcast4u.com:3943/stream/play.m3u8"
+  },
+  {
+    "name": "Xplore",
+    "link": "https://xlpore-samsungus.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Xtrem Sports",
+    "link": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8"
+  },
+  {
+    "name": "Yahoo! Finance",
+    "link": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8"
+  },
+  {
+    "name": "Yes Network",
+    "link": "https://fl3.moveonjoy.com/YES_NETWORK/index.m3u8"
+  },
+  {
+    "name": "YouDotGov",
+    "link": "https://reflect-communitytv.cablecast.tv/live-3/live/live.m3u8"
+  },
+  {
+    "name": "Young Hollywood",
+    "link": "https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Youtoo America",
+    "link": "https://thegateway.app/YouToo/CueTones/playlist.m3u8"
+  },
+  {
+    "name": "Yu-Gi-Oh! en espanol",
+    "link": "https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8"
+  },
+  {
+    "name": "Yuma AZ CH 72",
+    "link": "https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Yuma AZ CH 73",
+    "link": "https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Zoom TV Kurdish",
+    "link": "https://live.zoomnews.info/live/Zoom_playlist.m3u8"
+  },
+  {
+    "name": "Zoomer TV",
+    "link": "https://d3p8ecnk6t4t73.cloudfront.net/scheduler/scheduleMaster/316.m3u8"
+  }
+]
