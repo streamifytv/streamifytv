@@ -1,0 +1,620 @@
+[
+  {
+    "name": "7 RadioVisione",
+    "link": "https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8"
+  },
+  {
+    "name": "12 TV Parma",
+    "link": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8"
+  },
+  {
+    "name": "51 Radio TV",
+    "link": "https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8"
+  },
+  {
+    "name": "70-80 TV (1080P)",
+    "link": "https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8"
+  },
+  {
+    "name": "A2i TV",
+    "link": "https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8"
+  },
+  {
+    "name": "Adnkronos",
+    "link": "https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8"
+  },
+  {
+    "name": "Alberto Sordi & Co",
+    "link": "https://253cf8b2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1Jpc2F0ZWFsbGl0YWxpYW5hX0hMUw/playlist.m3u8"
+  },
+  {
+    "name": "Alto Adige TV",
+    "link": "https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8"
+  },
+  {
+    "name": "Antenna 2 TV",
+    "link": "https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8"
+  },
+  {
+    "name": "Aurora Arte",
+    "link": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8"
+  },
+  {
+    "name": "Azzurra TV",
+    "link": "https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8"
+  },
+  {
+    "name": "BBC Doctor Who Italy",
+    "link": "https://amg00793-amg00793c17-rakuten-it-5361.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "BBC Drama Italy",
+    "link": "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "BBC Top Gear Italy",
+    "link": "https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Bloomberg TV+ UHD",
+    "link": "https://bloomberg-bloombergtv-1-it.samsung.wurl.tv/manifest/playlist.m3u8"
+  },
+  {
+    "name": "Boing",
+    "link": "https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8"
+  },
+  {
+    "name": "Brividy Cinema",
+    "link": "https://ixmediasrl-serially-1-it.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "CafeTV24",
+    "link": "https://srvx1.selftv.video/cafe/live/playlist.m3u8"
+  },
+  {
+    "name": "Calabria TV",
+    "link": "https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8"
+  },
+  {
+    "name": "Camera dei Deputati (via RR)",
+    "link": "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
+  },
+  {
+    "name": "Canale 2 Altamura",
+    "link": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8"
+  },
+  {
+    "name": "Canale 21 Extra",
+    "link": "https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8"
+  },
+  {
+    "name": "CarinaTV",
+    "link": "https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8"
+  },
+  {
+    "name": "CG Entertainment",
+    "link": "https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "CG Grandi Film",
+    "link": "https://cgentertainment-cgtv-1-it.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Cine Aliens",
+    "link": "https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzX0hMUw/playlist.m3u8"
+  },
+  {
+    "name": "Cine Western",
+    "link": "https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8"
+  },
+  {
+    "name": "Comicità Piccante Movies",
+    "link": "https://7f495636.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0NpbmVtYVNlZ3JldG9fSExT/playlist.m3u8"
+  },
+  {
+    "name": "Company TV",
+    "link": "https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8"
+  },
+  {
+    "name": "Deejay TV",
+    "link": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
+  },
+  {
+    "name": "DI.TV 80",
+    "link": "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8"
+  },
+  {
+    "name": "Elive TV Brescia",
+    "link": "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8"
+  },
+  {
+    "name": "Entella TV",
+    "link": "https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8"
+  },
+  {
+    "name": "Esperia TV",
+    "link": "https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8"
+  },
+  {
+    "name": "Etna Espresso Channel",
+    "link": "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8"
+  },
+  {
+    "name": "èTv Marche",
+    "link": "https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8"
+  },
+  {
+    "name": "èTv Rete 7",
+    "link": "https://live.ipstream.it/etv/etv.stream/playlist.m3u8"
+  },
+  {
+    "name": "Euro TV",
+    "link": "https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8"
+  },
+  {
+    "name": "FIFA+ Italy",
+    "link": "https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8"
+  },
+  {
+    "name": "FM ITALIA",
+    "link": "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8"
+  },
+  {
+    "name": "Giornale Radio TV",
+    "link": "https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8"
+  },
+  {
+    "name": "Giovanni Paolo TV",
+    "link": "https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8"
+  },
+  {
+    "name": "GO-TV Canale 163",
+    "link": "https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Gold TV",
+    "link": "https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8"
+  },
+  {
+    "name": "Gold TV",
+    "link": "https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8"
+  },
+  {
+    "name": "Gold TV Sat",
+    "link": "https://5a1178b42cc03.streamlock.net/goldsat/goldsat/playlist.m3u8"
+  },
+  {
+    "name": "Grjngo Italy",
+    "link": "https://amogonetworx-grjngo-6-it.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Hell's Kitchen Italy",
+    "link": "https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "HorseTV",
+    "link": "https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8"
+  },
+  {
+    "name": "Icaro TV",
+    "link": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8"
+  },
+  {
+    "name": "Inazuma Eleven Go Italy",
+    "link": "https://minerva-pictures-inazumaelevengo-1-it.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Inter TV",
+    "link": "https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8"
+  },
+  {
+    "name": "Italia 2",
+    "link": "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8"
+  },
+  {
+    "name": "Italia 7",
+    "link": "https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8"
+  },
+  {
+    "name": "Italia Channel",
+    "link": "https://stream1.aswifi.it/italiachannel/stream/index.m3u8"
+  },
+  {
+    "name": "Italian Fishing TV",
+    "link": "https://fms.premio.link/fishingtv/playlist.m3u8"
+  },
+  {
+    "name": "Iunior TV",
+    "link": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8"
+  },
+  {
+    "name": "Juwelo Italia",
+    "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/7841/7841_264_live.m3u8"
+  },
+  {
+    "name": "Kiss Kiss Napoli TV",
+    "link": "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8"
+  },
+  {
+    "name": "Kiss Kiss TV",
+    "link": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8"
+  },
+  {
+    "name": "La C TV",
+    "link": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8"
+  },
+  {
+    "name": "La TR3 Marsala",
+    "link": "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8"
+  },
+  {
+    "name": "LA7",
+    "link": "https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8"
+  },
+  {
+    "name": "LaC News 24",
+    "link": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8"
+  },
+  {
+    "name": "Lazio TV",
+    "link": "https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8"
+  },
+  {
+    "name": "Lira TV",
+    "link": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8"
+  },
+  {
+    "name": "Luna TV",
+    "link": "https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8"
+  },
+  {
+    "name": "m2o TV",
+    "link": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8"
+  },
+  {
+    "name": "MadeinBO TV",
+    "link": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8"
+  },
+  {
+    "name": "Maria Vision",
+    "link": "https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8"
+  },
+  {
+    "name": "Mediaset Italia",
+    "link": "https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8"
+  },
+  {
+    "name": "Medjugorje Italia TV",
+    "link": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
+  },
+  {
+    "name": "Minformo TV",
+    "link": "https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8"
+  },
+  {
+    "name": "Mr. Bean Anime Italy",
+    "link": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
+  },
+  {
+    "name": "Nautical Channel",
+    "link": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8"
+  },
+  {
+    "name": "Onda Novara TV",
+    "link": "https://585b674743bbb.streamlock.net/9006/9006/master.m3u8"
+  },
+  {
+    "name": "Onda TV",
+    "link": "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8"
+  },
+  {
+    "name": "Orler TV",
+    "link": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
+  },
+  {
+    "name": "Paci Contemporary Channel",
+    "link": "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8"
+  },
+  {
+    "name": "Peer TV Alto Adige",
+    "link": "https://iptv.peer.biz/live/peertv-it.m3u8"
+  },
+  {
+    "name": "Peer TV South Tyrol",
+    "link": "https://iptv.peer.biz/live/peertv-en.m3u8"
+  },
+  {
+    "name": "Peer TV Südtirol",
+    "link": "https://iptv.peer.biz/live/peertv.m3u8"
+  },
+  {
+    "name": "Prima TV Sicilia",
+    "link": "https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8"
+  },
+  {
+    "name": "PrimaFree",
+    "link": "https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8"
+  },
+  {
+    "name": "PrimAntenna TV",
+    "link": "https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8"
+  },
+  {
+    "name": "Primocanale",
+    "link": "https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8"
+  },
+  {
+    "name": "Promovideo TV",
+    "link": "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8"
+  },
+  {
+    "name": "QSVS: Milanow",
+    "link": null
+  },
+  {
+    "name": "QSVS: Top Calcio 24",
+    "link": null
+  },
+  {
+    "name": "Quarto Canale Flegreo",
+    "link": "https://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8"
+  },
+  {
+    "name": "QVC Italia",
+    "link": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
+  },
+  {
+    "name": "Radio Birikina TV",
+    "link": "https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8"
+  },
+  {
+    "name": "Radio Freccia TV",
+    "link": "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8"
+  },
+  {
+    "name": "Radio Ibiza TV",
+    "link": "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8"
+  },
+  {
+    "name": "Radio Iglesias Sardegna",
+    "link": "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8"
+  },
+  {
+    "name": "Radio Italia Trend",
+    "link": "https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8"
+  },
+  {
+    "name": "Radio Number One",
+    "link": "https://56b50ada2d659.streamlock.net/RN1TV/livestream/playlist.m3u8"
+  },
+  {
+    "name": "Radio Piter Pan TV",
+    "link": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8"
+  },
+  {
+    "name": "Radio Studio Delta TV",
+    "link": "https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8"
+  },
+  {
+    "name": "Radio Taormina Sicilia",
+    "link": "https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8"
+  },
+  {
+    "name": "Radio Zeta TV",
+    "link": "https://streamcdnb1-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8"
+  },
+  {
+    "name": "Rai 1",
+    "link": "https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8"
+  },
+  {
+    "name": "Rai 1 HD",
+    "link": "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8"
+  },
+  {
+    "name": "Rai 2 HD",
+    "link": "https://ilglobotv-live.akamaized.net/channels/RAI2/Live.m3u8"
+  },
+  {
+    "name": "Rai 3",
+    "link": "https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8"
+  },
+  {
+    "name": "Rai 3",
+    "link": "https://ilglobotv-live.akamaized.net/channels/RAI3/Live.m3u8"
+  },
+  {
+    "name": "Rai Italia",
+    "link": "https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8"
+  },
+  {
+    "name": "Rai Italia Americas",
+    "link": "https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAmerica/Live.m3u8"
+  },
+  {
+    "name": "Rai Italia Australia",
+    "link": "https://ilglobotv-live.akamaized.net/channels/RAIItaliaAustralia/Live.m3u8"
+  },
+  {
+    "name": "Rai News 24",
+    "link": "https://ilglobotv-live.akamaized.net/channels/RAINews24/Live.m3u8"
+  },
+  {
+    "name": "Rai World Premium",
+    "link": "https://ilglobotv-live.akamaized.net/channels/RAIPremium/Live.m3u8"
+  },
+  {
+    "name": "Rakuten TV Asian Cinema Italy",
+    "link": "https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8"
+  },
+  {
+    "name": "Rakuten TV Crime Series Italy",
+    "link": "https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/master.m3u8"
+  },
+  {
+    "name": "Rakuten TV Romance Movies Italy",
+    "link": "https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8"
+  },
+  {
+    "name": "Rakuten TV Sci-Fi Italy",
+    "link": "https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8"
+  },
+  {
+    "name": "Rakuten TV Trailers Italy",
+    "link": "https://73e5474be2ae422487b18295a9782482.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-4548/master.m3u8"
+  },
+  {
+    "name": "ReggioTV",
+    "link": "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8"
+  },
+  {
+    "name": "Rete 8",
+    "link": "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8"
+  },
+  {
+    "name": "Rete Biella TV",
+    "link": "https://sb.top-ix.org/retebiella/streaming/playlist.m3u8"
+  },
+  {
+    "name": "Rete Oro",
+    "link": "https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8"
+  },
+  {
+    "name": "Rete TV Italia",
+    "link": "https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8"
+  },
+  {
+    "name": "Retesole Lazio",
+    "link": "https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8"
+  },
+  {
+    "name": "Reteveneta",
+    "link": "https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8"
+  },
+  {
+    "name": "Risate Dal Sud",
+    "link": "https://ixmedia-srl-risatealsud-1-it.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "RTC Quarta Rete",
+    "link": "https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8"
+  },
+  {
+    "name": "RTC Telecalabria",
+    "link": "https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8"
+  },
+  {
+    "name": "RTL 102.5 Best",
+    "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8"
+  },
+  {
+    "name": "RTL 102.5 Bro&Sis",
+    "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8"
+  },
+  {
+    "name": "RTL 102.5 Caliente",
+    "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8"
+  },
+  {
+    "name": "RTL 102.5 Disco",
+    "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8"
+  },
+  {
+    "name": "RTL 102.5 Napulé",
+    "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8"
+  },
+  {
+    "name": "RTL 102.5 Traffic",
+    "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8"
+  },
+  {
+    "name": "RTL 102.5 TV",
+    "link": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8"
+  },
+  {
+    "name": "RTM TV",
+    "link": "https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u8"
+  },
+  {
+    "name": "RTP",
+    "link": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8"
+  },
+  {
+    "name": "RTTR Trento",
+    "link": "https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8"
+  },
+  {
+    "name": "RTV38",
+    "link": "https://streamcdne1-845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8"
+  },
+  {
+    "name": "Senato TV",
+    "link": "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
+  },
+  {
+    "name": "Serially Crime",
+    "link": "https://ixmediasrl-seriallycrime-1-it.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Soap Latino",
+    "link": "https://fast-channels-network-soaplatino-1-it.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Soap Turco",
+    "link": "https://fast-channels-network-soapturco-1-it.rakuten.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "Sophia TV Italy",
+    "link": "https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8"
+  },
+  {
+    "name": "Sport Italia",
+    "link": "https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8"
+  },
+  {
+    "name": "Sportoutdoor.tv",
+    "link": "https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8"
+  },
+  {
+    "name": "ST Europe Channel",
+    "link": "https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8"
+  },
+  {
+    "name": "Stereo 5 TV",
+    "link": "https://stream1.aswifi.it/stereo5/live/index.m3u8"
+  },
+  {
+    "name": "Super TV",
+    "link": "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8"
+  },
+  {
+    "name": "Super!",
+    "link": "https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8"
+  },
+  {
+    "name": "SuperSix Lombardia",
+    "link": "https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8"
+  },
+  {
+    "name": "Teatro TV",
+    "link": "https://m.iostream.it/hls/teatrotv/teatrotv.m3u8"
+  },
+  {
+    "name": "Tele Liguria Sud",
+    "link": "https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8"
+  },
+  {
+    "name": "Tele One 16",
+    "link": "https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8"
+  },
+  {
+    "name": "Tele Quattro",
+    "link": "https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8"
+  },
+  {
+    "name": "TeleArena",
+    "link": "https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8"
+  },
+  {
+    "name": "Telecolor Lombardia",
+    "link": 
