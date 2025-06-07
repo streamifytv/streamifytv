@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Astro Awani",
+    "link": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8"
+  },
+  {
+    "name": "Astro Box Office Thangathirai",
+    "link": "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/playlist.m3u8"
+  },
+  {
+    "name": "Astro Vaanavil",
+    "link": "https://live20.bozztv.com/akamaissh101/ssh101/sungo543/playlist.m3u8"
+  },
+  {
+    "name": "Astro Vinmeen",
+    "link": "https://live20.bozztv.com/akamaissh101/ssh101/sungo544/playlist.m3u8"
+  },
+  {
+    "name": "Berita RTM",
+    "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5"
+  },
+  {
+    "name": "Dunia Sinema",
+    "link": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8"
+  },
+  {
+    "name": "Maah TV",
+    "link": "https://hls.maahtv.live/hls/stream.m3u8"
+  },
+  {
+    "name": "Molek TV",
+    "link": null
+  },
+  {
+    "name": "Okey",
+    "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3"
+  },
+  {
+    "name": "RTM ASEAN",
+    "link": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
+  },
+  {
+    "name": "RTM Parlimen (Dewan Negara)",
+    "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8"
+  },
+  {
+    "name": "RTM Parlimen (Dewan Rakyat)",
+    "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7"
+  },
+  {
+    "name": "SuriaTV",
+    "link": null
+  },
+  {
+    "name": "TV1",
+    "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1"
+  },
+  {
+    "name": "TV2",
+    "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"
+  },
+  {
+    "name": "TV6",
+    "link": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6"
+  }
+]
+Error fetching data:
+{}
