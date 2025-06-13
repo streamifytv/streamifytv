@@ -1,0 +1,233 @@
+#EXTM3U x-tvg-url="@stremify_tv"
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exskysme" tvg-name="Sky Sports Main Event" group-title=": @stremify_tv" tvg-logo="", Sky Sports Main Event
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysme
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exskyscric" tvg-name="Sky Sports Cricket" group-title=": @stremify_tv" tvg-logo=="", Sky Sports Cricket
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyscric
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exskysact" tvg-name="Sky Sports Action" group-title=": @stremify_tv" tvg-logo="", Sky Sports Action
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysact
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exskysgol" tvg-name="Sky Sports Golf" group-title=": @stremify_tv" tvg-logo="", Sky Sports Golf
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysgol
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exskysprem" tvg-name="Sky Sports Premier League" group-title=": @stremify_tv" tvg-logo="", Sky Sports Premier League
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysprem
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exskysfott" tvg-name="Sky Sports Football" group-title=": @stremify_tv" tvg-logo="", Sky Sports Football
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfott
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exskysare" tvg-name="Sky Sports Arena" group-title=": @stremify_tv" tvg-logo="", Sky Sports Arena
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysare
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exskysfor1" tvg-name="Sky Sports F1" group-title=": @stremify_tv" tvg-logo="", Sky Sports F1
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysfor1
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exskysmixx" tvg-name="Sky Sports Mix" group-title=": @stremify_tv" tvg-logo="", Sky Sports Mix
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skysmixx
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exskyspnews" tvg-name="Sky Sports News" group-title=": @stremify_tv" tvg-logo="", Sky Sports News
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skyspnews
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exskystennis" tvg-name="Sky Sports Tennis" group-title=": @stremify_tv" tvg-logo="", Sky Sports Tennis
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=skystennis
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exbbtsp1" tvg-name="TNT Sports 1" group-title=": @stremify_tv" tvg-logo="", TNT Sports 1
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exbbtsp2" tvg-name="TNT Sports 2" group-title=": @stremify_tv" tvg-logo="", TNT Sports 2
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exbbtsp3" tvg-name="TNT Sports 3" group-title=": @stremify_tv" tvg-logo="", TNT Sports 3
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp3
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exbbtespn" tvg-name="TNT Sports 4" group-title=": @stremify_tv" tvg-logo="", TNT Sports 4
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtespn
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exeurosp1" tvg-name="EuroSport 1" group-title=": @stremify_tv" tvg-logo="", EuroSport 1
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=eurosp1
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exeurosp2" tvg-name="EuroSport 2" group-title=": @stremify_tv" tvg-logo="", EuroSport 2
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=eurosp2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="expremieruk" tvg-name="Viaplay Sports 1" group-title=": @stremify_tv" tvg-logo="", Viaplay Sports 1
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=premieruk
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exhdchnl2" tvg-name="Viaplay Sports 2" group-title=": @stremify_tv" tvg-logo="", Viaplay Sports 2
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=hdchnl2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exhdchnl3" tvg-name="Viaplay Sports Xtra" group-title=": @stremify_tv" tvg-logo="", Viaplay Sports Xtra
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=hdchnl3
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exlaligauk" tvg-name="LaLiga Tv" group-title=": @stremify_tv" tvg-logo="", LaLiga Tv
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=laligauk
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsky1nz" tvg-name="Sky Sport 1 NZ" group-title=": @stremify_tv" tvg-logo="", Sky Sport 1 NZ
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky1nz
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsky2nz" tvg-name="Sky Sport 2 NZ" group-title=": @stremify_tv" tvg-logo="", Sky Sport 2 NZ
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky2nz
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsky3nz" tvg-name="Sky Sport 3 NZ" group-title=": @stremify_tv" tvg-logo="", Sky Sport 3 NZ
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky3nz
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsky4nz" tvg-name="Sky Sport 4 NZ" group-title=": @stremify_tv" tvg-logo="", Sky Sport 4 NZ
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky4nz
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsky5nz" tvg-name="Sky Sport 5 NZ" group-title=": @stremify_tv" tvg-logo="", Sky Sport 5 NZ
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky5nz
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsky6nz" tvg-name="Sky Sport 6 NZ" group-title=": @stremify_tv" tvg-logo="", Sky Sport 6 NZ
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky6nz
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsky7nz" tvg-name="Sky Sport 7 NZ" group-title=": @stremify_tv" tvg-logo="", Sky Sport 7 NZ
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky7nz
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsky8nz" tvg-name="Sky Sport 8 NZ" group-title=": @stremify_tv" tvg-logo="", Sky Sport 8 NZ
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky8nz
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsky9nz" tvg-name="Sky Sport 9 NZ" group-title=": @stremify_tv" tvg-logo="", Sky Sport 9 NZ
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky9nz
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsuperfotball" tvg-name="SuperSport Football" group-title=": @stremify_tv" tvg-logo="", SuperSport Football
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=superfotball
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsuperpremier" tvg-name="SuperSport Premier" group-title=": @stremify_tv" tvg-logo="", SuperSport Premier
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=superpremier
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsuperlaliga" tvg-name="SuperSport Laliga" group-title=": @stremify_tv" tvg-logo="", SuperSport Laliga
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=superlaliga
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsupersrugby" tvg-name="SuperSport Rugby" group-title=": @stremify_tv" tvg-logo="", SuperSport Rugby
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=supersrugby
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsupergrandstand" tvg-name="SuperSport Grandstand" group-title=": @stremify_tv" tvg-logo="", SuperSport Grandstand
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=supergrandstand
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsupertennis" tvg-name="SuperSport Tennis" group-title=": @stremify_tv" tvg-logo="", SuperSport Tennis
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=supertennis
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsuperactions" tvg-name="SuperSport Action" group-title=": @stremify_tv" tvg-logo="", SuperSport Action
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=superactions
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsupergolf" tvg-name="SuperSport Golf" group-title=": @stremify_tv" tvg-logo="", SuperSport Golf
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=supergolf
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsupermeximo" tvg-name="SuperSport Maximo" group-title=": @stremify_tv" tvg-logo="", SuperSport Maximo
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=supermeximo
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exfox5022" tvg-name="Fox 502 HD" group-title=": @stremify_tv" tvg-logo="", Fox 502 HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox5022
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exfox503" tvg-name="Fox 503 HD" group-title=": @stremify_tv" tvg-logo="", Fox 503 HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox503
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exfox504" tvg-name="Fox 504 HD" group-title=": @stremify_tv" tvg-logo="", Fox 504 HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox504
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exfox505" tvg-name="Fox 505 HD" group-title=": @stremify_tv" tvg-logo="", Fox 505 HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox505
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exfox506" tvg-name="Fox 506 HD" group-title=": @stremify_tv" tvg-logo="", Fox 506 HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox506
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsuperpsl" tvg-name="SuperSport PSL" group-title=": @stremify_tv" tvg-logo="", SuperSport PSL
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=superpsl
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exwwe" tvg-name="WWE Network" group-title=": @stremify_tv" tvg-logo="", WWE Network
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=wwe
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exptvpk" tvg-name="PTV Sports" group-title=": @stremify_tv" tvg-logo="", PTV Sports
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exstar1in" tvg-name="Star Sports" group-title=": @stremify_tv" tvg-logo="", Star Sports
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exwillowusa" tvg-name="Willow Cricket HD" group-title=": @stremify_tv" tvg-logo="", Willow Cricket HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowusa
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exsupercricket" tvg-name="SuperSport Cricket HD" group-title=": @stremify_tv" tvg-logo="", SuperSport Cricket HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=supercricket
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="extenspk" tvg-name="TEN Sports pk" group-title=": @stremify_tv" tvg-logo="", TEN Sports pk
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=tenspk
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exstarhindi" tvg-name="Star Sports 1 Hindi" group-title=": @stremify_tv" tvg-logo="", Star Sports 1 Hindi
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exwillowextra" tvg-name="Willow Cricket Extra" group-title=": @stremify_tv" tvg-logo="", Willow Cricket Extra
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=willowextra
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exasportshd" tvg-name="A Sports HD" group-title=": @stremify_tv" tvg-logo="", A Sports HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exfox501" tvg-name="Fox Cricket 501 HD" group-title=": @stremify_tv" tvg-logo="", Fox Cricket 501 HD
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=fox501
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exespnusa" tvg-name="ESPN US" group-title=": @stremify_tv" tvg-logo="", ESPN US
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=espnusa
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exespn2" tvg-name="ESPN 2 US" group-title=": @stremify_tv" tvg-logo="", ESPN 2 US
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=espn2
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="exten1hd" tvg-name="Sony Sports" group-title=": @stremify_tv" tvg-logo="", Sony Sports
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ten1hd
