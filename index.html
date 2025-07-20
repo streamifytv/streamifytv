@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Wasi ð‘‡ð‘‰</title>
+  
+  <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
+  <script type='text/javascript' src="https://cdn.jsdelivr.net/npm/afterglowplayer@1/dist/afterglow.min.js"></script>
+
+  <style>
+    .wrap {
+      margin-top: 150px;
+      perspective: 1000px;
+      perspective-origin: 50% 50%;
+      animation: bganim 3s linear 2s infinite;
+    }
+
+    @keyframes bganim {
+      from {
+        background-position: 0px;
+      }
+      to {
+        background-position: 80px;
+      }
+    }
+
+    .cube {
+      margin: 2px;
+      position: relative;
+      height: 50px;
+      width: 50px;
+      transform-style: preserve-3d;
+    }
+
+    .cube div {
+      position: absolute;
+      padding: 0px;
+      box-sizing: border-box;
+      height: 100%;
+      width: 100%;
+      opacity: 50;
+      transition: transform 0.2s ease-in;
+    }
+
+    .front {
+      transform: translateZ(-70px);
+      background-color:#12524B
+    }
+
+    .back {
+      transform: translateZ(-100px) rotateY(180deg);
+      background-color:#12524B
+    }
+
+    .right {
+      transform: rotateY(-270deg) translateX(100px);
+      transform-origin: top right;
+      background-color:#83C6F3
+    }
+
+    .left {
+      transform: rotateY(270deg) translateX(-100px);
+      transform-origin: center left;
+      background-color:#83C6F3
+    }
+
+    .top {
+      transform: rotateX(-270deg) translateY(-100px);
+      transform-origin: top center;
+      background-color:#FC0;
+    }
+
+    .bottom {
+      transform: rotateX(270deg) translateY(100px);
+      transform-origin: bottom center;
+      background-color:#FC0;
+    }
+
+    @keyframes rotate {
+      from {
+        transform: rotateX(0deg) rotateY(0deg);
+      }
+      to {
+        transform: rotateX(360deg) rotateY(360deg);
+      }
+    }
+
+    .cube {
+      animation: rotate 10s infinite linear;
+    }
+
+    html, body {
+      padding: 0;
+      margin: 0;
+      position: relative;
+      background: black;
+    }
+
+    .player-container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: #111;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    }
+
+    .video-wrapper {
+      position: relative;
+      padding-top: 56.25%; /* 16:9 aspect ratio */
+    }
+
+    .afterglow {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    .controls {
+      background: rgba(0,0,0,0.7);
+      padding: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .button-controls {
+      background: rgba(255,255,255,0.2);
+      color: white;
+      border: none;
+      border-radius: 4px;
+      padding: 8px 12px;
+      cursor: pointer;
+      transition: all 0.3s;
+      font-size: 14px;
+    }
+
+    .button-controls:hover {
+      background: rgba(255,255,255,0.4);
+    }
+
+    .button-controls i {
+      margin-right: 5px;
+    }
+
+    .episode-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 10px;
+      padding: 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .episode-btn {
+      background: #222;
+      color: white;
+      border: 1px solid #444;
+      padding: 10px;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all 0.3s;
+      text-align: center;
+    }
+
+    .episode-btn:hover {
+      background: #333;
+      border-color: #666;
+    }
+
+    .episode-btn.active {
+      background: #4ba1d6;
+      border-color: white;
+      font-weight: bold;
+    }
+
+    .title {
+      text-align: center;
+      color: white;
+      margin: 20px 0;
+      font-family: 'Arial', sans-serif;
+    }
+
+    .logo {
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    .logo h1 {
+      color: yellow;
+      font-size: 2.5em;
+      margin-bottom: 5px;
+    }
+
+    .logo h4 {
+      color: #aaa;
+      margin-top: 0;
+    }
+    
+    /* Countdown styles */
+    .countdown-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0,0,0,0.7);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 100;
+      font-size: 5em;
+      color: white;
+      font-weight: bold;
+      text-shadow: 0 0 10px rgba(255,255,255,0.5);
+    }
+  </style>
+</head>
+
+<body>
+<iframe id="hiddenFrame" style="display: none;"></iframe>
+  <div class="player-container">
+    <div class="video-wrapper">
+      <video class="afterglow" 
+              id='videoplayer' 
+              poster="https://bit.ly/wasitvp" 
+              title='Wasi TV Player' 
+              width='16' 
+              height='9' 
+              data-autoresize="fit" 
+              src="https://wasitv-pro.site/dd.php?id=134">
+      </video>
+      <div id="countdownOverlay" class="countdown-overlay" style="display: none;"></div>
+    </div>
+    
+    <div class="controls">
+      <button class="button-controls" onclick="rwd15svideoplayer()">
+        <i class="fas fa-fast-backward"></i>15s
+      </button>
+      <button class="button-controls" onclick="rwd5svideoplayer()">
+        <i class="fas fa-step-backward"></i>5s
+      </button>
+      <button class="button-controls" onclick="playPausevideoplayer()">
+        <i class="fas fa-play" id="playPauseIcon"></i>
+      </button>
+      <button class="button-controls" onclick="afterglow.getPlayer('videoplayer').requestFullscreen()">
+        <i class="fas fa-expand"></i>
+      </button>
+      <button class="button-controls" onclick="fwd5svideoplayer()">
+        5s<i class="fas fa-step-forward"></i>
+      </button>
+      <button class="button-controls" onclick="fwd15svideoplayer()">
+        15s<i class="fas fa-fast-forward"></i>
+      </button>
+      <button class="button-controls" onclick="setVolume(0.5)">
+        <i class="fas fa-volume-up"></i>
+      </button>
+      <button class="button-controls" onclick="muteUnmute()">
+        <i class="fas fa-volume-mute" id="muteIcon" style="display:none;"></i>
+        <i class="fas fa-volume-off" id="unmuteIcon"></i>
+      </button>
+    </div>
+  </div>
+
+  <h2 class="title">Episodes</h2>
+  
+  <div class="episode-list" id="episodeList">
+    <!-- Episodes will be loaded here by JavaScript -->
+  </div>
+
+  <script>
+    // Player controls
+    var videoplayer = document.getElementById("videoplayer");
+    var playPauseIcon = document.getElementById("playPauseIcon");
+    var muteIcon = document.getElementById("muteIcon");
+    var unmuteIcon = document.getElementById("unmuteIcon");
+    var countdownOverlay = document.getElementById("countdownOverlay");
+
+    // Initialize player state
+    videoplayer.addEventListener('play', function() {
+      playPauseIcon.classList.remove('fa-play');
+      playPauseIcon.classList.add('fa-pause');
+    });
+
+    videoplayer.addEventListener('pause', function() {
+      playPauseIcon.classList.remove('fa-pause');
+      playPauseIcon.classList.add('fa-play');
+    });
+
+    function playPausevideoplayer() {
+      if (videoplayer.paused) {
+        videoplayer.play();
+      } else {
+        videoplayer.pause();
+      }
+    }
+
+    function rwd5svideoplayer() { 
+      videoplayer.currentTime = Math.max(0, videoplayer.currentTime - 5); 
+    }
+    
+    function fwd5svideoplayer() { 
+      videoplayer.currentTime = Math.min(videoplayer.duration, videoplayer.currentTime + 5); 
+    }
+    
+    function rwd15svideoplayer() { 
+      videoplayer.currentTime = Math.max(0, videoplayer.currentTime - 15); 
+    }
+    
+    function fwd15svideoplayer() { 
+      videoplayer.currentTime = Math.min(videoplayer.duration, videoplayer.currentTime + 15); 
+    }
+
+    function muteUnmute() {
+      if (videoplayer.muted) {
+        videoplayer.muted = false;
+        muteIcon.style.display = 'none';
+        unmuteIcon.style.display = 'inline';
+      } else {
+        videoplayer.muted = true;
+        muteIcon.style.display = 'inline';
+        unmuteIcon.style.display = 'none';
+      }
+    }
+
+    function setVolume(volume) {
+      videoplayer.volume = volume;
+    }
+
+    // Countdown function
+    function startCountdown(seconds, callback) {
+      countdownOverlay.style.display = 'flex';
+      let counter = seconds;
+      
+      countdownOverlay.textContent = counter;
+      
+      const interval = setInterval(() => {
+        counter--;
+        countdownOverlay.textContent = counter;
+        
+        if (counter <= 0) {
+          clearInterval(interval);
+          countdownOverlay.style.display = 'none';
+          if (typeof callback === 'function') {
+            callback();
+          }
+        }
+      }, 1000);
+    }
+
+    // API integration for episodes
+    const episodeList = document.getElementById('episodeList');
+    
+    // Sample API data - replace with your actual API call
+const episodes = [
+  { id: 1, title: 'Astro cricket', url: 'https://wasitv-pro.site/dd.php?id=370|referer=https://webxhplay.cfd/&origin=https://webxhplay.cfd' }
+
+];
+
+    // Function to load episodes
+    function loadEpisodes() {
+      episodeList.innerHTML = '';
+      
+      episodes.forEach(episode => {
+        const episodeBtn = document.createElement('button');
+        episodeBtn.className = 'episode-btn';
+        episodeBtn.textContent = episode.title;
+        
+        
+          
+          
+                  episodeBtn.onclick = function() {
+          const videoSrc = episode.url;
+            afterglow.getPlayer('videoplayer').pause().currentTime(0).src(videoSrc).play();
+          
+          
+          
+          // Update active state
+          document.querySelectorAll('.episode-btn').forEach(btn => {
+            btn.classList.remove('active');
+          });
+          this.classList.add('active');
+        };
+        
+        episodeList.appendChild(episodeBtn);
+      });
+    }
+
+    // Initialize
+    window.onload = function() {
+      loadEpisodes();
+      
+      // Set first episode as active
+      if (episodes.length > 0) {
+        document.querySelector('.episode-btn').classList.add('active');
+      }
+    };
+  </script>
+</body>
+</html>
