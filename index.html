@@ -237,23 +237,31 @@
       </video>
       <div id="countdownOverlay" class="countdown-overlay" style="display: none;"></div>
     </div>
-    
-
   </div>
   <script>
     // Player controls
     var videoplayer = document.getElementById("videoplayer");
 
-
-
     // Initialize
     window.onload = function() {
         const params = new URLSearchParams(window.location.search);
-  const query = params.get("play") || "";
- const fullURL = `https://wasitv-pro.site/dd.php?id=${query}`;
-afterglow.getPlayer('videoplayer').pause().currentTime(0).src(fullURL).play();
-      // Set first episode as active
-};
+        const query = params.get("play"); // Get the value of the 'play' parameter
+
+        if (query) { // Check if the 'play' query parameter exists
+            const fullURL = `https://wasitv-pro.site/dd.php?id=${query}`;
+            // Get the Afterglow player instance
+            const player = afterglow.getPlayer('videoplayer');
+            
+            player.pause().currentTime(0).src(fullURL); // Set source and reset
+
+            // Attempt to autoplay if the query is present
+            // Note: Browser autoplay policies might prevent this if there's no user interaction
+            player.play().catch(error => {
+                console.log("Autoplay prevented:", error);
+                // Optionally, display a message to the user to manually play the video
+            });
+        }
+    };
   </script>
 </body>
 </html>
