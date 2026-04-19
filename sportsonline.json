@@ -1,1 +1,674 @@
-[{\"name\":\"19Apr 10:00 Superbike: Netherlands GP\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv4.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 11:00 Portimonense x Lusitania FC Lourosa\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 11:30 Cremonese x Torino\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd7.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 11:30 Cremonese x Torino\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 12:00 Ipswich Town x Middlesbrough\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 12:00 Ipswich Town x Middlesbrough\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv3.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 12:30 Schalke 04 x Preußen Münster\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd9.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 12:30 Tennis - ATP World Tour 500: Munchen\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv5.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 14:00 Aston Villa x Sunderland\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 14:00 Aston Villa x Sunderland\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/eleven2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 14:00 Nottingham Forest x Burnley\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 14:00 Nottingham Forest x Burnley\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/eleven3.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 14:00 Everton x Liverpool\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd5.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 14:00 Everton x Liverpool\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/eleven1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 14:00 Everton x Liverpool\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 14:00 Verona x Milan\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd7.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 14:00 Verona x Milan\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br6.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 14:00 Monaco x Auxerre\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd4.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 14:00 Monaco x Auxerre\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv3.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 14:00 Celtic x St. Mirren\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd10.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 14:30 Freiburg x Heidenheim\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd3.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 15:00 Samsunspor x Beşiktaş\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd11.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 15:00 Tennis - ATP World Tour 500: Barcelona\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv5.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 15:00 Internacional x Mirassol\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br3.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 15:30 Arouca x Estrela\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 16:00 AEK Athens x PAOK\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd9.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 16:15 Metz x Paris\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd4.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 16:30 Manchester City x Arsenal\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd5.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 16:30 Manchester City x Arsenal\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 16:30 Manchester City x Arsenal\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 16:30 Manchester City x Arsenal\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/eleven1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 16:30 Manchester City x Arsenal\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 16:30 Bayern München x Stuttgart\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd3.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 16:30 Bayern München x Stuttgart\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/eleven2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 16:30 Bayern München x Stuttgart\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 17:00 Pisa x Genoa\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd8.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 17:00 Pisa x Genoa\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv4.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 17:00 AZ x NEC\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd10.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 17:00 AZ x NEC\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/eleven3.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 18:00 Trabzonspor x İstanbul Başakşehir\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd11.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 18:00 Sporting CP x Benfica\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 18:00 Sporting CP x Benfica\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br6.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 18:00 NBA: Philadelphia 76ers @ Boston Celtics\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv5.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 18:30 Borussia M'gladbach x Mainz 05\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd3.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 18:30 Borussia M'gladbach x Mainz 05\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/eleven2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 19:00 Panathinaikos x Olympiakos Piraeus\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd9.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 19:45 Juventus x Bologna\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd5.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 19:45 Juventus x Bologna\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd7.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 19:45 Juventus x Bologna\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 19:45 PSG x Olympique Lyonnais\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 19:45 PSG x Olympique Lyonnais\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd4.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 19:45 PSG x Olympique Lyonnais\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv4.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 20:00 Olympic Safi x USM Alger\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd11.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 20:00 Santa Fe x Cúcuta Deportivo\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd8.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 20:00 Coritiba x Atlético Mineiro\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br4.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 20:30 Porto x Tondela\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 20:30 Sporting Braga x Famalicão\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv3.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 20:30 NBA: Phoenix Suns @ Oklahoma City Thunder\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 20:30 NBA: Phoenix Suns @ Oklahoma City Thunder\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv5.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 21:00 River Plate x Boca Juniors\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd10.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 21:00 River Plate x Boca Juniors\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd6.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 21:00 River Plate x Boca Juniors\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br6.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 22:00 Goiás x Cuiabá\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 22:10 Alianza x Medellín\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd8.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 22:30 Avica Indy Car: Long Beach - Race\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv4.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 22:30 RB Bragantino x Remo\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br5.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 22:30 Palmeiras x Athletico-PR\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br4.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 23:30 Flamengo x Bahia\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br3.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 23:30 Colo-Colo x Palestino\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd9.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 23:30 NBA: Orlando Magic @ Detroit Pistons\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd5.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 00:00 Novorizontino x Athletic\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br6.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 00:00 Santos Laguna x Atlas\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd11.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 20:00 Santos x Fluminense\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br3.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 00:20 Junior x Llaneros\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd8.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 00:30 Rosario Central x Sarmiento\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd6.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 00:30 Rosario Central x Sarmiento\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 01:45 Huachipato x Audax Italiano\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd9.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 02:00 NBA: Portland Trail Blazers @ San Antonio Spurs\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd5.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"19Apr 02:30 América de Cali x Millonarios\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd8.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 17:15 Vissel Kobe x Al-Ahli\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd10.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 17:15 Vissel Kobe x Al-Ahli\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br6.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 17:45 Club Brugge U19 x Real Madrid U19\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd3.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 17:45 Club Brugge U19 x Real Madrid U19\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd4.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 17:45 Club Brugge U19 x Real Madrid U19\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd6.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 17:45 Club Brugge U19 x Real Madrid U19\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd9.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 17:45 Club Brugge U19 x Real Madrid U19\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/eleven1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 18:00 Gaziantep FK x Kayserispor\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd11.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 19:00 Barracas Central x Belgrano\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd8.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 19:45 Lecce x Fiorentina\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd7.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 19:45 Lecce x Fiorentina\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 19:45 Dunkerque x Laval\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd4.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 20:00 Crystal Palace x West Ham United\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 20:00 Crystal Palace x West Ham United\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/eleven2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 20:00 Crystal Palace x West Ham United\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 21:00 Hockey: Sporting x Benfica\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/eleven1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 21:15 Banfield x Independiente Rivadavia\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd8.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 21:15 Banfield x Independiente Rivadavia\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br6.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 21:15 Central Córdoba SdE x Platense\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd10.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 22:30 São Paulo W x Grêmio W\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 23:30 San Lorenzo x Vélez Sarsfield\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd10.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 23:30 San Lorenzo x Vélez Sarsfield\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 00:20 Once Caldas x Inter Bogotá\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd11.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 01:00 NBA: Atlanta Hawks @ New York Knicks\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 01:00 NBA: Atlanta Hawks @ New York Knicks\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/pt/sporttv2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 01:00 NBA: Atlanta Hawks @ New York Knicks\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br3.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 01:00 Flamengo W x Bahia W\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br1.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 01:30 Universidad Católica x Unión La Calera\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd9.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 01:45 Gimnasia Mendoza x Lanús\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd8.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 01:45 Tigre x Huracán\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd10.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 02:30 Atlético Nacional x Atlético Bucaramanga\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd11.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 03:30 NBA: Minnesota Timberwolves @ Denver Nuggets\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/hd/hd2.php\\\",\\\"type\\\":\\\"embed\\\"}\"},{\"name\":\"20Apr 03:30 NBA: Minnesota Timberwolves @ Denver Nuggets\",\"link\":\"\",\"logo\":\"\",\"api\":\"{\\\"url\\\":\\\"\\\",\\\"api\\\":\\\"https://v3.sportssonline.click/channels/bra/br3.php\\\",\\\"type\\\":\\\"embed\\\"}\"}]
+[
+  {
+    "name": "19Apr 10:00 Superbike: Netherlands GP",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 11:00 Portimonense x Lusitania FC Lourosa",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 11:30 Cremonese x Torino",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd7.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 11:30 Cremonese x Torino",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 12:00 Ipswich Town x Middlesbrough",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 12:00 Ipswich Town x Middlesbrough",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 12:30 Schalke 04 x Preußen Münster",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd9.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 12:30 Tennis - ATP World Tour 500: Munchen",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 14:00 Aston Villa x Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 14:00 Aston Villa x Sunderland",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/eleven2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 14:00 Nottingham Forest x Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 14:00 Nottingham Forest x Burnley",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/eleven3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 14:00 Everton x Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 14:00 Everton x Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/eleven1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 14:00 Everton x Liverpool",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 14:00 Verona x Milan",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd7.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 14:00 Verona x Milan",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 14:00 Monaco x Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 14:00 Monaco x Auxerre",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 14:00 Celtic x St. Mirren",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 14:30 Freiburg x Heidenheim",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 15:00 Samsunspor x Beşiktaş",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd11.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 15:00 Tennis - ATP World Tour 500: Barcelona",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 15:00 Internacional x Mirassol",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 15:30 Arouca x Estrela",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 16:00 AEK Athens x PAOK",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd9.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 16:15 Metz x Paris",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 16:30 Manchester City x Arsenal",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 16:30 Manchester City x Arsenal",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 16:30 Manchester City x Arsenal",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 16:30 Manchester City x Arsenal",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/eleven1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 16:30 Manchester City x Arsenal",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 16:30 Bayern München x Stuttgart",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 16:30 Bayern München x Stuttgart",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/eleven2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 16:30 Bayern München x Stuttgart",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 17:00 Pisa x Genoa",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd8.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 17:00 Pisa x Genoa",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 17:00 AZ x NEC",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 17:00 AZ x NEC",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/eleven3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 18:00 Trabzonspor x İstanbul Başakşehir",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd11.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 18:00 Sporting CP x Benfica",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 18:00 Sporting CP x Benfica",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 18:00 NBA: Philadelphia 76ers @ Boston Celtics",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 18:30 Borussia M'gladbach x Mainz 05",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 18:30 Borussia M'gladbach x Mainz 05",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/eleven2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 19:00 Panathinaikos x Olympiakos Piraeus",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd9.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 19:45 Juventus x Bologna",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 19:45 Juventus x Bologna",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd7.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 19:45 Juventus x Bologna",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 19:45 PSG x Olympique Lyonnais",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 19:45 PSG x Olympique Lyonnais",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 19:45 PSG x Olympique Lyonnais",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 20:00 Olympic Safi x USM Alger",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd11.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 20:00 Santa Fe x Cúcuta Deportivo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd8.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 20:00 Coritiba x Atlético Mineiro",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 20:30 Porto x Tondela",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 20:30 Sporting Braga x Famalicão",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 20:30 NBA: Phoenix Suns @ Oklahoma City Thunder",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 20:30 NBA: Phoenix Suns @ Oklahoma City Thunder",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 21:00 River Plate x Boca Juniors",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 21:00 River Plate x Boca Juniors",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 21:00 River Plate x Boca Juniors",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 22:00 Goiás x Cuiabá",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 22:10 Alianza x Medellín",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd8.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 22:30 Avica Indy Car: Long Beach - Race",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 22:30 RB Bragantino x Remo",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 22:30 Palmeiras x Athletico-PR",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 23:30 Flamengo x Bahia",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 23:30 Colo-Colo x Palestino",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd9.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 23:30 NBA: Orlando Magic @ Detroit Pistons",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 00:00 Novorizontino x Athletic",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 00:00 Santos Laguna x Atlas",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd11.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 20:00 Santos x Fluminense",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 00:20 Junior x Llaneros",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd8.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 00:30 Rosario Central x Sarmiento",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 00:30 Rosario Central x Sarmiento",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 01:45 Huachipato x Audax Italiano",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd9.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 02:00 NBA: Portland Trail Blazers @ San Antonio Spurs",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd5.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "19Apr 02:30 América de Cali x Millonarios",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd8.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 17:15 Vissel Kobe x Al-Ahli",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 17:15 Vissel Kobe x Al-Ahli",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 17:45 Club Brugge U19 x Real Madrid U19",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 17:45 Club Brugge U19 x Real Madrid U19",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 17:45 Club Brugge U19 x Real Madrid U19",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 17:45 Club Brugge U19 x Real Madrid U19",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd9.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 17:45 Club Brugge U19 x Real Madrid U19",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/eleven1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 18:00 Gaziantep FK x Kayserispor",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd11.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 19:00 Barracas Central x Belgrano",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd8.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 19:45 Lecce x Fiorentina",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd7.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 19:45 Lecce x Fiorentina",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 19:45 Dunkerque x Laval",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd4.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 20:00 Crystal Palace x West Ham United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 20:00 Crystal Palace x West Ham United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/eleven2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 20:00 Crystal Palace x West Ham United",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 21:00 Hockey: Sporting x Benfica",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/eleven1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 21:15 Banfield x Independiente Rivadavia",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd8.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 21:15 Banfield x Independiente Rivadavia",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br6.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 21:15 Central Córdoba SdE x Platense",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 22:30 São Paulo W x Grêmio W",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 23:30 San Lorenzo x Vélez Sarsfield",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 23:30 San Lorenzo x Vélez Sarsfield",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 00:20 Once Caldas x Inter Bogotá",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd11.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 01:00 NBA: Atlanta Hawks @ New York Knicks",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 01:00 NBA: Atlanta Hawks @ New York Knicks",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/pt/sporttv2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 01:00 NBA: Atlanta Hawks @ New York Knicks",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br3.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 01:00 Flamengo W x Bahia W",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br1.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 01:30 Universidad Católica x Unión La Calera",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd9.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 01:45 Gimnasia Mendoza x Lanús",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd8.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 01:45 Tigre x Huracán",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd10.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 02:30 Atlético Nacional x Atlético Bucaramanga",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd11.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 03:30 NBA: Minnesota Timberwolves @ Denver Nuggets",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/hd/hd2.php\",\"type\":\"embed\"}"
+  },
+  {
+    "name": "20Apr 03:30 NBA: Minnesota Timberwolves @ Denver Nuggets",
+    "link": "",
+    "logo": "",
+    "api": "{\"url\":\"\",\"api\":\"https://v3.sportssonline.click/channels/bra/br3.php\",\"type\":\"embed\"}"
+  }
+]
