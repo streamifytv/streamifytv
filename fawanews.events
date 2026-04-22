@@ -1,82 +1,147 @@
 [
   {
-    "link": "https://z.zgdyoqa.shop/hls/GNNNQQQQQ.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Pohang vs Anyang",
+    "link": "http://93.123.109.249/hls/jjjjqQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Pafos vs AEL Limassol",
+    "logo": "https://1.bp.blogspot.com/-byTkUREuv60/X0bfuLzFPPI/AAAAAAAABUU/7Itgj_8JQRo3LCXpT2AHdZXSKw7Tjxw7ACLcBGAsYHQ/s474/OIP.jpg"
+  },
+  {
+    "link": "http://93.123.109.249/hls/jjjjqQQQQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Apollon vs APOEL",
+    "logo": "https://1.bp.blogspot.com/-byTkUREuv60/X0bfuLzFPPI/AAAAAAAABUU/7Itgj_8JQRo3LCXpT2AHdZXSKw7Tjxw7ACLcBGAsYHQ/s474/OIP.jpg"
+  },
+  {
+    "link": "http://93.123.109.249/hls/jjjjqQQQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "AEL Larissa vs Kifisia",
+    "logo": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png"
+  },
+  {
+    "link": "http://93.123.109.249/hls/jjjjq.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Panserraikos vs Atromitos",
+    "logo": "https://pbs.twimg.com/profile_images/507081100246519808/ZWpIsC8C_400x400.png"
+  },
+  {
+    "link": "http://93.123.109.249/hls/UPPPZQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Radomlje vs Grosuplje",
+    "logo": "https://pbs.twimg.com/profile_images/1414517889508462600/kxU3TDsE_400x400.jpg"
+  },
+  {
+    "link": "http://93.123.109.249/hls/UPPPZ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Orenburg vs Pari NN",
+    "logo": "https://pbs.twimg.com/profile_images/1545782175299141632/ppDZ15zM_400x400.jpg"
+  },
+  {
+    "link": "http://93.123.109.249/hls/UPPP.m3u8|referer=http://www.fawanews.sc/",
+    "name": "PSG W vs St Etienne W",
+    "logo": "https://pbs.twimg.com/profile_images/1803885629131853824/GmSGiNfO_400x400.jpg"
+  },
+  {
+    "link": "http://93.123.109.249/hls/jjjjqQQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Posusje vs Radnik Bijeljina",
+    "logo": "https://pbs.twimg.com/profile_images/474124902702657536/j0UJNMZa_400x400.jpeg"
+  },
+  {
+    "link": "http://195.178.110.40/hls/UPPPZQQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Lucknow Super Giants vs Rajasthan Royals",
+    "logo": "https://pbs.twimg.com/profile_images/1304292122686713857/lrp_AtSy_400x400.jpg"
+  },
+  {
+    "link": "http://93.123.109.249/hls/vavavaQQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Hyderabad Kingsmen vs Multan Sultans",
+    "logo": "https://pbs.twimg.com/profile_images/2029090914468036608/DSPQyBl2_400x400.jpg"
+  },
+  {
+    "link": "http://93.123.109.249/hls/jjjjqQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Vukovar 1991 vs Gorica",
+    "logo": "https://upload.wikimedia.org/wikipedia/fr/c/c2/Championnat_de_Croatie_de_football_-_Logo.png"
+  },
+  {
+    "link": "http://195.178.110.40/hls/UPPPZQQq.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Simba Queens vs Fountain Gate W",
+    "logo": "https://pbs.twimg.com/profile_images/637495443774140416/Ek5Gmtj2_400x400.jpg"
+  },
+  {
+    "link": "http://93.123.109.249/hls/jjjj.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Termez Surkhon vs Mashal Muborak",
+    "logo": "https://pbs.twimg.com/profile_images/1878090348724965376/THHy_3on_200x200.jpg"
+  },
+  {
+    "link": "http://195.178.110.40/hls/KDDDQQQQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Horse Racing --- CH 1",
+    "logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg"
+  },
+  {
+    "link": "http://195.178.110.40/hls/KDDDQQQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Horse Racing --- CH 2",
+    "logo": "https://pbs.twimg.com/profile_images/1597146257889312773/b_9FkAVp_400x400.jpg"
+  },
+  {
+    "link": "http://93.123.109.249/hls/KFFFQQQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Shanghai Shenhua vs Qingdao Hainiu",
+    "logo": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg"
+  },
+  {
+    "link": "http://93.123.109.249/hls/KFFFQQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Qingdao West Coast vs Henan Songshan Longmen",
+    "logo": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg"
+  },
+  {
+    "link": "http://93.123.109.249/hls/KFFFQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Liaoning Tieren vs Dalian Yingbo",
+    "logo": "https://pbs.twimg.com/profile_images/842689710984253440/CSIVz8iL_400x400.jpg"
+  },
+  {
+    "link": "http://93.123.109.249/hls/KFFF.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Svay Rieng vs Bangkok Utd",
+    "logo": "https://pbs.twimg.com/profile_images/1944943931969372160/fiLGcaCR_400x400.jpg"
+  },
+  {
+    "link": "http://93.123.109.249/hls/KTTTQQQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Pohang vs Gwangju FC",
     "logo": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg"
   },
   {
-    "link": "https://z.zgdyoqa.shop/hls/GNNNQQQQ.m3u8|referer=http://www.fawanews.sc/",
-    "name": "West Coast Eagles vs Fremantle Dockers",
-    "logo": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg"
-  },
-  {
-    "link": "https://z.zgdyoqa.shop/hls/GNNNQQQ.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Nagoya Grampus vs Avispa Fukuoka",
-    "logo": "https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg"
-  },
-  {
-    "link": "https://z.zgdyoqa.shop/hls/NNNN.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Parramatta Eels vs Canterbury Bulldogs",
-    "logo": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg"
-  },
-  {
-    "link": "https://z.zgdyoqa.shop/hls/GNNNQQ.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Gamba Osaka vs Okayama",
-    "logo": "https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg"
-  },
-  {
-    "link": "https://z.zgdyoqa.shop/hls/zgggq.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Adelaide United vs Macarthur FC",
-    "logo": "https://pbs.twimg.com/profile_images/1950704883491061760/RZiel3Mx_400x400.png"
-  },
-  {
-    "link": "https://z.zgdyoqa.shop/hls/zggg.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Melbourne Demons vs Brisbane Lions",
-    "logo": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg"
-  },
-  {
-    "link": "https://z.zgdyoqa.shop/hls/GNNNQ.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Ulsan HD vs Gwangju FC",
+    "link": "http://93.123.109.249/hls/KTTTQQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Daejeon vs Jeju SK",
     "logo": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg"
   },
   {
-    "link": "https://z.zgdyoqa.shop/hls/GNNN.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Mito vs Kashiwa Reysol",
-    "logo": "https://pbs.twimg.com/profile_images/1759899496325275648/ruC-VyVa_400x400.jpg"
+    "link": "http://93.123.109.249/hls/KTTTQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Anyang vs Ulsan HD",
+    "logo": "https://pbs.twimg.com/profile_images/1763114038995849216/nqmsZCnm_400x400.jpg"
   },
   {
-    "link": "https://z.zgdyoqa.shop/hls/NNNN.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Sydney Roosters vs Newcastle Knights",
-    "logo": "https://pbs.twimg.com/profile_images/1543784969306505218/NC_HnTpJ_400x400.jpg"
+    "link": "http://93.123.109.249/hls/UUUU.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Tennis ATP Madrid --- CH 1",
+    "logo": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg"
   },
   {
-    "link": "http://195.178.110.69/hls/EHHHQQ.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Rugby SVNS Hong Kong",
-    "logo": "https://pbs.twimg.com/profile_images/1820397648425209856/1m0K_CQH_400x400.png"
+    "link": "http://93.123.109.249/hls/UUUUQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Tennis ATP Madrid --- CH 2",
+    "logo": "https://pbs.twimg.com/profile_images/1995612160613920768/jdwbOzZi_400x400.jpg"
   },
   {
-    "link": "https://z.zgdyoqa.shop/hls/zgggq.m3u8|referer=http://www.fawanews.sc/",
-    "name": "North Melbourne vs Richmond Tigers",
-    "logo": "https://pbs.twimg.com/profile_images/947267863395495937/RxOUX-F7_400x400.jpg"
+    "link": "http://93.123.109.249/hls/YFFF.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Tennis WTA Madrid --- CH 1",
+    "logo": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg"
   },
   {
-    "link": "https://z.zgdyoqa.shop/hls/zggg.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Auckland FC vs Central Coast Mariners",
-    "logo": "https://pbs.twimg.com/profile_images/1950704883491061760/RZiel3Mx_400x400.png"
+    "link": "http://93.123.109.249/hls/YFFFQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Tennis WTA Madrid --- CH 2",
+    "logo": "https://pbs.twimg.com/profile_images/1988264011935137792/Y_AYbwxg_400x400.jpg"
   },
   {
-    "link": "https://z.zgdyoqa.shop/hls/USSSQQQ.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Club America vs Toluca",
-    "logo": "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg"
+    "link": "http://93.123.109.249/hls/vavavaQQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Karachi Kings vs Peshawar Zalmi",
+    "logo": "https://pbs.twimg.com/profile_images/2029090914468036608/DSPQyBl2_400x400.jpg"
   },
   {
-    "link": "https://z.zgdyoqa.shop/hls/USSSQQ.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Club Leon vs Juarez",
-    "logo": "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg"
+    "link": "http://93.123.109.249/hls/vavavaQ.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Snooker World Championship --- Table 1",
+    "logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg"
   },
   {
-    "link": "https://z.zgdyoqa.shop/hls/USSSQQQQ.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Los Angeles Angels vs San Diego Padres",
-    "logo": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg"
+    "link": "http://93.123.109.249/hls/vavava.m3u8|referer=http://www.fawanews.sc/",
+    "name": "Snooker World Championship --- Table 2",
+    "logo": "https://pbs.twimg.com/profile_images/1818178290231787520/UgacIQ2j_400x400.jpg"
   }
 ]
