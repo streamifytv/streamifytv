@@ -1,4 +1,4 @@
-const demoData = [
+[
   {
     "id": "",
     "match": "Verona x Lecce",
