@@ -152,8 +152,8 @@
             align-items: center;
             gap: 4px;
         }
-        .start-time::before { content: "🕐"; }
-        .end-time::before { content: "⏱️"; }
+        .start-time::before { content: "ð"; }
+        .end-time::before { content: "â±ï¸"; }
 
         /* --- Main Content --- */
         .container { max-width: 800px; margin: 20px auto; padding: 10px; }
@@ -252,7 +252,7 @@
     <!-- Embed Code Section (Bottom) -->
     <div class="embed-section" id="embedSection">
         <div class="embed-header">
-            <span>📋 Embed This Stream on Your Website</span>
+            <span>ð Embed This Stream on Your Website</span>
             <button class="copy-btn" id="copyBtn" onclick="copyEmbedCode()">Copy Code</button>
         </div>
         <div class="embed-code-box" id="embedCodeBox"><iframe src="..." width="100%" height="300" frameborder="0" allowfullscreen></iframe></div>
@@ -278,7 +278,7 @@ const demoData = [
   {
     "id": "",
     "match": "Verona x Lecce",
-    "poster": "",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSosBCcFM7daZg9VWa4-ufugu3cFvOffPMrSCcIdDLsjVH-3rCzXl0rg-4&s=10",
     "starTime": 1777751100000,
     "endTime": 1777758300000,
     "streams": [
@@ -302,7 +302,7 @@ const demoData = [
   {
     "id": "",
     "match": "Atlético Madrid x Athletic Club",
-    "poster": "",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxJryFxjkgTtf-2noIupwYn71UKwPcFYL41aLhWvskzirSkwMnapZeiu8&s=10",
     "starTime": 1777752000000,
     "endTime": 1777759200000,
     "streams": [
@@ -321,7 +321,7 @@ const demoData = [
   {
     "id": "",
     "match": "Málaga x CD Castellon",
-    "poster": "",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUicZ7K5dQ3OLlflsDPKF8gvFjyKLVS38Jxd_StMxlcJrGuRCwmh7Wtft&s=10",
     "starTime": 1777752000000,
     "endTime": 1777759200000,
     "streams": [
@@ -1606,7 +1606,6 @@ const demoData = [
     ]
   }
 ];
-
 let player = null;
 let currentStreamUrl = null;
 let countdownIntervals = {};
@@ -1673,15 +1672,15 @@ function getStatusBadgeHTML(matchId, matchData) {
     switch(status) {
         case 'live':
             badgeClass = 'status-live';
-            badgeText = '🔴 LIVE NOW';
+            badgeText = 'ð´ LIVE NOW';
             break;
         case 'upcoming':
             badgeClass = 'status-upcoming';
-            badgeText = `⏰ ${formatCountdown(startDate)}`;
+            badgeText = `â° ${formatCountdown(startDate)}`;
             break;
         case 'ended':            
             badgeClass = 'status-ended';
-            badgeText = '✓ ENDED';
+            badgeText = 'â ENDED';
             break;
     }
     
@@ -1712,7 +1711,7 @@ function startCountdown(matchId, matchData) {
             const { status, startTime, endTime, startDate } = getMatchStatus(matchData.starTime, matchData.endTime);
             
             if (status === 'upcoming') {
-                badge.textContent = `⏰ ${formatCountdown(startDate)}`;
+                badge.textContent = `â° ${formatCountdown(startDate)}`;
             } else {
                 // Status changed (Live or Ended), update entire badge HTML
                 badge.outerHTML = getStatusBadgeHTML(matchId, matchData);
