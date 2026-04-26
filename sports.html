@@ -1,0 +1,1986 @@
+
+                        <!DOCTYPE html>
+                        <html lang="en">
+                        <head>
+                            <meta charset="UTF-8">
+                            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+              <style>
+                body {
+                  background-color: white; /* Ensure the iframe has a white background */
+                }
+
+                
+              </style>
+                        </head>
+                        <body>
+                            <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Streamify tv</title>
+    <style>
+        /* ... Keep all existing CSS ... */
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', sans-serif; }
+        body { background:#1A1616; min-height: 100vh; padding-top: 380px; color: white; }
+
+        /* --- Navbar with Gradient --- */
+        .navbar {
+            position: fixed; top: 0; left: 0; width: 100%; height: 50px;
+            background: linear-gradient(90deg,#1A1616, rgba(255, 0, 21, 1) 50%, #1A1616 100%);
+            display: flex; align-items: center; justify-content: space-between;
+            padding: 0 0px; z-index: 2000; border-bottom: 1px solid rgba(255,0,21,0.5);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+        }
+        
+        .telegram-btn {
+            background: #0088cc; color: white; border: none; padding: 8px 8px;
+            white-space: nowrap;
+            border-radius: 20px; font-size: 13px; cursor: pointer;
+            display: flex; align-items: center; gap: 10px;
+            transition: 0.3s; text-decoration: none;
+        }
+        .telegram-btn:hover { background: #00aadd; transform: scale(1.05); }
+        .telegram-btn svg { width: 18px; height: 16px; fill: currentColor; }
+
+        /* --- Header & Player Container --- */
+        .iframe-container {
+            position: fixed; top: 50px; left: 0; width: 100%; height: 300px;
+            z-index: 1000; background: #000; border-bottom: 2px solid red;
+            overflow: hidden;
+        }
+
+        /* CSS Carousel Styles */
+        .carousel-track {
+            display: flex; width: 100%; height: 100%;
+            animation: slideShow 20s infinite linear;
+        }
+        .carousel-slide {
+            min-width: 100%; height: 100%; position: relative;
+        }
+        .carousel-slide img {
+            width: 100%; height: 100%; object-fit: cover; opacity: 0.6;
+        }
+        .carousel-overlay {
+            position: absolute; bottom: 20px; left: 20px;            
+            background: rgba(0,0,0,0.7); padding: 5px 15px;
+            border-left: 4px solid red; font-size: 18px; font-weight: bold;
+            pointer-events: none;
+        }
+        .iframe-container:hover .carousel-track { animation-play-state: paused; }
+
+        @keyframes slideShow {
+            0% { transform: translateX(0); }
+            25% { transform: translateX(-100%); }
+            50% { transform: translateX(-200%); }
+            75% { transform: translateX(-300%); }
+            100% { transform: translateX(0); }
+        }
+
+        /* --- Embed Code Section --- */
+        .embed-section {
+            position: fixed; bottom: 0; left: 0; width: 100%;
+            background: linear-gradient(180deg, #1A1616, #0f0d0d);
+            padding: 15px 20px; z-index: 1500;
+            border-top: 2px solid red; display: none;
+        }
+        .embed-section.active { display: block; }
+        .embed-header {
+            display: flex; justify-content: space-between; align-items: center;
+            margin-bottom: 10px; font-size: 14px; font-weight: bold;
+        }
+        .embed-code-box {
+            position: relative; background: #111; border-radius: 6px;
+            padding: 10px 40px 10px 10px; font-size: 11px; color: #0f0;
+            font-family: monospace; overflow-x: auto; white-space: nowrap;
+            border: 1px solid #333;
+        }
+        .copy-btn {
+            position: absolute; top: 8px; right: 8px;
+            background: #444; color: white; border: none;
+            padding: 4px 10px; border-radius: 4px; font-size: 11px;
+            cursor: pointer; transition: 0.2s;
+        }
+        .copy-btn:hover { background: red; }
+        .copy-btn.copied { background: #28a745; }
+
+        /* --- Status Badge Styles --- */
+        .status-badge {
+            display: inline-block;
+            padding: 3px 10px;
+            border-radius: 4px;
+            font-size: 11px;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;            
+            margin-right: 8px;
+            background: #0a0a0a;
+            border: 1px solid #333;
+            min-width: 80px;
+            text-align: center;
+        }
+        .status-live {
+            color: lime; 
+            border-color: lime;
+            box-shadow: 0 0 8px rgba(255, 215, 0, 0.3);
+            animation: pulse 2s infinite;
+        }
+        .status-upcoming {
+            color: #FFD700;
+            border-color: #555;
+        }
+        .status-ended {
+            color: #666;
+            border-color: #333;
+            opacity: 0.7;
+        }
+        @keyframes pulse {
+            0%, 100% { box-shadow: 0 0 8px rgba(255, 215, 0, 0.3); }
+            50% { box-shadow: 0 0 15px rgba(255, 215, 0, 0.6); }
+        }
+
+        /* --- Time Display Styles --- */
+        .time-info {
+            font-size: 11px;
+            color: #aaa;
+            margin-top: 4px;
+            display: flex;
+            gap: 12px;
+        }
+        .time-info span {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+        .start-time::before { content: "🕐"; }
+        .end-time::before { content: "⏱️"; }
+
+        /* --- Main Content --- */
+        .container { max-width: 800px; margin: 20px auto; padding: 10px; }
+
+        .stream-table {
+            width: 100%; border-collapse: collapse; 
+            border-radius: 8px; overflow: hidden; 
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+        }
+
+        .stream-table thead th {
+            background: linear-gradient(90deg,#1A1616, rgba(255, 0, 21, 1) 50%, #1A1616 100%);
+            padding: 12px; text-align: left; font-size: 14px;
+            text-transform: uppercase; letter-spacing: 1px;
+            border-bottom: 1px solid #333;
+        }
+
+        .stream-table td { padding: 10px; text-align: center; border-bottom: 1px solid #222; }
+        
+        .match-row { cursor: pointer; transition: background 0.3s; }
+        .match-row:hover { 
+            background: linear-gradient(90deg,#1A1616, rgba(255, 0, 21, 0.3) 50%, #1A1616 100%);
+        }
+        .match-title { 
+            font-weight: bold; font-size: 14px; text-align: left; padding-left: 15px;            
+            display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+        }
+        .match-name { flex: 1; min-width: 200px; }
+
+        .link-row { background: #222; display: none; }
+        .link-btn {
+            display: inline-block; padding: 8px 15px; background: #333;
+            color: white; text-decoration: none; border-radius: 4px;
+            margin: 5px; font-size: 13px; cursor: pointer; border: 1px solid #444;
+            transition: 0.3s;
+        }
+        .link-btn:hover { background: red; border-color: red; color: white; }
+        .link-btn:disabled { opacity: 0.5; cursor: not-allowed; background: #222; }
+
+        footer { text-align: center; padding: 20px; color: #555; font-size: 12px; }
+    </style>
+    
+    <style>
+/* Container to hide the text when it moves outside the bounds */
+.scroll-container {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 100%; /* Adjust based on your layout */
+}
+
+/* The animated brand element */
+.navbar-brand {
+  display: inline-block;
+  padding-left: 100%; /* Start the text off-screen to the right */
+  animation: scroll-rtl 15s linear infinite; /* Control speed here (15s) */
+}
+
+.navbar-brand span {
+  color:#FFD700; /* Example style for the TV part */
+  font-weight: bold;
+}
+
+/* Animation keyframes */
+@keyframes scroll-rtl {
+  0% {
+    transform: translate(0, 0);
+  }
+  100% {
+    transform: translate(-100%, 0);
+  }
+}
+</style>
+</head>
+<body>
+
+    <!-- Navbar with Telegram Button -->
+    <nav class="navbar">
+        <div class="scroll-container">
+  <div class="navbar-brand">All Streamings Are starting 50-60 mins before match <span>STREAMIFY TV</span></div>
+</div>
+        <a href="https://t.me/streamify_tv" target="_blank" class="telegram-btn">
+            <svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 6.8c-.15 1.58-.8 5.42-1.13 7.19-.14.75-.42 1-.68 1.03-.58.05-1.02-.38-1.58-.75-.88-.58-1.38-.94-2.23-1.5-.99-.65-.35-1.01.22-1.59.15-.15 2.71-2.48 2.76-2.69a.2.2 0 00-.05-.18c-.06-.05-.14-.03-.21-.02-.09.02-1.49.95-4.22 2.79-.4.27-.76.41-1.08.4-.36-.01-1.04-.2-1.55-.37-.63-.2-1.12-.31-1.08-.66.02-.18.27-.36.74-.55 2.92-1.27 4.86-2.11 5.83-2.51 2.78-1.16 3.35-1.36 3.73-1.36.08 0 .27.02.39.12.1.08.13.19.14.27-.01.06.01.24 0 .38z"/></svg>
+            Join Telegram
+        </a>
+    </nav>
+
+    <!-- Iframe / Carousel Container -->
+    <div class="iframe-container" id="playerContainer">
+        <div id="carouselTrack" class="carousel-track"></div>
+        <div id="activePlayerWrapper" style="display:none; width:100%; height:100%; position:absolute; top:0; left:0; background:black;">
+            <div id="clapprPlayer" style="width:100%; height:100%;"></div>
+        </div>
+        <button onclick="closePlayer()" style="position:absolute; top:10px; right:10px; z-index:1001; background:red; color:white; border:none; padding:5px 10px; cursor:pointer; display:none;" id="closeBtn">CLOSE X</button>
+    </div>
+
+    <!-- Embed Code Section (Bottom) -->
+    <div class="embed-section" id="embedSection">
+        <div class="embed-header">
+            <span>📋 Embed This Stream on Your Website</span>
+            <button class="copy-btn" id="copyBtn" onclick="copyEmbedCode()">Copy Code</button>
+        </div>
+        <div class="embed-code-box" id="embedCodeBox"><iframe src="..." width="100%" height="300" frameborder="0" allowfullscreen></iframe></div>
+    </div>
+
+    <div class="container">
+        <table class="stream-table">
+            <thead>
+                <tr><th>Matches & Events</th></tr>            
+            </thead>
+            <tbody id="tableBody"></tbody>
+        </table>
+    </div>
+    
+    <footer><p>Powered by @StreamifyTV</p></footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/clappr/clappr-level-selector-plugin@0.3.0/dist/level-selector.min.js"></script>
+
+<script>
+// Updated JSON with match timing for dynamic status
+const demoData = [
+  {
+    "id": "",
+    "match": "Verona x Lecce",
+    "poster": "",
+    "starTime": 1777751100000,
+    "endTime": 1777758300000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd7.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv2.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 3",
+        "url": "https://v3.sportssonline.click/channels/bra/br2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Atlético Madrid x Athletic Club",
+    "poster": "",
+    "starTime": 1777752000000,
+    "endTime": 1777759200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd6.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/eleven1.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Málaga x CD Castellon",
+    "poster": "",
+    "starTime": 1777752000000,
+    "endTime": 1777759200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fpt%2Feleven2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Ñublense x O'Higgins",
+    "poster": "",
+    "starTime": 1777752000000,
+    "endTime": 1777759200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd11.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Toulouse x Monaco",
+    "poster": "",
+    "starTime": 1777752300000,
+    "endTime": 1777759500000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd4.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv3.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Vitória Guimarães x Rio Ave",
+    "poster": "",
+    "starTime": 1777753800000,
+    "endTime": 1777761000000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fpt%2Fsporttv1.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "NBA: Oklahoma City Thunder @ Phoenix Suns",
+    "poster": "",
+    "starTime": 1777753800000,
+    "endTime": 1777761000000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd3.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/bra/br6.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Estudiantes x Talleres Córdoba",
+    "poster": "",
+    "starTime": 1777755600000,
+    "endTime": 1777762800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd9.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Deportivo Pereira x Atlético Nacional",
+    "poster": "",
+    "starTime": 1777759200000,
+    "endTime": 1777766400000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd8.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Cavalry x Inter Toronto",
+    "poster": "",
+    "starTime": 1777759200000,
+    "endTime": 1777766400000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd5.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Remo x Cruzeiro",
+    "poster": "",
+    "starTime": 1777761000000,
+    "endTime": 1777768200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fbra%2Fbr5.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Bahia x Santos",
+    "poster": "",
+    "starTime": 1777761000000,
+    "endTime": 1777768200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fbra%2Fbr1.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Botafogo x Internacional",
+    "poster": "",
+    "starTime": 1777761000000,
+    "endTime": 1777768200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fbra%2Fbr3.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Universidad Chile x Universidad Católica",
+    "poster": "",
+    "starTime": 1777762800000,
+    "endTime": 1777770000000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd11.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "NBA: New York Knicks @ Atlanta Hawks",
+    "poster": "",
+    "starTime": 1777762800000,
+    "endTime": 1777770000000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd3.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "UFC Fight Night: Prelims",
+    "poster": "",
+    "starTime": 1777762800000,
+    "endTime": 1777770000000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Pachuca x Pumas UNAM",
+    "poster": "",
+    "starTime": 1777680000000,
+    "endTime": 1777687200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd10.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Tigres UANL x Mazatlán",
+    "poster": "",
+    "starTime": 1777680000000,
+    "endTime": 1777687200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd5.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Deportivo Cali x América de Cali",
+    "poster": "",
+    "starTime": 1777680600000,
+    "endTime": 1777687800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd8.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Inter Miami x New England",
+    "poster": "",
+    "starTime": 1777681800000,
+    "endTime": 1777689000000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd1.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "São Paulo x Mirassol",
+    "poster": "",
+    "starTime": 1777683600000,
+    "endTime": 1777690800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fbra%2Fbr4.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "UFC Fight Night: Aljamain Sterling vs Youssef Zalal",
+    "poster": "",
+    "starTime": 1777683600000,
+    "endTime": 1777690800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd2.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv1.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "River Plate x Aldosivi",
+    "poster": "",
+    "starTime": 1777685400000,
+    "endTime": 1777692600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd9.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/bra/br6.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 3",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Toluca x León",
+    "poster": "",
+    "starTime": 1777687200000,
+    "endTime": 1777694400000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd10.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Guadalajara x Tijuana",
+    "poster": "",
+    "starTime": 1777687620000,
+    "endTime": 1777694820000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd5.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Medellín x Fortaleza CEIF",
+    "poster": "",
+    "starTime": 1777689000000,
+    "endTime": 1777696200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd8.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "América x Atlas",
+    "poster": "",
+    "starTime": 1777694400000,
+    "endTime": 1777701600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd10.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Boxing: Joselito Velazquez vs Andres Olivas",
+    "poster": "",
+    "starTime": 1777694400000,
+    "endTime": 1777701600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fbra%2Fbr6.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Moto3: Grand Prix of Spain",
+    "poster": "",
+    "starTime": 1777194000000,
+    "endTime": 1777201200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd5.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv4.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 3",
+        "url": "https://v3.sportssonline.click/channels/bra/br6.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Tennis - ATP World Tour 1000: Madrid",
+    "poster": "",
+    "starTime": 1777197600000,
+    "endTime": 1777204800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fpt%2Fsporttv5.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Lusitania FC Lourosa x Paços de Ferreira",
+    "poster": "",
+    "starTime": 1777201200000,
+    "endTime": 1777208400000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fpt%2Fsporttv1.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Moto2: Grand Prix of Spain",
+    "poster": "",
+    "starTime": 1777201200000,
+    "endTime": 1777208400000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd5.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv4.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 3",
+        "url": "https://v3.sportssonline.click/channels/bra/br6.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Excelsior x Utrecht",
+    "poster": "",
+    "starTime": 1777202100000,
+    "endTime": 1777209300000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd10.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Fiorentina x Sassuolo",
+    "poster": "",
+    "starTime": 1777203000000,
+    "endTime": 1777210200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd7.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv3.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Coventry City x Wrexham",
+    "poster": "",
+    "starTime": 1777204800000,
+    "endTime": 1777212000000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd1.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv2.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 3",
+        "url": "https://v3.sportssonline.click/channels/bra/br2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "MotoGP: Grand Prix of Spain",
+    "poster": "",
+    "starTime": 1777205700000,
+    "endTime": 1777212900000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd5.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv4.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 3",
+        "url": "https://v3.sportssonline.click/channels/bra/br6.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Paderborn x Schalke 04",
+    "poster": "",
+    "starTime": 1777206600000,
+    "endTime": 1777213800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd3.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/eleven2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Rayo Vallecano x Real Sociedad",
+    "poster": "",
+    "starTime": 1777208400000,
+    "endTime": 1777215600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd2.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/hd/hd6.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 3",
+        "url": "https://v3.sportssonline.click/channels/pt/eleven1.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Heracles x Volendam",
+    "poster": "",
+    "starTime": 1777210200000,
+    "endTime": 1777217400000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd11.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Genoa x Como",
+    "poster": "",
+    "starTime": 1777212000000,
+    "endTime": 1777219200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd7.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv3.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Lorient x Strasbourg",
+    "poster": "",
+    "starTime": 1777212000000,
+    "endTime": 1777219200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd5.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/hd/hd4.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Kifisia x Panaitolikos",
+    "poster": "",
+    "starTime": 1777212000000,
+    "endTime": 1777219200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd9.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Stuttgart x Werder Bremen",
+    "poster": "",
+    "starTime": 1777213800000,
+    "endTime": 1777221000000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd3.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/eleven2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Chelsea x Leeds United",
+    "poster": "",
+    "starTime": 1777215600000,
+    "endTime": 1777222800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd1.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv1.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 3",
+        "url": "https://v3.sportssonline.click/channels/bra/br2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Real Oviedo x Elche",
+    "poster": "",
+    "starTime": 1777216500000,
+    "endTime": 1777223700000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd2.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/eleven1.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Arsenal W x OL Lyonnes W",
+    "poster": "",
+    "starTime": 1777217400000,
+    "endTime": 1777224600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd11.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/hd/hd6.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 3",
+        "url": "https://v3.sportssonline.click/channels/bra/br6.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Estoril x Famalicão",
+    "poster": "",
+    "starTime": 1777217400000,
+    "endTime": 1777224600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fpt%2Fsporttv2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Penafiel x Porto B",
+    "poster": "",
+    "starTime": 1777217400000,
+    "endTime": 1777224600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fpt%2Fsporttv4.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Heerenveen x PSV",
+    "poster": "",
+    "starTime": 1777218300000,
+    "endTime": 1777225500000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd10.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Paris x Lille",
+    "poster": "",
+    "starTime": 1777220100000,
+    "endTime": 1777227300000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd5.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/hd/hd4.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Borussia Dortmund x Freiburg",
+    "poster": "",
+    "starTime": 1777221000000,
+    "endTime": 1777228200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd3.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/eleven2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Torino x Internazionale",
+    "poster": "",
+    "starTime": 1777222800000,
+    "endTime": 1777230000000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd8.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv3.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 3",
+        "url": "https://v3.sportssonline.click/channels/bra/br5.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Osasuna x Sevilla",
+    "poster": "",
+    "starTime": 1777224600000,
+    "endTime": 1777231800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd2.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/hd/hd6.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 3",
+        "url": "https://v3.sportssonline.click/channels/pt/eleven1.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Estrela x Porto",
+    "poster": "",
+    "starTime": 1777226400000,
+    "endTime": 1777233600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fpt%2Fsporttv1.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Galatasaray x Fenerbahçe",
+    "poster": "",
+    "starTime": 1777226400000,
+    "endTime": 1777233600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd5.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Santa Clara x Sporting Braga",
+    "poster": "",
+    "starTime": 1777226400000,
+    "endTime": 1777233600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fpt%2Fsporttv4.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Larissa x Panserraikos",
+    "poster": "",
+    "starTime": 1777226400000,
+    "endTime": 1777233600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd9.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "NBA: Cleveland Cavaliers @ Toronto Raptors",
+    "poster": "",
+    "starTime": 1777226400000,
+    "endTime": 1777233600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd11.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Milan x Juventus",
+    "poster": "",
+    "starTime": 1777232700000,
+    "endTime": 1777239900000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd1.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/hd/hd7.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 3",
+        "url": "https://v3.sportssonline.click/channels/pt/sporttv3.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 4",
+        "url": "https://v3.sportssonline.click/channels/bra/br2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Olympique Marseille x Nice",
+    "poster": "",
+    "starTime": 1777232700000,
+    "endTime": 1777239900000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd5.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/hd/hd4.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Villarreal x Celta de Vigo",
+    "poster": "",
+    "starTime": 1777233600000,
+    "endTime": 1777240800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd2.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 2",
+        "url": "https://v3.sportssonline.click/channels/hd/hd3.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 3",
+        "url": "https://v3.sportssonline.click/channels/hd/hd6.php",
+        "type": "embed"
+      },
+      {
+        "name": "server: 4",
+        "url": "https://v3.sportssonline.click/channels/pt/eleven1.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Grêmio x Coritiba",
+    "poster": "",
+    "starTime": 1777233600000,
+    "endTime": 1777240800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fbra%2Fbr4.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Corinthians x Vasco da Gama",
+    "poster": "",
+    "starTime": 1777233600000,
+    "endTime": 1777240800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fbra%2Fbr3.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "AVS x Sporting CP",
+    "poster": "",
+    "starTime": 1777235400000,
+    "endTime": 1777242600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fpt%2Fsporttv2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "NBA: San Antonio Spurs @ Portland Trail Blazers",
+    "poster": "",
+    "starTime": 1777235400000,
+    "endTime": 1777242600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd11.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Belgrano x Gimnasia La Plata",
+    "poster": "",
+    "starTime": 1777239000000,
+    "endTime": 1777246200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd9.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Rionegro Águilas x Once Caldas",
+    "poster": "",
+    "starTime": 1777240800000,
+    "endTime": 1777248000000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd8.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Ceará x Vila Nova",
+    "poster": "",
+    "starTime": 1777240800000,
+    "endTime": 1777248000000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fbra%2Fbr2.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "RB Bragantino x Palmeiras",
+    "poster": "",
+    "starTime": 1777242600000,
+    "endTime": 1777249800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fbra%2Fbr4.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Athletico-PR x Vitória",
+    "poster": "",
+    "starTime": 1777242600000,
+    "endTime": 1777249800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fbra%2Fbr5.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Pacific FC x Forge",
+    "poster": "",
+    "starTime": 1777244400000,
+    "endTime": 1777251600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd5.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Santos Laguna x Monterrey",
+    "poster": "",
+    "starTime": 1777161600000,
+    "endTime": 1777168800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd6.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Atlético Tucumán x Banfield",
+    "poster": "",
+    "starTime": 1777161600000,
+    "endTime": 1777168800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd9.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "NBA: Boston Celtics @ Philadelphia 76ers",
+    "poster": "",
+    "starTime": 1777161600000,
+    "endTime": 1777168800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd10.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Llaneros x Alianza",
+    "poster": "",
+    "starTime": 1777162200000,
+    "endTime": 1777169400000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd8.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Fluminense x Chapecoense",
+    "poster": "",
+    "starTime": 1777163400000,
+    "endTime": 1777170600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fbra%2Fbr3.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Atlético Mineiro x Flamengo",
+    "poster": "",
+    "starTime": 1777163400000,
+    "endTime": 1777170600000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fbra%2Fbr1.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Cruz Azul x Necaxa",
+    "poster": "",
+    "starTime": 1777168800000,
+    "endTime": 1777176000000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd6.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "Inter Bogotá x Boyacá Chicó",
+    "poster": "",
+    "starTime": 1777170000000,
+    "endTime": 1777177200000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd8.php",
+        "type": "embed"
+      }
+    ]
+  },
+  {
+    "id": "",
+    "match": "NBA: Los Angeles Lakers @ Houston Rockets",
+    "poster": "",
+    "starTime": 1777170600000,
+    "endTime": 1777177800000,
+    "streams": [
+      {
+        "name": "server: 1",
+        "url": "https://sportzys.pages.dev/iframe?url=https%3A%2F%2Fv3.sportssonline.click%2Fchannels%2Fhd%2Fhd10.php",
+        "type": "embed"
+      }
+    ]
+  }
+];
+
+let player = null;
+let currentStreamUrl = null;
+let countdownIntervals = {};
+
+/**
+ * Convert Unix timestamp (milliseconds) to readable date time string
+ * Uses JavaScript Date object constructor which accepts timestamps [[4]][[7]]
+ */
+function formatTimestamp(timestamp) {
+    const date = new Date(timestamp);
+    // Get local time formatted
+    return date.toLocaleString('en-US', {
+        weekday: 'short',
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit'
+    });
+}
+
+/**
+ * Get match status based on current time
+ */
+function getMatchStatus(startTime, endTime) {
+    const now = new Date();
+    const start = new Date(startTime);
+    const end = new Date(endTime);
+    
+    if (now < start) {
+        return { status: 'upcoming', startTime, endTime, startDate: start };
+    } else if (now >= start && now <= end) {
+        return { status: 'live' };
+    } else {
+        return { status: 'ended' };
+    }
+}
+
+// Format countdown timer
+function formatCountdown(targetDate) {
+    const now = new Date();
+    const diff = targetDate - now;
+    
+    if (diff <= 0) return "Starting soon...";
+    
+    const hours = Math.floor(diff / (1000 * 60 * 60));
+    const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((diff % (1000 * 60)) / 1000);
+    
+    if (hours > 0) {
+        return `${hours}h ${minutes}m ${seconds}s`;
+    } else if (minutes > 0) {
+        return `${minutes}m ${seconds}s`;
+    } else {
+        return `${seconds}s`;
+    }
+}
+
+// Create status badge HTML STRING to be injected into innerHTML
+function getStatusBadgeHTML(matchId, matchData) {
+    const { status, startTime, endTime, startDate } = getMatchStatus(matchData.starTime, matchData.endTime);
+    let badgeClass, badgeText;
+    
+    switch(status) {
+        case 'live':
+            badgeClass = 'status-live';
+            badgeText = '🔴 LIVE NOW';
+            break;
+        case 'upcoming':
+            badgeClass = 'status-upcoming';
+            badgeText = `⏰ ${formatCountdown(startDate)}`;
+            break;
+        case 'ended':            
+            badgeClass = 'status-ended';
+            badgeText = '✓ ENDED';
+            break;
+    }
+    
+    // Return HTML string with unique ID for updates
+    return `<span class="status-badge ${badgeClass}" id="badge-${matchId}">${badgeText}</span>`;
+}
+
+// Format time info for display
+function getTimeInfoHTML(startTime, endTime) {
+    return `
+        <div class="time-info">
+            <span class="start-time" title="Start Time">START: ${formatTimestamp(startTime)}</span>
+            <span class="end-time" title="End Time">END: ${formatTimestamp(endTime)}</span>
+        </div>
+    `;
+}
+
+// Start countdown timer for upcoming matches
+function startCountdown(matchId, matchData) {
+    // Clear existing interval if any
+    if (countdownIntervals[matchId]) {
+        clearInterval(countdownIntervals[matchId]);
+    }
+    
+    countdownIntervals[matchId] = setInterval(() => {
+        const badge = document.getElementById(`badge-${matchId}`);
+        if (badge) {
+            const { status, startTime, endTime, startDate } = getMatchStatus(matchData.starTime, matchData.endTime);
+            
+            if (status === 'upcoming') {
+                badge.textContent = `⏰ ${formatCountdown(startDate)}`;
+            } else {
+                // Status changed (Live or Ended), update entire badge HTML
+                badge.outerHTML = getStatusBadgeHTML(matchId, matchData);
+                
+                // If it just went LIVE, we might want to refresh the row logic, 
+                // but for now, updating the badge visual is enough.
+                clearInterval(countdownIntervals[matchId]);
+                delete countdownIntervals[matchId];
+            }
+        } else {
+            // Element not found, clear interval
+            clearInterval(countdownIntervals[matchId]);
+            delete countdownIntervals[matchId];
+        }
+    }, 1000);
+}
+
+function loadPlayer(stream, matchName) {
+    const track = document.getElementById("carouselTrack");
+    const wrapper = document.getElementById("activePlayerWrapper");
+    const closeBtn = document.getElementById("closeBtn");
+    const embedSection = document.getElementById("embedSection");
+
+    track.style.display = "none";
+    wrapper.style.display = "block";
+    closeBtn.style.display = "block";
+    embedSection.classList.add("active");
+    const container = document.getElementById("clapprPlayer");
+    if (player) { player.destroy(); player = null; }
+    container.innerHTML = "";
+
+    currentStreamUrl = stream.url;
+    updateEmbedCode(matchName, stream.url, stream.type);
+
+    if (stream.type === "embed") {
+        container.innerHTML = `<iframe src="${stream.url}" style="width:100%;height:100%;border:none;" allowfullscreen></iframe>`;
+    } else {
+        player = new Clappr.Player({
+            source: stream.url,
+            parentId: "#clapprPlayer",
+            plugins: [LevelSelector],
+            width: "100%",
+            height: "100%",
+            autoPlay: true,
+            levelSelectorConfig: {
+                title: 'Quality', labels: { 3: '1080p', 2: '720p', 1: '360p', 0: 'Auto' },
+                labelCallback: function(playbackLevel, customLabel) { return customLabel; }
+            }
+        });
+    }
+}
+
+function updateEmbedCode(matchName, streamUrl, type) {
+    const embedBox = document.getElementById("embedCodeBox");
+    // Get the base URL (stripping fragments and query params)
+    const pageUrl = window.location.href.split('#')[0].split('?')[0];
+    
+    // Encode the streamUrl to Base64
+    const base64Stream = btoa(streamUrl);
+    
+    let embedSrc;
+    if (type === 'embed') {
+        // Option 1: Use the direct encoded stream URL
+        // embedSrc = base64Stream; 
+        
+        // Option 2: Prepend pageUrl if you want the iframe to point back to your site
+        embedSrc = `${pageUrl}?embed=${base64Stream}`;
+    } else {
+        // Standard HLS branch with extra parameters
+        embedSrc = `${pageUrl}?embed=${base64Stream}&type=hls&match=${encodeURIComponent(matchName)}`;
+    }
+    
+    const embedCode = `<iframe src="${embedSrc}" width="100%" height="300" frameborder="0" allowfullscreen scrolling="no"></iframe>`;
+    embedBox.textContent = embedCode;
+}
+
+
+
+function copyEmbedCode() {
+    const codeBox = document.getElementById("embedCodeBox");
+    const copyBtn = document.getElementById("copyBtn");
+    
+    navigator.clipboard.writeText(codeBox.textContent).then(() => {
+        copyBtn.textContent = "Copied!";
+        copyBtn.classList.add("copied");
+        setTimeout(() => {
+            copyBtn.textContent = "Copy Code";
+            copyBtn.classList.remove("copied");
+        }, 2000);
+    }).catch(err => {
+        const textarea = document.createElement("textarea");
+        textarea.value = codeBox.textContent;
+        document.body.appendChild(textarea);
+        textarea.select();        
+        document.execCommand("copy");
+        document.body.removeChild(textarea);
+        copyBtn.textContent = "Copied!";
+        copyBtn.classList.add("copied");
+        setTimeout(() => {
+            copyBtn.textContent = "Copy Code";
+            copyBtn.classList.remove("copied");
+        }, 2000);
+    });
+}
+
+function closePlayer() {
+    const track = document.getElementById("carouselTrack");
+    const wrapper = document.getElementById("activePlayerWrapper");
+    const closeBtn = document.getElementById("closeBtn");
+    const embedSection = document.getElementById("embedSection");
+    
+    if (player) { player.destroy(); player = null; }
+    document.getElementById("clapprPlayer").innerHTML = "";
+    
+    wrapper.style.display = "none";
+    closeBtn.style.display = "none";
+    embedSection.classList.remove("active");
+    track.style.display = "flex";
+    currentStreamUrl = null;
+}
+
+function toggleLinks(id, isEnded) {
+    const row = document.getElementById(id);
+    if (isEnded) return; // Don't allow opening if match ended
+    
+    row.style.display = (row.style.display === "table-row") ? "none" : "table-row";
+}
+
+function initApp(dataArray) {
+    const tableBody = document.getElementById("tableBody");
+    const carouselTrack = document.getElementById("carouselTrack");
+    
+    // Build Carousel
+    let carouselHTML = "";
+    dataArray.forEach(item => {
+        carouselHTML += `<div class="carousel-slide"><img src="${item.poster}" alt="${item.match}"><div class="carousel-overlay">${item.match}</div></div>`;
+    });
+    carouselTrack.innerHTML = carouselHTML;
+
+    // Build Table Rows
+    dataArray.forEach((data, index) => {
+        const uniqueId = `links-${index}`;
+        const { status, startTime, endTime } = getMatchStatus(data.starTime, data.endTime);
+        const isEnded = status === 'ended';        
+        const isUpcoming = status === 'upcoming';
+        
+        const matchRow = document.createElement("tr");
+        matchRow.className = "match-row";
+        
+        // Generate Badge HTML String
+        const badgeHTML = getStatusBadgeHTML(data.id, data);
+        
+        // Get formatted time info
+        const timeInfoHTML = getTimeInfoHTML(data.starTime, data.endTime);
+        
+        // Build match title with badge, name and time info
+        matchRow.innerHTML = `
+            <td class="match-title">
+                ${badgeHTML}
+                <span class="match-name">${data.match}</span>
+                ${timeInfoHTML}
+            </td>
+        `;
+        
+        const linksRow = document.createElement("tr");
+        linksRow.className = "link-row";
+        linksRow.id = uniqueId;
+        const linksCell = document.createElement("td");
+
+        data.streams.forEach(stream => {
+            const btn = document.createElement("span");
+            btn.className = "link-btn";
+            btn.textContent = stream.name;
+            
+            if (isEnded) {
+                btn.style.opacity = "0.5";
+                btn.style.cursor = "not-allowed";
+            } else {
+                btn.onclick = (e) => { 
+                    e.stopPropagation(); 
+                    if (!isEnded) loadPlayer(stream, data.match); 
+                };
+            }
+            linksCell.appendChild(btn);
+        });
+        linksRow.appendChild(linksCell);
+
+        // Row click logic
+        matchRow.onclick = () => {
+            if (isEnded) return; // Do nothing if match ended
+            
+            if (data.streams.length === 1 && !isUpcoming) { 
+                loadPlayer(data.streams[0], data.match); 
+            } else {
+                toggleLinks(uniqueId, isEnded);
+            }
+        };
+        tableBody.appendChild(matchRow);
+        tableBody.appendChild(linksRow);
+
+        // Start countdown if upcoming
+        if (isUpcoming) {
+            startCountdown(data.id, data);
+        }
+    });
+
+    // Handle URL params for embedded player
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get('embed')) {
+        document.querySelector('.container').style.display = 'none';
+        document.querySelector('footer').style.display = 'none';
+        document.body.style.paddingTop = '320px';
+        
+        const embedUrl = atob(urlParams.get('embed'));
+        const type = urlParams.get('type') || 'embed';
+        const match = urlParams.get('match') || 'Live Stream';
+        
+        document.getElementById('carouselTrack').style.display = 'none';
+        document.getElementById('activePlayerWrapper').style.display = 'block';
+        document.getElementById('closeBtn').style.display = 'none';
+        
+        const container = document.getElementById("clapprPlayer");
+        if (type === 'embed') {
+            container.innerHTML = `<iframe src="${embedUrl}" style="width:100%;height:100%;border:none;" allowfullscreen></iframe>`;
+        } else {
+            player = new Clappr.Player({
+                source: embedUrl, parentId: "#clapprPlayer", plugins: [LevelSelector],
+                width: "100%", height: "100%", autoPlay: true
+            });
+        }
+    }
+}
+
+// Cleanup intervals on page unload
+window.addEventListener('beforeunload', () => {
+    Object.values(countdownIntervals).forEach(clearInterval);
+});
+
+// Start App
+initApp(demoData);
+</script>
+</body>
+</html>
+
+
+
+              <script>
+                              // Option A: Simple time only
+function formatTimestamp(timestamp) {
+    return new Date(timestamp).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+}
+
+// Option B: With date
+function formatTimestamp(timestamp) {
+    const d = new Date(timestamp);
+    return d.toLocaleDateString('en-US', {month:'short'}) + ' ' + d.getDate() + ', ' + 
+           d.toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
+}
+
+// Option C: Custom format
+function formatTimestamp(timestamp) {
+    const d = new Date(timestamp);
+    const pad = n => n.toString().padStart(2, '0');
+    return `${d.getFullYear()}-${pad(d.getMonth()+1)}-${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+}
+
+
+              </script>
+                        </body>
+                        </html>
+                    
