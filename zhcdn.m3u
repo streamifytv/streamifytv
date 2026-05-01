@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:-1,My TV Channel
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.common_headers=Xauth=YOUR_ENCODED_TOKEN_HERE&Referer=https://liveon4.zip/&Origin=https://liveon4.zip
+https://zhdcdn3.zip/live/STfa248b00ff3b026.m3u8
