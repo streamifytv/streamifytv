@@ -1,62 +1,147 @@
 [
   {
-    "link": "https://a.yudsawa.shop/hls/FJFJFJ.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Houston Rockets vs Los Angeles Lakers --- CH 1",
+    "name": "Cleveland Cavaliers vs Toronto Raptors --- ENG 1",
+    "link": "http://193.47.62.194/hls/ZUUUU.m3u8|referer=http://www.fawanews.sc/",
     "logo": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg"
   },
   {
-    "link": "http://195.178.110.42/hls/FJFJFJ.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Houston Rockets vs Los Angeles Lakers --- CH 2",
+    "name": "Cleveland Cavaliers vs Toronto Raptors --- ENG 2",
+    "link": "https://b.kaisamm.shop/hls/ZUUUU.m3u8|referer=http://www.fawanews.sc/",
     "logo": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg"
   },
   {
-    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/55815c38-1f03-4864-bcc7-9131f28eb149/master.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Houston Rockets vs Los Angeles Lakers --- HD",
+    "name": "Cleveland Cavaliers vs Toronto Raptors --- ENG HD",
+    "link": "http://195.178.110.70/hls/VHHH.m3u8|referer=http://www.fawanews.sc/",
     "logo": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg"
   },
   {
-    "link": "https://a.yudsawa.shop/hls/UIUIUIV.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Anaheim Ducks vs Edmonton Oilers --- CH 1",
+    "name": "Cleveland Cavaliers vs Toronto Raptors --- RU HD",
+    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/d870c0e8-bd71-4435-b6a9-5db97908ab35/master.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/1803214867228233729/alSR4xbj_400x400.jpg"
+  },
+  {
+    "name": "Colorado Avalanche vs Minnesota Wild --- ENG 1",
+    "link": "http://193.47.62.194/hls/UTTTQQ.m3u8|referer=http://www.fawanews.sc/",
     "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg"
   },
   {
-    "link": "http://195.178.110.42/hls/UIUIUIV.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Anaheim Ducks vs Edmonton Oilers --- CH 2",
+    "name": "Colorado Avalanche vs Minnesota Wild --- ENG 2",
+    "link": "https://b.kaisamm.shop/hls/UTTTQQ.m3u8|referer=http://www.fawanews.sc/",
     "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg"
   },
   {
-    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/2840c6db-6246-4574-9ed2-c804bfec70ea/master.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Anaheim Ducks vs Edmonton Oilers --- CH HD",
+    "name": "Colorado Avalanche vs Minnesota Wild --- ENG HD",
+    "link": "http://195.178.110.62/hls/VHHHT.m3u8|referer=http://www.fawanews.sc/",
     "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg"
   },
   {
-    "link": "https://a.yudsawa.shop/hls/UIUIUI.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Montreal Canadiens vs Tampa Bay Lightning --- CH 1",
+    "name": "Colorado Avalanche vs Minnesota Wild --- RU HD",
+    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/4fcb6e4f-f756-4cc2-8eb9-5b72493795f2/master.m3u8|referer=http://www.fawanews.sc/",
     "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg"
   },
   {
-    "link": "http://195.178.110.42/hls/UIUIUI.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Montreal Canadiens vs Tampa Bay Lightning --- CH 2",
+    "name": "Tampa Bay Lightning vs Montreal Canadiens --- ENG 1",
+    "link": "http://193.47.62.194/hls/UTTTQQ.m3u8|referer=http://www.fawanews.sc/",
     "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg"
   },
   {
-    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/904e0fb2-ccd2-46db-b7d9-67ebdf1ef932/master.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Montreal Canadiens vs Tampa Bay Lightning --- CH HD",
+    "name": "Tampa Bay Lightning vs Montreal Canadiens --- ENG 2",
+    "link": "https://b.kaisamm.shop/hls/UTTTQQ.m3u8|referer=http://www.fawanews.sc/",
     "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg"
   },
   {
-    "link": "https://a.yudsawa.shop/hls/jeee.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Kansas City Royals vs Los Angeles Angels",
+    "name": "Tampa Bay Lightning vs Montreal Canadiens --- ENG HD",
+    "link": "http://195.178.110.62/hls/VHHHT.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg"
+  },
+  {
+    "name": "Tampa Bay Lightning vs Montreal Canadiens --- RU HD",
+    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ba53f20c-7821-4a24-9465-0189c99f687b/master.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/3/3a/05_NHL_Shield.svg"
+  },
+  {
+    "name": "Toluca vs Pachuca",
+    "link": "https://b.kaisamm.shop/hls/DRDRDRQQQQQ.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg"
+  },
+  {
+    "name": "Limache vs OHiggins",
+    "link": "https://b.kaisamm.shop/hls/DRDRDRQQQQ.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/1897743697929740288/9-yBKTUL_400x400.jpg"
+  },
+  {
+    "name": "Mirassol vs Corinthians",
+    "link": "https://b.kaisamm.shop/hls/DRDRDRQQQ.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg"
+  },
+  {
+    "name": "Avai vs Novorizontino",
+    "link": "https://b.kaisamm.shop/hls/DRDRDRQQ.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg"
+  },
+  {
+    "name": "America MG vs CRB",
+    "link": "https://b.kaisamm.shop/hls/DRDRDRQ.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/1394013208701243395/3ocIDVAb_400x400.jpg"
+  },
+  {
+    "name": "Detroit Tigers vs Texas Rangers --- SD",
+    "link": "https://b.kaisamm.shop/hls/DRDRDR.m3u8|referer=http://www.fawanews.sc/",
     "logo": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg"
   },
   {
-    "link": "https://a.yudsawa.shop/hls/HNNNQQQQQ.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Inter Bogot vs Chico",
+    "name": "Detroit Tigers vs Texas Rangers --- HD",
+    "link": "http://195.178.110.52/hls/VHHHTT.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/1979034974964559874/E0AdeiBy_400x400.jpg"
+  },
+  {
+    "name": "Portland W vs Los Angeles Sparks W",
+    "link": "https://b.kaisamm.shop/hls/FYYYYQ.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg"
+  },
+  {
+    "name": "Dallas Wings W vs Las Vegas Aces W",
+    "link": "https://b.kaisamm.shop/hls/FYYYY.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/2043888491394641921/ServdT8c_400x400.jpg"
+  },
+  {
+    "name": "Club America vs UNAM Pumas",
+    "link": "https://b.kaisamm.shop/hls/ccccE.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg"
+  },
+  {
+    "name": "Pacific FC vs Vancouver FC",
+    "link": "https://b.kaisamm.shop/hls/cccc.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/2016143587927326720/Fzdrfm_R_400x400.png"
+  },
+  {
+    "name": "FBC Melgar vs Cajamarca",
+    "link": "https://b.kaisamm.shop/hls/ccccEQQ.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/1334588451149271041/YmG_5CLv_400x400.jpg"
+  },
+  {
+    "name": "Guarani vs Nacional Asuncion",
+    "link": "https://b.kaisamm.shop/hls/ccccEQQQ.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/1748432990076604417/jyScFPVb_400x400.jpg"
+  },
+  {
+    "name": "Albion vs Nacional",
+    "link": "https://b.kaisamm.shop/hls/ccccEQ.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/1909299166997626881/9voDL6wS_400x400.jpg"
+  },
+  {
+    "name": "America De Cali vs Pereira",
+    "link": "https://b.kaisamm.shop/hls/UTTTQ.m3u8|referer=http://www.fawanews.sc/",
     "logo": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg"
   },
   {
-    "link": "https://a.yudsawa.shop/hls/ZNNNQQQQQ.m3u8|referer=http://www.fawanews.sc/",
-    "name": "Cruz Azul vs Necaxa",
-    "logo": "https://pbs.twimg.com/profile_images/1941196531563917312/oCTwaJFB_400x400.jpg"
+    "name": "Junior vs Dep Pasto",
+    "link": "https://b.kaisamm.shop/hls/UTTT.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/1853835653886197760/gHhspsLK_400x400.jpg"
+  },
+  {
+    "name": "Leones del Norte vs Emelec",
+    "link": "https://b.kaisamm.shop/hls/TPPPQQQQ.m3u8|referer=http://www.fawanews.sc/",
+    "logo": "https://pbs.twimg.com/profile_images/2018798676844453888/qC9fH20A_400x400.jpg"
   }
 ]
