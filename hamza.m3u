@@ -1,5 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="",Star Sports 1
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-#EXTVLCOPT:http-origin=https://executeandship.com
-https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=DcMFA2EzOwKvvDWLAuk1Yw&expires=1779001213
+#EXTINF:-1 tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/hum-logo.png",HUM TV
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-origin=
+https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
+#EXTINF:-1 tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/11/arydigital.jpg",ARY DIGITAL
+#EXTVLCOPT:http-referrer=https://live.arydigital.tv/
+#EXTVLCOPT:http-origin=https://live.arydigital.tv
+https://arydigital.aryzap.com/b6bceac2572c49317010b2c004472f40/6a0a9988/v1/0183ea2408f90b8ed5941a38bc72/0183ea24302d0b8ed5941a38bc75/ARYDigitalHDh264_720p.m3u8?uuid=b62c0555-1511-48c7-b589-d55493801555&isSubM3u8=1
