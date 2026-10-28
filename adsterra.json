@@ -1,0 +1,17 @@
+{
+  "ads": {
+    "banner": {
+      "enabled": true,
+      "type": "banner",
+      "key": "YOUR_ADSTERRA_BANNER_KEY",
+      "width": 320,
+      "height": 50
+    },
+    "smartlink": {
+      "enabled": true,
+      "url": "https://YOUR_ADSTERRA_SMARTLINK",
+      "redirect_enabled": true,
+      "delay": 10
+    }
+  }
+}
