@@ -5,13 +5,13 @@
       "type": "banner",
       "key": "55f0554970d88cd5679e323de16846f3",
       "width": 320,
-      "height": 60
+      "height": 50
     },
     "smartlink": {
       "enabled": true,
-      "url": "https://YOUR_ADSTERRA_SMARTLINK",
+      "url": "https://asiafilm.org/4/8888cb5179f411fb22a208d43bfc157c",
       "redirect_enabled": true,
-      "delay": 10
+      "delay": 30
     }
   }
 }
